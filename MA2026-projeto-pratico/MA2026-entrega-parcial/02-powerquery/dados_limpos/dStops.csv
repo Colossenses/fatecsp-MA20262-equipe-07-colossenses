@@ -1,0 +1,1449 @@
+﻿stop_id,stop_name,stop_desc,stop_lat,stop_lon
+18848,Clínicas,,-23.554022,-46.671108
+18849,Vila Madalena,,-23.546498,-46.691141
+18850,Consolação,,-23.55809,-46.660201
+18851,Conceição,,-23.635039,-46.641239
+18852,Jabaquara,,-23.646033,-46.641028
+18853,São Judas,,-23.625882,-46.640936
+18854,Saúde,,-23.618245,-46.639139
+18855,Praça Da Árvore,,-23.610583,-46.637918
+18856,Santa Cruz,,-23.598541,-46.636638
+18857,Vila Mariana,,-23.589359,-46.634677
+18858,Brigadeiro,,-23.567623,-46.649055
+18859,Trianon-masp,,-23.563573,-46.653905
+18860,Ana Rosa,,-23.581204,-46.638496
+18861,Paraíso,,-23.5754,-46.6407
+18862,Vergueiro,,-23.568467,-46.639928
+18863,São Joaquim,,-23.561473,-46.63858
+18864,Marechal Deodoro,,-23.533163,-46.657264
+18865,Santa Cecília,,-23.538095,-46.649009
+18866,República,,-23.544215,-46.642461
+18867,Anhangabaú,,-23.5478,-46.6392
+18868,Liberdade,,-23.555211,-46.635581
+18869,Sé,,-23.550503,-46.633305
+18870,São Bento,,-23.544094,-46.634175
+18871,Pedro II,,-23.549742,-46.626281
+18872,Luz,,-23.5366,-46.634299
+18873,Tiradentes,,-23.531286,-46.632499
+18874,Armênia,,-23.525409,-46.629192
+18875,Bresser-mooca,,-23.546398,-46.607246
+18876,Belém,,-23.542922,-46.589676
+18877,Portuguesa-tietê,,-23.516067,-46.625162
+18878,Carandiru,,-23.508985,-46.62492
+18879,Santana,,-23.502706,-46.624761
+18880,Jardim São Paulo-ayrton Senna,,-23.492642,-46.617445
+18881,Parada Inglesa,,-23.487104,-46.608883
+18882,Tucuruvi,,-23.480016,-46.603214
+18883,Carrão,,-23.53784,-46.564393
+18884,Penha,,-23.533594,-46.542944
+18885,Vila Matilde,,-23.531901,-46.530904
+18886,Guilhermina Esperança,,-23.529319,-46.516673
+18887,Patriarca,,-23.531079,-46.501715
+18888,Artur Alvim,,-23.540068,-46.484833
+18889,Eng. Goulart,,-23.498281,-46.520092
+18890,Corinthians-itaquera,,-23.542411,-46.471964
+18891,Comendador Ermelino,,-23.485166,-46.482828
+18892,Dom Bosco,,-23.541714,-46.447993
+18893,José Bonifácio,,-23.53912,-46.431683
+18894,Antônio Gianetti Neto,,-23.554322,-46.383668
+18895,Guaianases,,-23.542298,-46.415633
+18897,Itaim Paulista,,-23.493989,-46.402304
+18898,Ferraz De Vasconcelos,,-23.540688,-46.368207
+18899,Poá,,-23.525211,-46.34325
+18900,Eng Manoel Feio,,-23.478636,-46.364469
+18901,Calmon Viana,,-23.525497,-46.332803
+18902,Suzano,,-23.533521,-46.309229
+18906,Santo Amaro,,-23.655909,-46.719702
+18907,Jurubatuba,,-23.677465,-46.702213
+18908,Socorro,,-23.66343,-46.71097
+18909,Granja Julieta,,-23.627599,-46.712111
+18910,Morumbi,,-23.621519,-46.701657
+18911,Berrini,,-23.604669,-46.696825
+18912,Vila Olímpia,,-23.593185,-46.692871
+18913,Cidade Jardim,,-23.585337,-46.691293
+18914,Amador Bueno,,-23.5307,-46.983928
+18916,Piqueri,,-23.504206,-46.714999
+18917,Lapa (linha 7),,-23.517538,-46.703952
+18918,Lapa (linha 8),,-23.519585,-46.700124
+18919,Água Branca,,-23.521231,-46.689237
+18920,Palmeiras - Barra Funda,,-23.525317,-46.666547
+18921,Perus,,-23.404054,-46.754465
+18922,Jaraguá,,-23.455502,-46.738483
+18923,Vila Clarice,,-23.470038,-46.744207
+18924,Caieiras,,-23.367176,-46.752822
+18925,Franco Da Rocha,,-23.332181,-46.727614
+18926,Baltazar Fidélis,,-23.310582,-46.722853
+18927,Tamanduateí,,-23.592982,-46.589343
+18928,São Caetano,,-23.610281,-46.57033
+18929,Utinga,,-23.626196,-46.543623
+18930,Prefeito Saladino,,-23.638762,-46.53686
+18931,Ribeirão Pires,,-23.713586,-46.414805
+18932,Rio Grande Da Serra,,-23.742981,-46.392026
+18934,Capuava,,-23.65851,-46.490542
+18935,Mauá,,-23.668016,-46.461769
+18936,Prefeito Celso Daniel - Santo André,,-23.652472,-46.528568
+18937,Guapituba,,-23.691321,-46.449263
+18939,Júlio Prestes,,-23.532964,-46.640763
+18940,Luz,,-23.535103,-46.635436
+18941,Moóca,,-23.557799,-46.608419
+18942,Ipiranga,,-23.582356,-46.59666
+18944,Tatuapé,,-23.5403,-46.5767
+18946,Santa Rita,,-23.545115,-46.947651
+18947,Itapevi,,-23.545728,-46.935416
+18948,Engenheiro Cardoso,,-23.535245,-46.928291
+18949,Sagrado Coração,,-23.52908,-46.91728
+18950,Jandira,,-23.527721,-46.902507
+18951,Jardim Silveira,,-23.523568,-46.893491
+18952,Jardim Belval,,-23.514306,-46.88929
+18953,Barueri,,-23.512644,-46.875113
+18954,Antônio João,,-23.516859,-46.858801
+18955,Santa Terezinha,,-23.516347,-46.84807
+18956,Carapicuíba,,-23.518744,-46.835417
+18957,General Miguel Costa,,-23.523639,-46.815998
+18958,Quitaúna,,-23.522871,-46.807085
+18959,Comandante Sampaio,,-23.52599,-46.796059
+18960,Osasco,,-23.527834,-46.776007
+18961,Presidente Altino,,-23.530423,-46.760577
+18962,Ceasa,,-23.538372,-46.741543
+18963,Villa Lobos- Jaguaré,,-23.546718,-46.732079
+18964,Imperatriz Leopoldina,,-23.523749,-46.737662
+18965,Pirituba,,-23.488464,-46.726058
+18966,Pinheiros,,-23.566631,-46.703082
+18967,Cidade Universitária,,-23.55757,-46.712434
+18968,Hebraica - Rebouças,,-23.573822,-46.698634
+18969,Domingos De Moraes,,-23.518787,-46.721665
+18971,Francisco Morato,,-23.284893,-46.742046
+18972,Botujuru,,-23.23541,-46.767932
+18973,Campo Limpo Paulista,,-23.207264,-46.784873
+18974,Várzea Paulista,,-23.208824,-46.829012
+18975,Jundiai,,-23.195643,-46.8719
+18976,Itaquaquecetuba,,-23.48577,-46.348456
+18978,Jundiapeba,,-23.542687,-46.256308
+18979,Brás Cubas,,-23.536255,-46.225325
+18980,Mogi Das Cruzes,,-23.521185,-46.197135
+18981,Estudantes,,-23.515696,-46.18493
+18984,Ana Rosa,,-23.581388,-46.638455
+18985,Palmeiras - Barra Funda,,-23.525592,-46.666651
+18986,Palmeiras - Barra Funda,,-23.525703,-46.666803
+18987,Brás,,-23.545461,-46.616228
+18989,Paraíso,,-23.5753,-46.6408
+19000,Sé,,-23.550614,-46.633505
+19040,Largo Treze,,-23.654465,-46.710305
+19041,Santo Amaro,,-23.655575,-46.721095
+19042,Giovanni Gronchi,,-23.643975,-46.734112
+19043,Vila Das Belezas,,-23.640331,-46.745882
+19044,Campo Limpo,,-23.648987,-46.758878
+19045,Capão Redondo,,-23.659955,-46.768691
+109776,"Pça. Ituzaingo, 10",Ref.: R. Demétrio Ribeiro,-23.55276,-46.572316
+404590,"Av. Cipriano Rodrigues, 27",Ref.: R. Diomar Ackel,-23.576219,-46.527823
+404592,"Av. Cipriano Rodrigues, 908",Ref.: R Aurora Das Dores,-23.577026,-46.525923
+404595,"Av. Cipriano Rodrigues, 1160",Ref.: R Manoel Moreira Lopes,-23.576888,-46.5238
+404596,"Av. Cipriano Rodrigues, 67",Ref.: Praça Padre Nelson José Nigrist,-23.576676,-46.521971
+404597,"Av. Cipriano Rodrigues, 133",Ref.: Rua Floriza,-23.576299,-46.521375
+404598,"Av. Dos Nacionalistas, 347",Ref.: R Manoel Luiz De Vergueiro,-23.576619,-46.51706
+404599,"Av. Dos Nacionalistas, 386",Ref.: Av Inconfidencia Mineira,-23.576674,-46.516937
+404602,"Av. Dos Nacionalistas, 459",Ref.: Av Inconfidencia Mineira,-23.577057,-46.515625
+404643,"Av. Dos Nacionalistas, 640",Ref.: R Ricardo Gumbleton Daunt,-23.577613,-46.514679
+404724,"Av. Pst. Cicero Canuto De Lima, 762",Ref.: R Miguel Da Gama,-23.580063,-46.504954
+404729,"Av. Pst. Cicero Canuto De Lima, 249",Ref.: R Aparecida De São Manoel,-23.579897,-46.510115
+404732,"Av. Pst. Cicero Canuto De Lima, 285",Ref.: Pça. Eulálio De Carvalho,-23.580064,-46.509688
+404733,"Av. Pst. Cicero Canuto De Lima, 10",Ref.: Rluciara,-23.579372,-46.512368
+404734,"Av. Dos Nacionalistas, 920",Ref.: R Bonifacio Gomes Siqueira,-23.579305,-46.512646
+404735,"R. Dos Fonsecas, 171",Ref.: Rua Bugio Vermelho / Rua Padre Cicero Canuto De Lima,-23.579529,-46.50797
+408848,"Av. Aricanduva, 4630",Ref.: R Haroldo Piccina,-23.560734,-46.512483
+408991,"R. Tuma Maluly, 85",Ref.: R Olivia Trindade,-23.585337,-46.510767
+408997,"Av. Pst. Cicero Canuto De Lima, 489",Ref.: Igreja Universal,-23.579998,-46.507414
+409027,"R. Tuma Maluly, 87",Ref.: Av. Barreira Grande,-23.588897,-46.509992
+409048,Parada 2,"Av. Aricanduva, 5200 Ref.: Av. Principal",-23.565542,-46.507817
+409058,"R. Nello Selmi Dei, 44",Ref.: Praça Eulálio De Carvalho,-23.580389,-46.509825
+409063,"R. Amélia Vanso Magnoli, 120",Ref.: Av Barreira Grande/ R Frederico Quércia,-23.588049,-46.508926
+409070,"R. Amélia Vanso Magnoli, 310",Ref.: Rua Eduardo Palmério,-23.585432,-46.507579
+409071,"R. Rufino Fernandes Inivarri, 69",Ref.: Rua José De Sarabia,-23.587573,-46.506418
+409077,"R. Nello Selmi Dei, 32",Ref.: Praca Eulálio De Carvalho,-23.58075,-46.50974
+409079,"R. Nello Selmi Dei, 20",Ref.: Praça Antonio Alves Villares Da Silva,-23.581594,-46.509708
+409080,"Av. Inconfidência Mineira, 375",Ref.: Rua Azival / Rua Alfaro,-23.582101,-46.518811
+409084,"R. Nello Selmi Dei, 254",Ref.: Rua Maria Laura Figueiredo,-23.582764,-46.509729
+614606,Palmeiras - Barra Funda,,-23.525282,-46.667175
+809564,"R. Pe. Adelino, 1119",Ref.: Rua Uriel Gaspar,-23.543841,-46.583066
+809671,"R. Serra Da Bocaina, 320",Ref.: Rua Bebedouro,-23.546475,-46.588252
+809675,"Av. Álvaro Ramos, 779",Ref.: 778 Av Alcantara Machado,-23.544156,-46.586279
+810534,"Av. Ariston De Azevedo, 75",,-23.528195,-46.601933
+810536,"Pça. Gen. Humberto Souza Mello, 56",,-23.530694,-46.602342
+810556,"R. Serra Da Bocaina, 126",Ref.: Rua Siqueira Bueno,-23.546963,-46.590586
+810586,"R. Paulo Andrighetti, 55",,-23.529035,-46.603469
+810588,"Pça. Gen. Humberto Souza Mello, 893",,-23.53034,-46.603067
+810602,"R. Sta. Rita, 56",Ref.: R. Bresser / R. João Boemer,-23.53337,-46.612293
+810610,"R. Pe. Adelino, 273",Ref.: Largo Ubirajara,-23.545368,-46.591179
+810612,"Av. Alcântara Machado, 4290",Ref.: Av. Alvaros Ramos,-23.542954,-46.584677
+810613,"R. Pe. Adelino, 855",Ref.: Rua Alvaro Ramos / Hospital Centyral Tatuapé,-23.544356,-46.585917
+810614,"Av. Guilherme Cotching, 133",Ref.: R. Juvenal Gomes Coimbra,-23.529256,-46.598113
+910803,"R. Neves De Carvalho, 780",Ref.: Rua Ubatim/praça Antonio Carlos Cordeiro,-23.518982,-46.650258
+910810,"R. Visc. De Taunay, 610",Ref.: R. Sérgio Tomás,-23.52207,-46.649443
+910811,"R. Anhaia, 955",Ref.: R. Javaés,-23.522139,-46.646257
+910813,"Av. Santos Dumont, 1318",Ref.: Centro Esportivo Santana,-23.516163,-46.629538
+910817,"R. Barra Do Tibagi, 810",Ref.: R. Neves De Carvalho,-23.524926,-46.645837
+910818,"R. Anhaia, 1321",,-23.519261,-46.647887
+910819,"R. José Paulino, 880",Ref.: R. Tte. Pena / R. Júlio Conceição -- Ubs Bom Retiro,-23.526766,-46.641281
+910822,Tea,Av. Santos Dumont Ref.: Pte. Das Bandeiras / Tea,-23.517704,-46.629774
+1009854,"R. João Teodoro, 1075",Ref.: R Valtier,-23.534964,-46.622236
+1010053,Brás,,-23.545582,-46.616314
+1010054,Brás,,-23.547751,-46.616127
+1010076,"Av. Alcântara Machado, 773",Ref.: Lateral Do Vd. Alcântara Machado,-23.552358,-46.617495
+1010082,"R. Da Figueira, 249",,-23.547143,-46.626495
+1010092,Parada Caetano Pinto,"Av. Rangel Pestana, 1249 Ref.: Rua Caetano Pinto/rua Prof. Batista De Andrade",-23.546153,-46.622181
+1010093,Parada Piratininga,"Av. Rangel Pestana, 1479 Ref.: Rua Monsenhor Andrade",-23.545098,-46.62006
+1010105,"R. João Teodoro, 808",Ref.: Avenida Do Estado / Rua Canindé,-23.534377,-46.624791
+1010107,"Av. Alcântara Machado, 91",,-23.551551,-46.624211
+1211339,Butantã,,-23.571874,-46.708048
+1211401,São Paulo - Morumbi,,-23.586132,-46.723471
+1313408,"R. Gomes Leal, 56",Ref.: R Nicolau Tolentino De Almeida,-23.467819,-46.666942
+1313431,"Av. Masao Watanabe, 439",Ref.: 440 R Cachoeira Alegre,-23.463232,-46.665916
+1313502,"Av. Parada Pinto, 1161",,-23.469648,-46.659173
+1313520,"R. Min. Lins De Barros, 394",Ref.: Rua José Maria Peixoto,-23.45795,-46.667552
+1313531,"R. Gomes Leal, 300",Ref.: R Nicolau Tolentino De Almeida / R Fernando Pessoa,-23.467032,-46.664713
+1313535,"R. Dario Vilares Barbosa, 1001",,-23.453453,-46.671732
+1313574,"R. Vinte E Oito De Janeiro, 372",,-23.467926,-46.65972
+1313576,"R. Vinte E Oito De Janeiro, 372",Ref.: Rua Vinte E Dois De Agosto,-23.468368,-46.659048
+1313579,"R. Vinte E Oito De Janeiro, 119",Ref.: Rua Maria De São José Cunha,-23.468755,-46.657053
+1502886,"Av. Washington Luiz, 6372",Ref.: Pc Cmte.lineu Gomes,-23.627932,-46.66177
+1506179,"Av. Washington Luiz, 5320",Ref.: Rua Viaza,-23.632132,-46.668867
+1506207,"Av. Washington Luiz, 5955",Ref.: R. Braz Arzão / R. Pe. Leonardo,-23.629078,-46.666178
+1506210,"Av. Washington Luiz, 6542",Ref.: Pça. Cte. Lineu Gomes,-23.626496,-46.661356
+1506216,"Av. Washington Luiz, 6415",Ref.: Rua Vieira De Morais,-23.626584,-46.66171
+1506220,Vereador José Diniz,,-23.62209,-46.678848
+1506221,Brooklin Paulista,,-23.629637,-46.673561
+1506222,Aeroporto De Congonhas,,-23.626925,-46.661869
+1506223,Washington Luís,,-23.634483,-46.668348
+1506224,Brooklin Paulista,,-23.629594,-46.673505
+1814711,Eng. Goulart,,-23.498099,-46.51992
+1814712,Guarulhos Cecap,,-23.44808,-46.493539
+1814713,Aeroporto Guarulhos,,-23.433667,-46.493732
+2009067,"R. Lutécia, 1227",Ref.: R. Do Córrego / R. Ranieri Giovanni Baptista Pitorri,-23.554367,-46.543293
+2009181,"Av. Aricanduva, 1341",Ref.: Rua Gavino Virdes,-23.540899,-46.538513
+2009230,"Av. Aricanduva, 8623",Ref.: Estr. Fazenda Do Carmo -- Entrada Do Sesc Itaquera,-23.586884,-46.482419
+2009247,"Av. Guilherme Giorge, 1130",Ref.: Rua Angoera,-23.556209,-46.545097
+2009254,"R. Atucuri, 554",Ref.: Entre As Ruas Pedreira De Freitas E Rua Pero Nunes,-23.549449,-46.547596
+2009259,"R. Lutécia, 1921",Ref.: Av. Rainha Santa,-23.560448,-46.540881
+2009261,"R. Francisca De Paula, 275",Ref.: Prox. Av. 19 De Janeiro,-23.556758,-46.529507
+2009263,"R. Lutécia, 1730",Ref.: Rua Ranieri Giovani Baptista Pitori,-23.558264,-46.541767
+2009267,"R. Nova Jerusalém, 611",,-23.547744,-46.549447
+2009268,"R. Atucuri, 698",Ref.: Rua Bacarira E Rua Caxambu,-23.551064,-46.548414
+2009272,"R. Francisca De Paula, 288",Ref.: Rua João Vieira Prioste / R Bariri,-23.557116,-46.529786
+2009273,"Av. Dezenove De Janeiro, 322",Ref.: Rua Monguba/ Rua Pedro Voss,-23.55548,-46.52616
+2009275,"R. Prof. Pedreira De Freitas, 1400",Ref.: Rua Mariano De Sousa -- 1415 Oposto,-23.549361,-46.548912
+2009276,"R. Eng. Pegado, 521",Ref.: Rua Lutecia,-23.548347,-46.540674
+2009277,"R. Antônio Peres Mulla, 373",Ref.: Rua Pedro Voss,-23.562797,-46.532348
+2009281,"R. Francisca De Paula, 160",,-23.554852,-46.528386
+2009282,"Pça. Br. Homem De Melo, 5",Ref.: Rua Lutecia,-23.557412,-46.541894
+2009284,"R. Lutécia, 1025",Ref.: Rua Luiza Conceição Moraes,-23.552754,-46.543096
+2009285,"R. Luzia Da Conceição Moraes, 450",Ref.: Rua Lutecia,-23.552913,-46.543492
+2314493,Autódromo,,-23.706148,-46.688358
+2314514,Primavera-interlagos,,-23.722893,-46.691773
+2514749,"Av. Souza Ramos, 245",Ref.: Rua Sarah Kubsticheck / Rua Marcio Beck Machado -- Lojas Cem,-23.581524,-46.410419
+2515355,"Estr. Iguatemi, 2143",Ref.: Sítio San Marino,-23.587429,-46.414858
+2515374,"Estr. Iguatemi, 6980",Ref.: Rua Ismael Cadorna/ Rua Marcio Becker,-23.585556,-46.41477
+2515402,"Estr. Iguatemi, 2751",Ref.: Lado Oposto Ao Supermercado Negreiros,-23.583205,-46.41505
+2515507,"Av. Souza Ramos, 813",Ref.: Lado Oposto Igreja Universal,-23.580954,-46.411056
+2515526,"Estr. Iguatemi, 7660",Ref.: Estrada Da Vovó Carolina - Piscinão,-23.593024,-46.418159
+2600672,Paulista,,-23.555071,-46.662131
+2705944,Santos-imigrantes,,-23.595941,-46.62071
+2815191,USP Leste,,-23.485691,-46.503078
+2914645,João Paulo I,,-23.493626,-46.691468
+2914646,Freguesia Do Ó,,-23.501756,-46.693714
+2914647,Santa Marina,,-23.514102,-46.691658
+3014630,Grajaú,,-23.736283,-46.697068
+3014945,Bruno Covas-mendes-vila Natal,,-23.754624,-46.709389
+3015054,Varginha,,-23.770367,-46.712051
+3203689,"Av. Ragueb Chohfi, 7614",Ref.: 7613 R Erico Semer,-23.594401,-46.424216
+3203690,"Av. Ragueb Chohfi, 6300",Ref.: Garagem Vip,-23.594809,-46.426986
+3203691,"Av. Ragueb Chohfi, 5789",Ref.: Lado Oposto Garagem Vip,-23.594686,-46.427351
+3203693,"Av. Ragueb Chohfi, 5835",Ref.: Acesso Estrada Do Aricanduva,-23.595064,-46.429618
+3203785,"Av. Ragueb Chohfi, 3826",Ref.: Rua Humberto Allen,-23.59478,-46.448665
+3214590,"Av. Ragueb Chohfi, 4158",Ref.: Habbibs,-23.594867,-46.445781
+3214597,"Av. Ragueb Chohfi, 7290",Ref.: Rua Érico Semer/ Rua Ilha Canaviana,-23.594058,-46.422653
+3214688,"Av. Ragueb Chohfi, 5055",Ref.: Av. Domingos De Mendonça / Rua Francisco Barbosa,-23.595595,-46.437653
+3214690,"Av. Ragueb Chohfi, 6336",Ref.: Rua Emilio Retrosi E Genaro Olavide,-23.594319,-46.425025
+3214714,"Av. Ragueb Chohfi, 4567",Ref.: Rua Alessandro Melani,-23.594622,-46.441644
+3214727,"Av. Ragueb Chohfi, 2723",Ref.: Rua Francisco De Mendonca,-23.59792,-46.459038
+3214728,"Av. Ragueb Chohfi, 3323",Ref.: Rua Cajuava,-23.596027,-46.45366
+3214729,"Av. Ragueb Chohfi, 3693",Ref.: Rua Fortim Itapoã - Oposto,-23.594849,-46.450283
+3214730,"Av. Ragueb Chohfi, 4025",,-23.594464,-46.447147
+3305749,Alto Do Ipiranga,,-23.60213,-46.612593
+3305845,Sacomã,,-23.601192,-46.601963
+3305856,Tamanduateí,,-23.593116,-46.589667
+3407190,Campo Belo,,-23.618357,-46.682067
+3407222,Morumbi,,-23.622447,-46.702799
+3407224,Chucri Zaidan,,-23.613987,-46.695494
+3407225,Vila Cordeiro,,-23.615585,-46.688565
+3407226,Campo Belo,,-23.61854,-46.683429
+3515230,Jardim Romano,,-23.485148,-46.386211
+3515265,Aracaré,,-23.500329,-46.339044
+3515266,Calmon Viana,,-23.525202,-46.333504
+3608883,Corinthians-itaquera,,-23.541986,-46.471271
+3702644,"Av. Eng. Armando De Arruda Pereira, 457",,-23.633072,-46.644638
+3702645,"Av. Eng. Armando De Arruda Pereira, 506",Ref.: Av Drluiz Da Rocha Miranda,-23.633384,-46.644262
+3702711,"Av. Eng. Armando De Arruda Pereira, 1326",Ref.: Av Galvaldomiro De Lima,-23.639178,-46.641435
+3702714,"Av. Eng. Armando De Arruda Pereira, 1577",Ref.: R Mucurui,-23.640755,-46.641321
+3702715,"Av. Eng. Armando De Arruda Pereira, 1532",Ref.: Rua Farjalla Koraicho,-23.641075,-46.641499
+3702746,"Av. Eng. Armando De Arruda Pereira, 1767",Ref.: Rua Antônio André De Sá Filho,-23.643315,-46.641245
+3702748,"Av. Eng. Armando De Arruda Pereira, 1897",Ref.: Rua Nelson Fernandes - Metrô Jabaquara,-23.64627,-46.640569
+3702773,"Av. Eng. Armando De Arruda Pereira, 2485",Ref.: R Jose De Alcantara,-23.649699,-46.640351
+3702829,Metrô Conceição,"Metrô Conceição, 996",-23.635232,-46.641543
+3703065,Parada 1 - Guatapará,"Av. Eng. Armando De Arruda Pereira, 863 Ref.: Parada Rua Guatapará - Ponto 01",-23.635475,-46.641125
+3703080,"Av. Eng. Armando De Arruda Pereira, 2654",Ref.: Rua Oiteiro,-23.649865,-46.640653
+3703092,Parada 1,"Av. Eng. Armando De Arruda Pereira, 1700 Ref.: Metrô Jabaquara - Ponto 1 - C/B",-23.646522,-46.640686
+3703103,"R. Sta. Rita D'oeste, 3305",,-23.65432,-46.637158
+3703126,"Av. Eng. Armando De Arruda Pereira, 1788",Ref.: Rua Das Bicuíbas,-23.643537,-46.641423
+3812743,"Av. Edu Chaves, 398",Ref.: Rua Aguas De Xapecó,-23.471332,-46.572278
+3812764,"Av. Luís Stamatis, 999",Ref.: Condomínio Vitta Jaçanã,-23.469289,-46.575822
+4011343,Presidente Altino,,-23.530253,-46.760683
+4114459,Vila Aurora,,-23.437612,-46.747275
+4406608,S. N. Sra. De Fátima-sumaré,,-23.550974,-46.677575
+4406630,Higienópolis-mackenzie,,-23.549031,-46.652303
+4406631,Oscar Freire,,-23.560414,-46.671819
+4814665,Água Branca,,-23.52055,-46.688138
+5112817,"Av. Ultramarino, 1063",Ref.: R. Herisan,-23.470707,-46.644355
+5113473,"Av. Parada Pinto, 2582",Ref.: Rua Rita De Cássia Duarte,-23.469465,-46.646287
+5306671,"R. Mal. Maurício Cardoso, 140",Ref.: Av Pedro Alvares Cabral / R Abilio Soares,-23.581103,-46.656564
+5306677,Av. Pedro Alvares Cabral,Ref.: Portão 1 E 2 Do Parque Do Ibirapuera,-23.585492,-46.655588
+5306679,Parada 2 - Mac/USP,"Av. Pedro Alvares Cabral, 1475 Ref.: Mac-USP (antigo Detran)",-23.587786,-46.652159
+5306691,Eucaliptos,,-23.60984,-46.668649
+5306694,Moema,,-23.603386,-46.661974
+5306695,Aacd - Servidor,,-23.597819,-46.652545
+5306697,Av. Vinte E Três De Maio,Ref.: Rua Riachuelo,-23.549572,-46.638498
+5410051,"R. Taquari, 778",,-23.550139,-46.596386
+5410094,"Av. Paes De Barros, 99",,-23.556332,-46.60003
+5410099,"R. Da Mooca, 2831",Ref.: Rua Juvenal Parada/rua Taquari,-23.555635,-46.597834
+5410170,Pça. Ciro Pontes,Ref.: Rua Dos Trilhos,-23.552151,-46.600032
+5410183,"R. Bresser, 1954",Ref.: Hospital Salvallus,-23.546597,-46.604231
+5410185,"R. Dos Capitães Mores, 136",Ref.: Rua Dos Campineiros,-23.555234,-46.59469
+5410188,"R. Do Hipódromo, 1330",Ref.: Avenida Alcantara Machado/rua João Caetano,-23.550326,-46.60483
+5410197,"Av. Alcântara Machado, 3300",Ref.: Petz,-23.544814,-46.594067
+5410209,"R. Do Hipódromo, 1552",Ref.: R. Itajaí,-23.55181,-46.603619
+6114515,Sesc-pompeia,,-23.527248,-46.683295
+6114516,Perdizes,,-23.53208,-46.676621
+6311285,Faria Lima,,-23.567399,-46.693451
+6311287,Pinheiros Metrô,,-23.56725,-46.701925
+6311368,Fradique Coutinho,,-23.566103,-46.684273
+6700100,"Av. Dq. De Caxias, 952",Ref.: R. Sta. Ifigênia / R. Dos Andradas,-23.535665,-46.641015
+6700106,"R. Do Triunfo, 229",Ref.: Rdos Gusmoes,-23.536152,-46.638446
+6700173,"Av. Prestes Maia, 297",Ref.: R Riskallah Jorge,-23.541719,-46.634653
+6714452,Galeria Prestes Maia,Túnel Papa João Paulo II Ref.: Viaduto Do Chá,-23.546468,-46.63734
+6714561,República,,-23.544038,-46.642729
+6714577,"R. Brig. Tobias, 557",Ref.: Ministério Fazenda,-23.538459,-46.634749
+6714584,"R. Brig. Tobias, 780",Ref.: Rua Mauá - Rua Prestes Maia,-23.536215,-46.634063
+6714592,Terminal Amaral Gurgel,,-23.538914,-46.648291
+6714600,"R. Brig. Tobias, 300",Ref.: Rua Beneficência Portuguesa,-23.540373,-46.635323
+6714635,"Al. Br. De Piracicaba, 57",,-23.53545,-46.641938
+6714636,"R. Washington Luís, 98",Ref.: Av. Prestes Maia / R. Brig. Tobias [ Acesso A Estação Luz Do Metrô],-23.537894,-46.634066
+7014506,"R. Dos Guaianases, 673",Ref.: R Helvetia / Av Duque De Caxias,-23.535722,-46.644252
+7014507,Intermunicipal,"R. Dos Guaianases, 743 Ref.: R. Helvetia",-23.535673,-46.644287
+7014508,"Al. Nothmann, 598",Ref.: R. Guaianases,-23.532929,-46.646779
+7014510,"Al. Nothmann, 816",Ref.: Alameda Br. De Limeira,-23.534055,-46.648549
+7014516,"Al. Nothmann, 184",Ref.: Alameda Cleveland / Alameda Dino Bueno,-23.53091,-46.643566
+7014520,"Al. Br. De Piracicaba, 274",,-23.533876,-46.643105
+7014522,"Al. Nothmann, 380",Ref.: Avenida Rio Branco / Alameda Barão De Piracicaba,-23.531951,-46.645343
+7112928,"R. Voluntários Da Pátria, 4275",Ref.: Av. Engº Caetano Alvares,-23.483768,-46.631177
+7112974,"R. Cons. Saraiva, 0",Ref.: R Voluntarios Da Patria,-23.498869,-46.626448
+7113134,"Av. Cruzeiro Do Sul, 2867",Ref.: R. Alfredo Guedes,-23.505862,-46.625063
+7113164,"R. Ezequiel Freire, 77",Ref.: Rua Alferes Magalhães,-23.505606,-46.623718
+7113199,"Av. Cruzeiro Do Sul, 1800",Ref.: Terminal Rodoviário Tietê,-23.514489,-46.624881
+7206877,Adolfo Pinheiro,,-23.650083,-46.704237
+7206943,Alto Da Boa Vista,,-23.641632,-46.699465
+7206944,Borba Gato,,-23.633334,-46.693018
+7206945,Brooklin,,-23.626914,-46.688171
+7206982,João Dias,,-23.639836,-46.723488
+7404439,"R. Marcelo Muller, 1405",Ref.: Rua Dario Meira,-23.594328,-46.556089
+7404440,"R. Marcelo Muller, 1504",Ref.: Rua Orlando Calixto,-23.594838,-46.555717
+7404880,"Av. Vila Ema, 2335",Ref.: Rua Herman Frank - B/C,-23.581492,-46.554147
+7404896,"R. Manhuaçu, 64",Ref.: Av. Brumado De Minas,-23.592817,-46.559543
+7404936,"Av. Vila Ema, 3215",Ref.: Rua Roberto Morel - B/C,-23.584609,-46.546571
+7404969,"R. Solidônio Leite, 2694",Ref.: Rua João Vicente Brito,-23.587523,-46.532944
+7405361,"Av. Jacinto Menezes Palhares, 87",Ref.: Av Prf.luiz Ignacio Anhaia Mello,-23.583309,-46.565519
+7405363,"R. Secundino Domingues, 84",Ref.: Rua Felipe Cardelino,-23.588422,-46.559653
+7405386,"Av. Do Oratório, 3264",Ref.: R. Mineradora De Diamantina / R. Bom Jardim De Minas,-23.597809,-46.540899
+7405418,"R. Secundino Domingues, 334",Ref.: Rua Jaguarari,-23.590164,-46.558212
+7405481,"R. Solidônio Leite, 2315",Ref.: Rua Edmundo Juventino Fuentes,-23.585918,-46.536594
+7405483,"R. Secundino Domingues, 701",Ref.: Rua Natividade Saldanha,-23.592718,-46.555909
+7405488,"Av. Do Oratório, 2635",Ref.: Rua Eng. Francisco Bicalho,-23.593507,-46.544448
+7405489,"Av. Do Oratório, 2710",Ref.: Rua Dr. Nogueira De Noronha,-23.595358,-46.543203
+7405493,Oratorio,,-23.582144,-46.561877
+7405499,"R. José Macedo, 643",Ref.: Rua Ielmo Marinho,-23.594806,-46.554809
+7405509,"Av. Alberto Ramos, 487",Ref.: Rua Planalto Da Conquista,-23.586979,-46.560709
+7405512,"R. Suzana, 1000",Ref.: Rua Serra Do Pereiro,-23.585567,-46.564045
+7405516,São Lucas,,-23.589,-46.544597
+7405517,Camilo Haddad,,-23.595483,-46.537606
+7405518,Vila Tolstói,,-23.600932,-46.527049
+7405519,Pça. S. Lucas,Pça. S. Lucas Ref.: Rua Dep. Menezes Cortes,-23.594934,-46.548203
+7405524,"Av. Vila Ema, 1899",Ref.: Rua Antonio Gomes - B/C,-23.580748,-46.558383
+7504177,"Av. Aricanduva, 9254",Ref.: Av Ragueb Chohfi,-23.593223,-46.46794
+7504180,"Av. Aricanduva, 12771",Ref.: Av. Ragueb Chohfi,-23.595438,-46.465297
+7504193,"Av. Mateo Bei, 964",Ref.: R Cel.ernesto Duprat,-23.591694,-46.48916
+7504197,"Av. Mateo Bei, 206",Ref.: R Aparicio Luiz Pugliesi,-23.584771,-46.491805
+7504391,"R. Cachoeira Do Campo, 250",Ref.: Rua Min. Alcides Carneiro,-23.594789,-46.503759
+7504781,"Av. Ragueb Chohfi, 1835",Ref.: Rua Itapirinaia,-23.598475,-46.464966
+7504822,"Av. Tte. Lauro Sodre, 640",Ref.: R.josé Costa Junior,-23.616187,-46.484259
+7504831,"Av. Mateo Bei, 824",Ref.: Rua Engº Bernardo Figueiredo / Rua Adriano Couto De Barros,-23.59051,-46.489586
+7504852,"R. Frei Inocêncio, 405",,-23.59367,-46.498471
+7504853,"Av. Tte. Lauro Sodre, 74",Ref.: Rua Antônio Cassano,-23.611108,-46.48591
+7504854,"R. Armando Barbosa, 104",Ref.: Rua Fernando Pinheiro,-23.613787,-46.484472
+7504925,"Av. Ragueb Chohfi, 2110",Ref.: Rua Forte Do Triunfo - Igreja Universal,-23.598736,-46.464257
+7504927,"Av. Tte. Lauro Sodre, 818",Ref.: Rua Claro Luz Ferreira,-23.617683,-46.483642
+7504931,"Av. Ragueb Chohfi, 2301",Ref.: Rua Forte Do Triunfo,-23.598298,-46.463358
+7504951,Jardim Colonial,,-23.599045,-46.468949
+7504959,"R. Eduardo Antônio De Paula, 165",Ref.: Rua Carol Reed,-23.611705,-46.484356
+7504960,"Av. Mateo Bei, 418",Ref.: Rua Dr. Aparício Luís Pugliesi,-23.586982,-46.490997
+7504985,"Av. Aricanduva, 11200",Ref.: Rua Pastor Adarcy De Oliveira,-23.592791,-46.474181
+7504986,"Av. Aricanduva, 11094",Ref.: Rua Noeli Alves Gomes,-23.591539,-46.476362
+7504989,"Av. Aricanduva, 13000",Ref.: Av. Ragueb Chohfi,-23.596952,-46.467034
+7504993,"Av. Mateo Bei, 418",Ref.: Praça Carlos Januário,-23.586952,-46.490809
+7504994,"Av. Aricanduva, 12373",Ref.: Lado Oposto Condominio Flores Parque Do Carmo,-23.592655,-46.467672
+7504995,"Av. Mateo Bei, 263",Ref.: Igreja Assembleia De Deus,-23.584922,-46.49163
+7612124,São Miguel Paulista,,-23.490494,-46.443699
+7803960,"R. Augustin Luberti, 602",Ref.: Rua Agave Dragão,-23.616971,-46.487917
+7803961,"R. Augustin Luberti, 600",Ref.: Rua Agave Dragão,-23.617289,-46.488023
+7803971,"R. Augustin Luberti, 840",Ref.: Rua Jim Backus,-23.619584,-46.487794
+7803973,"R. Augustin Luberti, 840",Ref.: Rua Jim Backus,-23.620196,-46.4876
+7804356,"R. Gen. Porfírio Da Paz, 1568",Ref.: R Vicente Da Silva,-23.596641,-46.515656
+7804361,"Av. Sapopemba, 9183",Ref.: Rua Alberto Gomes Leite,-23.600579,-46.51208
+7804393,"R. Nova Brasília, 103",Ref.: R Canoeiros,-23.59514,-46.505633
+7804420,"R. Nova Brasília, 626",Ref.: R Luis Antonio Da Costa,-23.597328,-46.508921
+7804421,"R. Nova Brasília, 605",Ref.: R Primeiro Sorriso,-23.597401,-46.508736
+7804661,"Av. Eng. Feijó Bitencourt, 349",Ref.: Rua Meireles Reis Filho,-23.587132,-46.528955
+7804662,"Av. Eng. Feijó Bitencourt, 424",Ref.: Rua Marcolino Fagundes,-23.587022,-46.528139
+7805128,"Av. Eng. Feijó Bitencourt, 80",Ref.: Rua Engº Albano De Azevedo,-23.589056,-46.530435
+7805130,"Av. Tte. Lauro Sodre, 1102",Ref.: Rua Jim Backus,-23.619285,-46.483615
+7805131,"R. Pedro De Castro Velho, 2152",,-23.589393,-46.516504
+7805132,"R. Pedro De Castro Velho, 234",Ref.: Rua Dr. Domingos Americana,-23.589403,-46.516564
+7805134,"R. Gen. Porfírio Da Paz, 57",Ref.: Av. Da Barreira Grande / Rua Dos Cambistas,-23.586329,-46.518789
+7805136,"R. Gen. Porfírio Da Paz, 339",Ref.: R Da Bolsa/r Dos Correntistas,-23.588588,-46.519942
+7805147,R. Augustin Luberti,R. Augustin Luberti Ref.: R. Alexandre Gropalli,-23.614766,-46.487757
+7805166,"R. Gen. Porfírio Da Paz, 1563",Ref.: Rua Pedro De Castro Velho,-23.59651,-46.515755
+7805189,"Av. Tte. Lauro Sodre, 884",Ref.: Rua Claro Luz Ferreira,-23.618196,-46.483825
+7805190,"R. Domingos Alaleone, 45",Ref.: R.george Bekesy,-23.617625,-46.485191
+7805192,"R. George Bekesy, 1",Ref.: Rua Jim Backus,-23.619598,-46.486462
+7805193,"R. George Bekesy, 7",Ref.: R.domingos Alaleone,-23.617753,-46.485207
+7805200,"Av. Tte. Lauro Sodre, 1110",Ref.: Rua Jim Backus,-23.620346,-46.483484
+7805203,"R. Jim Backus, 561",Ref.: Rua George Bekesy,-23.620089,-46.486898
+7805208,Vila União,,-23.60294,-46.515768
+7805213,Jardim Planalto,,-23.606046,-46.507963
+7805214,"Av. Sapopemba, 9820",Ref.: Rua Milton Da Cruz,-23.606734,-46.507702
+7805216,Fazenda Da Juta,,-23.611853,-46.487579
+7805217,São Mateus,,-23.612272,-46.477314
+7805219,Sapopemba,,-23.614677,-46.500834
+7805237,"Av. Sapopemba, 11000",Ref.: Av. Arq. Vilanova Artigas,-23.614254,-46.502959
+7805241,Estação Fazenda Da Juta - Monotrilho,"Av. Sapopemba, 12685 Ref.: Rua Leonardo De Oliveira",-23.610441,-46.486301
+7805242,"Av. Sapopemba, 10711",Ref.: Rua Manuel Quirino De Mattos,-23.610475,-46.503968
+7805243,"R. Domingos Alaleone, 11",Ref.: Rua Eudemo De Rodes,-23.615623,-46.485726
+7805244,"R. George Bekesy, 54",Ref.: Rua Henri Fabert/rua Henrique De Leva,-23.618425,-46.486289
+7805245,"R. José Costa Júnior, 51",Ref.: Avenida Tenente Lauro Sodré,-23.61589,-46.484569
+7805246,"Av. Da Barreira Grande, 1537",Ref.: Rua Eng. Pinto Martins,-23.584803,-46.520568
+8010123,Luz,,-23.536598,-46.634502
+8209119,"R. Antônio De Barros, 2688",Ref.: R Afonso Henriques,-23.553769,-46.554045
+8209155,"R. Azevedo Soares, 2168",Ref.: R Antonio De Barros,-23.546876,-46.555641
+8209159,"R. Azevedo Soares, 1846",Ref.: R Francisco Marengo,-23.547359,-46.558155
+8209197,"R. Francisco Marengo, 947",Ref.: R Emilio Mallet,-23.545318,-46.558318
+8209202,"R. Serra De Braganca, 1648",Ref.: R Francisco Marengo,-23.543232,-46.559096
+8209203,"R. Serra De Botucatu, 1195",Ref.: R Monte Serrat,-23.542253,-46.560417
+8209682,"R. Serra De Braganca, 1304",Ref.: R Cacaueira,-23.543952,-46.56281
+8209683,"R. Serra De Braganca, 1086",Ref.: R Apucarana,-23.544389,-46.564916
+8209718,"R. Pe. Adelino, 1787",Ref.: R. Ipojuca / R. Bom Sucesso,-23.544135,-46.577342
+8209765,"R. Melo Freire, 3216",Ref.: Serra Do Japi,-23.539325,-46.570208
+8209773,"R. Serra De Braganca (pça. Silvio Romero), 174",Ref.: 201 R Coelho Lisboa,-23.546081,-46.573548
+8209782,Parada Metrô Tatuapé,R. Melo Freire Ref.: Metrô Tatuape - B/C,-23.540535,-46.576026
+8210163,Tatuapé,,-23.5401,-46.5765
+8210164,Tatuapé,,-23.540189,-46.576374
+8210185,"R. Francisco Marengo, 744",Ref.: Rua Cantagalo,-23.543716,-46.558795
+8210186,Terminal Metrô Tatuapé (lado Sul- Shop. Tatuapé),,-23.540904,-46.57611
+8210187,Terminal Metrô Tatuapé (lado Sul- Shop. Tatuapé),Term. Metrô Tatuapé (lado Sul- Shop. Tatuapé) Ref.: R. Cruz Alta,-23.540938,-46.576301
+8210188,Terminal Metrô Tatuapé (lado Sul- Shop. Tatuapé),,-23.540973,-46.576459
+8210189,Terminal Metrô Tatuapé (lado Sul- Shop. Tatuapé),,-23.54101,-46.576636
+8210199,Terminal Metrô Tatuapé (lado Sul- Shop. Tatuapé),,-23.541019,-46.575893
+8210206,R. Melo Freire,Ref.: Próx. Estação Do Metrô Carrão,-23.538135,-46.565031
+8210209,"R. Francisco Marengo, 715",Ref.: Entre As Ruas Serra De Bragança E Rua Joao Almeida,-23.543522,-46.558848
+8210213,"R. Coelho Lisboa, 677",Ref.: Rua Azevedo Soares,-23.55023,-46.571594
+8210227,"R. Francisco Marengo, 1112",Ref.: Rua Azevedo Soares,-23.546944,-46.55801
+8210236,Parada 2,"R. Melo Freire, 4952 Ref.: Rua Pedro Bellegarde/ Rua Antonio De Barros",-23.537073,-46.558345
+8210261,"R. Bonsucesso, 343",Ref.: Rua Fernão Tavares,-23.543841,-46.576684
+8210270,"R. Euclides Pacheco, 439",Ref.: Rua Serra Da Jureia,-23.54858,-46.570492
+8210271,"R. Euclides Pacheco, 705",Ref.: Rua Isabel Morales Mota / Rua Serra De Japi,-23.548074,-46.567987
+8210272,"R. Euclides Pacheco, 998",Ref.: Rua Itapura,-23.547543,-46.565229
+8210273,"R. Euclides Pacheco, 1245",Ref.: Rua Apucarana,-23.547076,-46.562772
+8210274,"R. Euclides Pacheco, 1499",Ref.: Rua Mont Serrat,-23.546584,-46.560364
+8210275,"R. Euclides Pacheco, 1769",Ref.: Rua Francisco Marengo,-23.546063,-46.557735
+8210279,"R. Tijuco Preto, 367",Ref.: Rua Visconde De Itaborai/ Rua Fernandes Pinheiro,-23.54402,-46.572212
+8210280,"R. Antônio De Barros, 1831",Ref.: Rua Euclides Pacheco,-23.545978,-46.555627
+8210283,"R. Domingos Agostim, 120",Ref.: Rua Tuiuti,-23.541996,-46.575744
+8210288,"R. Serra De Braganca, 880",Ref.: Rua Itapura,-23.544727,-46.566734
+8615209,Jardim Helena - Vila Mara,,-23.492765,-46.420369
+8704588,"R. Aurora Das Dores, 470",Ref.: Rua Sétimo Peacci,-23.576094,-46.529729
+8704591,"Av. Cipriano Rodrigues, 718",Ref.: R Mercedes Miguel,-23.576445,-46.52756
+8704593,"Av. Cipriano Rodrigues, 478",Ref.: Tvbandeira Duarte,-23.577445,-46.525473
+8704808,"R. Vênus, 424",Ref.: Tv Andre Salai,-23.565887,-46.540859
+8704811,"R. Aracê, 343",Ref.: Av. Guilherme Giorgi,-23.56323,-46.542885
+8704812,"Pça. Dr. Sampaio Vidal, 245",Ref.: R Ima.clotilde,-23.567267,-46.540097
+8704817,"R. Cabinari, 359",Ref.: Rdo Sagrado Coracao,-23.565417,-46.536723
+8704829,"Av. Sapopemba, 4180",Ref.: Av Luiz Ferreira Da Silva,-23.600116,-46.512927
+8704850,"R. Aurora Das Dores, 142",Ref.: R Marmeleiro,-23.575337,-46.532389
+8709131,"Av. Reg. Feijó, 1462",Ref.: R Gabriel Grupello,-23.562128,-46.562052
+8709700,"R. Bailique, 364",Ref.: Praça Jose Pavão Faria / Rua Antonio Carlos Martins,-23.559291,-46.546534
+8709701,"R. Bailique, 364",Ref.: Rua Henrique Ribeiro / Rua Zodiaco,-23.559379,-46.546443
+8709725,"R. Antônio Alves Barril, 145",Ref.: Artem,-23.560682,-46.561973
+8709751,"R. Arapoca, 153",Ref.: Próximo A Pç.a Dr. Sampaio Vidal,-23.566055,-46.541704
+8709757,"Av. Dr. Eduardo Cotching, 126",Ref.: Rua Ápio Cláudio / Rua Jorge Bittar,-23.562744,-46.558566
+8709759,"R. Eleonora Cintra, 510",Ref.: Rua José Alexandre Almeida Luiz,-23.556953,-46.559492
+8709761,"Av. Dr. Eduardo Cotching, 287",Ref.: R Nicolau Coelho,-23.562382,-46.557487
+8709762,"R. Da. Vitória Speers, 908",Ref.: Praça Artur De Melo / Rua São Martinho,-23.569393,-46.55214
+8709771,"Ac. Acesso A, 177",Ref.: Av. Regente Feijò - Leroy Merlin,-23.561431,-46.562803
+8709774,"Av. Dr. Eduardo Cotching, 410",Ref.: Pça. Coxim,-23.562223,-46.555926
+8709775,"Av. Dr. Eduardo Cotching, 638",Ref.: Rua Curupá,-23.563082,-46.554338
+8709778,"Av. João XxIII, 634",Ref.: Av. Antonio Manograsso,-23.572707,-46.534585
+8709781,"R. Maria Otília, 210",,-23.553203,-46.567783
+8709782,R. Arapacu,Ref.: Rua Chagu / Praça Monsenhor Heladio Laurini,-23.566445,-46.552049
+8709783,"R. Chagu, 530",Ref.: Rua Dona Victoria Speers,-23.567307,-46.553702
+8709784,"R. Acurui, 118",Ref.: Praça Bela Lorena,-23.557029,-46.553465
+8709785,"R. Chagu, 463",Ref.: Rua Ituri,-23.56711,-46.553381
+8812651,Av. Morvan Dias De Figueiredo,Ref.: Rua Voluntários Da Pátria/ponte Das Bandeiras,-23.518284,-46.627928
+9110132,R. Sd. José Vicente De Paula,Ref.: Al S-srg.andiras Nogueira De Abreu - Lateral Da Cei Diret Parque Novo Mundo,-23.520175,-46.565926
+9110137,"R. Cb. Oscar Rossini, 805",Ref.: Al S-srg.ananias Holanda Oliveira,-23.517299,-46.570387
+9110180,"Av. José Maria Fernandes, 455",Ref.: R. Cb. Eliseu Pinhal / R. Sd. Geraldo Augusto Dos Santos,-23.512493,-46.568087
+9110310,"R. Cb. Oscar Rossini, 680",Ref.: 699 Al S-srg.ananias Holanda Oliveira,-23.517855,-46.570275
+9110540,"Av. Guilherme Cotching, 434",Ref.: Rua Antônio Fonseca,-23.524347,-46.594221
+9112353,"R. Francisco Fanganiello, 127",Ref.: Av Morvan Dias De Figueiredo/avenida Emilio Giaquinto,-23.522007,-46.561737
+9112409,"Av. José Maria Fernandes, 480",Ref.: R. Cb. Elizeu Pinhal,-23.511958,-46.567761
+9112433,"R. Francisco Fanganiello, 490",Ref.: Travessa Manoel Martinho,-23.518453,-46.562137
+9112457,Pça. João De Oliveira,Ref.: Av. Prof.castro Júnior,-23.495743,-46.575804
+9112459,"Av. Serafim Gonçalves Pereira, 284",Ref.: R. Sd.albino Cesar / R. Sd.josé Vicente De Paula,-23.521947,-46.568137
+9112472,"Av. Das Cerejeiras, 1081",,-23.507737,-46.578413
+9112474,Av. Morvan Dias De Figueiredo,,-23.522974,-46.565077
+9112477,"Av. Das Cerejeiras, 527",Ref.: Pc Eduardo Rabelo/ R Samurais,-23.510928,-46.581078
+9112481,"Av. Tte. Amaro Felicíssimo Da Silveira, 1461",Ref.: R. Sd. Dionísio Chagas / R. Sd. Genésio Valentim,-23.512233,-46.571387
+9112484,R. Sd. Antônio Aparecido,R. Sd. Antônio Aparecido Ref.: Praça Antônio Verrastro,-23.512774,-46.566305
+9206443,Chácara Klabin,,-23.59299,-46.630999
+9206548,Hospital São Paulo,,-23.598381,-46.645612
+9206549,Santa Cruz,,-23.598445,-46.636618
+9206550,Chácara Klabin,,-23.5926,-46.6307
+9412250,"R. Alonso Peres, 598",Ref.: R Carlos Calvo,-23.487517,-46.568484
+9412251,"R. Alonso Peres, 491",Ref.: R Batalha Do Jatai,-23.488488,-46.569187
+9412668,"Av. Milton Da Rocha, 66",Ref.: Vl. Koichiro Yahara,-23.490833,-46.574439
+9412669,"Av. Roland Garros, 1662",,-23.476437,-46.572407
+9505016,"R. Das Mimosas, 376",Ref.: Rdas Giestas,-23.595957,-46.570661
+9505320,"R. Ibitirama, 567",Ref.: Praça Dr. Heraclito Corrêa,-23.586436,-46.584533
+9505468,"Terminal V. Prudente Central, 0",Ref.: Rua Ibitirama,-23.584901,-46.583345
+9505490,"R. Elidia Maria De Jesus, 64",Ref.: Av. Prof. Luis I A. Mello,-23.582062,-46.564202
+9505541,Vila Prudente,,-23.58445,-46.581943
+9505562,"R. Ibitirama, 183",Ref.: 60 Metros Após A Rua Cavour,-23.583311,-46.584852
+9505577,Vila Prudente (monotrilho),,-23.58462,-46.583322
+9505620,Terminal V. Prudente Central,,-23.584931,-46.58312
+9505635,Terminal V. Prudente Central,Ref.: Term. V. Prudente - Central - Plat. 2,-23.584221,-46.583838
+9505636,Parada Rui Roxo,"Av. Prof. Luiz Ignácio Anhaia Mello, 1773 Ref.: Rua Torquato Tasso - Porta Direita",-23.583956,-46.576311
+9607525,Vila Sônia,,-23.591689,-46.735692
+10008715,"Av. Ver. Abel Ferreira, 164",Ref.: R Aureliano Lessa/ R Pedro Domingues,-23.555583,-46.574889
+10008716,Av. Ver. Abel Ferreira,Ref.: R Analia Franco/ R Aureliano Lessa,-23.556717,-46.572241
+10008717,Av. Ver. Abel Ferreira,Ref.: R Guanau/ R Analia Franco,-23.558097,-46.569099
+10008718,"Av. Ver. Abel Ferreira, 1000",Ref.: Av Regente Feijo/ R Guandu,-23.559326,-46.567342
+10008719,"Av. Reg. Feijó, 1136",Ref.: R Jose Ribeiro/ R Oiti,-23.559551,-46.567494
+10008721,"Av. Reg. Feijó, 949",Ref.: R Butia/ R Jose Ribeiro,-23.558708,-46.569346
+10008723,"Av. Reg. Feijó, 653",Ref.: R Analia Franco/ R Ibo,-23.55751,-46.572018
+10008724,"Av. Reg. Feijó, 534",Ref.: R Teofilo Dias/ R Analia Franco,-23.557142,-46.572916
+10008726,"Av. Reg. Feijó, 315",Ref.: R Aureliano Lessa/ R Agua Rasa,-23.556122,-46.575108
+10008831,"R. Br. Do Serro Largo, 197",Ref.: R Alfredo Vaz Medeiros/ R Pedro Nicolau Bernardo,-23.552831,-46.569662
+10008832,"R. Bento Gonçalves, 424",Ref.: R Barao Do Serro Largo/ Pc Rosa Laudelina De Carvalho,-23.553267,-46.569668
+10014098,"Av. Álvaro Ramos, 2129",Ref.: Av Regente Feijo/ Largo Do Arroz,-23.553723,-46.578479
+10014099,"Av. Álvaro Ramos, 2048",Ref.: R Serra De Jaire/ R Cavalieri,-23.553104,-46.578948
+10014100,"Av. Álvaro Ramos, 1917",Ref.: R Monte Azul/ R Cavalieri,-23.552012,-46.579417
+10014101,"Av. Álvaro Ramos, 1828",Ref.: R Silva/ R Teresa,-23.551352,-46.57991
+40005493,"R. Tuma Maluly, 279",Ref.: R Eduardo Palmerio/ R Sebastiao Marchesoni,-23.586905,-46.510444
+40005494,"R. Tuma Maluly, 302",Ref.: R Eduardo Palmerio/ R Sebastiao Marchesoni,-23.586601,-46.510403
+40005495,"R. Tuma Maluly, 461",Ref.: R Domingos Costa/ R Evania De Souza Gomes,-23.585287,-46.510818
+40005496,"R. Adoniro Augusto De Paula, 8",Ref.: R Barra Do Rio Abaixo/ R Alto Alecrim,-23.584596,-46.510352
+40005497,"R. Nello Selmi Dei, 281",Ref.: R Maria Laura Figueiredo/ R Costa De Lavos,-23.583074,-46.509676
+40005509,"R. Amélia Vanso Magnoli, 16","R. Amélia Vanso Magnoli, 16 Ref.: Linha 3029-10 - R Jonas Ranter/ R Henrique Matras",-23.585274,-46.506375
+40005534,"Av. Inconfidência Mineira, 89",Ref.: R Araguaci/ R Padre Jose Carlos Correia Toledo,-23.584567,-46.519625
+40005535,"Av. Inconfidência Mineira, 78",Ref.: R Araguaci,-23.58449,-46.519533
+40005536,"Av. Inconfidência Mineira, 320",Ref.: R Alfaro/ R Alger,-23.582494,-46.518911
+40005538,"Av. Inconfidência Mineira, 524",Ref.: Tr Ocaso No Mar/ R Claudio Henrique De Paula,-23.580756,-46.518262
+40005539,"Av. Inconfidência Mineira, 631",Ref.: R Claudio Henrique De Paula/ R Tomas Antonio Gonzaga,-23.579831,-46.518003
+40005540,"Av. Inconfidência Mineira, 817",Ref.: R Inacio De Alvarenga Peixoto/ R Antonio Maximiano Rodrigues,-23.578265,-46.517223
+40005541,"Av. Inconfidência Mineira, 846",Ref.: R Carlos De Toledo Mello/ R Padre Jose De Oliveira Rolim,-23.577714,-46.516821
+40005572,Av. Da Barreira Grande,Ref.: R Luis Marin Dos Santos/ R Santo Adon,-23.584795,-46.525343
+40005594,"R. Caravela Rosa, 50",Ref.: R Abdo Salem/ R Walter Imbra Dos Santos,-23.575334,-46.528423
+40005595,"R. Walter Imbra Dos Santos, 103",Ref.: R Capela De Pedras/ R Barinel,-23.574785,-46.528246
+40005596,R. Abdo Salem,Ref.: R Walter Imbra Dos Santos/ R Cesario Melantonio,-23.574208,-46.527585
+40005597,"R. Abdo Salem, 142",Ref.: R Professor Cicero De Sa Ramalho/ R Tatuacu,-23.573256,-46.527639
+40005598,"R. Abdo Salem, 20",Ref.: R Vitor Prestes/ R Braulio Brito,-23.572029,-46.526938
+40005599,"R. Visc. De Jerumim, 100",Ref.: R Doutor Joao Jorge Sabino/ Av Monsenhor Antonio De Castro,-23.571497,-46.527161
+40005600,"Av. Mons. Antônio De Castro, 420",Ref.: R Correia Faria/ R Oliveira Catrambi,-23.571351,-46.525806
+40005601,"Av. Mons. Antônio De Castro, 479",Ref.: R Oliveira Catrambi/ Av Escragnolle Doria,-23.571296,-46.5252
+40008543,"R. Dos Fonsecas, 531",Ref.: R Alto De Santa Helena/ Av Rio Das Pedras,-23.578217,-46.504769
+40008548,"Av. D. Azeredo Coutinho, 60",Ref.: Av Alberto Camus/ Av Escragnolle Doria,-23.569688,-46.524379
+40008549,"Av. D. Azeredo Coutinho, 81",Ref.: Av Alberto Camus/ Av Escragnolle Doria,-23.569524,-46.524404
+40008552,"Av. Rio Paris, 86",Ref.: Av Dom Azeredo Coutinho/ Av Carneiro Ribeiro,-23.567818,-46.523536
+40008556,"Av. D. Azeredo Coutinho, 332",Ref.: R Oliveira Fagundes / Av Rio Paris,-23.567591,-46.523041
+40008560,"R. Olímpio De Campos, 487",Ref.: R Julio Cesar Porto/ R Engenheiro Paulino Francisco De Carvalho,-23.56478,-46.521412
+40008561,"R. Olímpio De Campos, 456",Ref.: R Sousa Brasil/ R Doutor Horacio Da Costa,-23.564537,-46.521323
+40008562,"R. Olímpio De Campos, 271",Ref.: R Rego Barros/ R Doutor Horacio Da Costa,-23.563102,-46.520186
+40008563,"R. Rego Barros, 45",Ref.: Av Joao XxIII/ R Arealva,-23.561799,-46.521897
+40008564,"R. Olímpio De Campos, 214",Ref.: R Arraial Velho/ R Rego Barros,-23.562595,-46.519934
+40008569,"Av. Cipriano Rodrigues, 417",Ref.: R Joaquim Jorge Ribeiro/ R Felicio Pereira,-23.574767,-46.529951
+40008570,"Av. Cipriano Rodrigues, 240",Ref.: R Felicio Pereira/ Av Joao XxIII,-23.573857,-46.531766
+40012302,"Av. Rio Das Pedras, 2919",Ref.: R Alzira Maruyama/ R Dos Fonsecas,-23.578311,-46.503097
+40012343,"Av. Rio Das Pedras, 246",Ref.: Tr Jose Gomes De Azevedo/ R Jose Antonio Lagareiro,-23.560218,-46.519811
+40012596,"Av. João XxIII, 2800",Ref.: Ve Luis Narduci/ R Marajoara,-23.560171,-46.521487
+40012654,"Av. Aricanduva, 4072",Ref.: Tr Silvio Mamprim/ R Dorival Lourenco Da Silva,-23.556381,-46.516732
+40012655,"Av. Aricanduva, 4430",Ref.: Av Mazzaropi/ R Mariano Cursino De Moura,-23.558088,-46.51516
+40012657,"Av. Aricanduva, 4800",Ref.: Tr Mata De Salgueiros/ Av Ademar Pereira De Barros,-23.561996,-46.51113
+40012660,"Av. Aricanduva, 5376",Ref.: Av Francisco Jose Resende/ Av Odilon Pires,-23.567256,-46.506879
+40012661,"Av. Aricanduva, 5576",Ref.: R Fonte Da Espinheira/ R Akron,-23.569304,-46.504838
+40012662,"Av. Aricanduva, 6532",Ref.: Av Dos Latinos/ Av Marapanim,-23.572068,-46.504571
+40012663,"Av. Aricanduva, 6080",Ref.: Av Dos Latinos/ R Arraias Do Araguaia,-23.575642,-46.502995
+80014081,"R. Pe. Adelino, 692",Ref.: R Serra De Jaire/ Av Alvaro Ramos,-23.544663,-46.587431
+80014082,"R. Pe. Adelino, 551",Ref.: R Brigadeiro Morais/ R Monteiro Caminhoa,-23.544952,-46.588897
+80014104,"Av. Álvaro Ramos, 1581",Ref.: R Manuel Pereira Lobo/ R Itaqueri,-23.549267,-46.581206
+80014105,"Av. Álvaro Ramos, 1496",Ref.: R Itaqueri/ R Doutor Joao Batista De Lacerda,-23.548829,-46.581732
+80014106,"Av. Álvaro Ramos, 1206",Ref.: Vila Goncalves/ R Tobias Barreto,-23.546993,-46.58376
+80014107,"Av. Álvaro Ramos, 1145",Ref.: Vila Goncalves/ R Tobias Barreto,-23.546717,-46.583939
+80014109,"R. Serra De Jairé, 542",Ref.: R Ubajara/ R Serra Da Bocaina,-23.547219,-46.586909
+80014167,"R. Serra Da Bocaina, 574",Ref.: Tr Fernando Garcez/ R Aconito,-23.545989,-46.58568
+80014176,"R. Tobias Barreto, 1166",Ref.: R Marcelo Homem De Melo/ R Serra De Jaire,-23.548608,-46.58682
+80014177,"R. Tobias Barreto, 1478",Ref.: R Limonita/ Av Alvaro Ramos,-23.546525,-46.584676
+80014301,Igreja Santa Rita,"R. Sta. Rita, 790 Ref.: R Rodovalho Da Fonseca/ R Siqueira Afonso",-23.52833,-46.607114
+80014355,"R. João Boemer, 866",Ref.: R Sousa Caldas/ R Santa Rita,-23.532771,-46.611351
+80014359,"Pça. Mons. Meirelles Freire, 33",Ref.: R Major Otaviano/ R 21 De Abril,-23.542394,-46.606004
+80014360,"R. José Monteiro, 89",Ref.: Largo Senador Morais Barros/ R Coimbra,-23.539944,-46.606459
+80014362,"R. João Boemer, 254",Ref.: R Bhering/ R Doutor Carlos Botelho,-23.536604,-46.607405
+80014363,"R. João Boemer, 510",Ref.: R Itapiracaba/ R Major Marcelino,-23.534976,-46.608778
+80014367,"R. Catumbi, 148",Ref.: R Ivinhema/ Av Celso Garcia,-23.536742,-46.599456
+80014368,"R. Catumbi, 446",Ref.: R Cachoeira/ R Valdemar Doria,-23.534351,-46.600525
+80014369,"R. Catumbi, 774",Ref.: R Jequitinhonha/ Tr Cavalheiro,-23.531417,-46.601783
+80014370,"R. Jequitinhonha, 204",Ref.: R Manuel Ramos Paiva/ Av Guilherme Cotching -- Ame Maria Zélia,-23.530664,-46.599974
+80014371,R. Juvenal Gomes Coimbra,Ref.: R Manuel Ramos Paiva/ R Manuel Ramos Paiva,-23.528706,-46.599188
+80014375,"R. Sta. Rita, 422",Ref.: R Cachoeira/ R Rio Bonito,-23.530851,-46.609729
+80014376,Pedroso Da Silveira,"R. Sta. Rita, 590 Ref.: R Godoi Preto/ Av Pedroso Da Silveira",-23.529612,-46.608453
+80014377,"R. Paulo Andrighetti, 350",Ref.: R Santa Rita/ R Joao Singilo,-23.527198,-46.605432
+80014378,"R. Paulo Andrighetti, 242",Ref.: R Santa Rita/ R Joao Singilo,-23.52787,-46.60479
+80014380,"R. Marcos Arruda, 689",Ref.: Vel Zelinda/ R Jequitinhonha,-23.532233,-46.602827
+80014381,"R. Marcos Arruda, 475",Ref.: Tr Mata De Cajueiros/ R Cachoeira,-23.534075,-46.602634
+80014382,"R. Marcos Arruda, 149",Ref.: Av Celso Garcia/ R Cachoeira,-23.536926,-46.602395
+80014486,Parada 1/2/3 - São Leopoldo,"Av. Celso Garcia, 1324 Ref.: Tr Ribeiro Viana/ R Saldanha Marinho",-23.53816,-46.599512
+80014505,"R. Júlio De Castilhos, 176",Ref.: R Silva Jardim/ R Belarmino Matos,-23.541427,-46.594165
+80014510,Terminal Metrô Belém (lado Norte),Term. Metrô Belém (lado Norte) Ref.: R Doutor Clementino/ R Fernandes Vieira,-23.542257,-46.589862
+80014519,"R. Herval, 431",Ref.: R Doutor Clementino/ R Fernandes Vieira,-23.541417,-46.591101
+80014520,"R. Elói Cerqueira, 20",Ref.: R Passos/ R Julio De Castilhos,-23.540247,-46.593068
+80014521,"R. Cajuru, 863",Ref.: R Siqueira Bueno/ R Siqueira Bueno,-23.541106,-46.596027
+80014530,"R. Saldanha Marinho, 147",Ref.: R Doutor Ubaldino Do Amaral/ R Teixeira De Freitas,-23.539373,-46.598498
+80014531,"R. Belém, 114",Ref.: Av Celso Garcia/ R Sargento Capistrano,-23.538714,-46.597475
+80014532,"R. Belém, 336",Ref.: R Visconde De Parnaiba/ R Martim Afonso,-23.539935,-46.595754
+80014533,"Lgo. S. José Do Belém, 44",Ref.: R Cajuru/ R Julio De Castilhos,-23.541005,-46.594833
+80014579,Silva Jardim,"Av. Alcântara Machado, 3594 Ref.: R Silva Jardim/ R Silva Jardim",-23.544209,-46.591154
+80014580,"Av. Alcântara Machado, 3832",Ref.: R Monteiro Caminhoa/ R Brigadeiro Morais,-23.543817,-46.589425
+80014596,Terminal Metrô Belém (sul) Pl. C,Term. Metrô Belém (sul) Pl. C Ref.: R Brigadeiro Morais/ Av Alvaro Ramos,-23.543093,-46.589246
+80014597,Terminal Metrô Belém (sul) Pl. D,Ref.: R Brigadeiro Morais/ Av Alvaro Ramos,-23.543188,-46.589038
+90007105,"R. S. Caetano, 332",Ref.: R Guilherme Maw/ R Vinte E Cinco De Janeiro,-23.534984,-46.62986
+90007106,"R. S. Caetano, 666",Ref.: R Economizadora/ R Pedro Alvares Cabral,-23.535528,-46.626568
+90008175,R. João Teodoro,Ref.: R Da Cantareira/ R Sao Lazaro,-23.533622,-46.627233
+90008382,"Av. Tiradentes, 2194",Ref.: Praça Da Luz,-23.533565,-46.633251
+90011797,"Av. Tiradentes, 615",Ref.: Pc Coronel Bonfim De Andrade/ R Bandeirantes,-23.530136,-46.632189
+90013906,"Av. Santos Dumont, 555",Ref.: Av Do Estado/ R Guapore -- Sabesp,-23.523538,-46.630966
+90013911,"R. Ribeiro De Lima, 506",Ref.: R Correia De Melo/ R Prates,-23.531083,-46.637882
+90013912,"R. Da Graça, 232",Ref.: R Tres Rios/ R Lubavitch,-23.529213,-46.638854
+90013918,"R. Dos Italianos, 566",Ref.: R Solon/ R Pedro Tomas,-23.524905,-46.643626
+90013921,"R. Anhaia, 705",Ref.: R Barra Do Tibaji/ R Jaragua,-23.524211,-46.645156
+90013922,"R. Anhaia, 355",Ref.: R Tenente Pena/ R Solon,-23.526863,-46.643636
+90013923,"R. Anhaia, 63",Ref.: R Julio Conceicao/ Al Nothmann,-23.529735,-46.642116
+90013924,"R. Silva Pinto, 41",Ref.: R Anhaia/ R Professor Cesare Lombroso,-23.529765,-46.641696
+90013933,"R. Prates, 145",Ref.: R Ribeiro De Lima/ Pc Da Luz,-23.532564,-46.636703
+90013937,"R. João Teodoro, 158",Ref.: R Dutra Rodrigues/ R Dom Antonio De Melo,-23.532849,-46.630881
+90013938,"R. Ribeiro De Lima, 158",Ref.: R Afonso Pena/ Av Tiradentes -- Em Frente Ao Copom,-23.532042,-46.634238
+90013939,"R. Ribeiro De Lima, 158",Ref.: R Afonso Pena/ Av Tiradentes -- Oposto Ao Copom,-23.532105,-46.634415
+90013942,"R. Visc. De Taunay, 249",Ref.: R Barra Do Tibaji/ R Jaragua,-23.52485,-46.647807
+90015086,"Av. Santos Dumont, 87",Ref.: R Salvador Leme/ R Bandeirantes,-23.527738,-46.631623
+90016636,"R. Eduardo Chaves, 69",Ref.: R Paulino Guimaraes/ Av Do Estado,-23.524571,-46.628891
+90016727,"Av. Tiradentes, 1026",Ref.: R Itapirapes/ Tr Lucia,-23.526896,-46.63036
+90016728,"R. Pedro Vicente, 196",Ref.: Av Do Estado/ Av Cruzeiro Do Sul,-23.525393,-46.627072
+90017113,"Av. Tiradentes, 324",Ref.: R Sao Caetano/ R Joao Teodoro,-23.532794,-46.632538
+90017114,"Av. Tiradentes, 614",Ref.: R Jorge Miranda/ R Doutor Rodrigo De Barros,-23.530587,-46.63176
+90017115,"Av. Santos Dumont, 56",Ref.: Av Do Estado/ R Doutor Rodrigo De Barros,-23.526279,-46.630832
+90017116,"Av. Santos Dumont, 752",Ref.: Pc Bento De Camargo Barros/ R Guapore,-23.52203,-46.630309
+100014307,"R. Silva Teles, 281",Ref.: R Mendes Junior/ R Mendes Goncalves,-23.534152,-46.61467
+100014308,"R. Silva Teles, 99",Ref.: R Joao Teodoro/ R Casimiro De Abreu,-23.535448,-46.615946
+100014309,"R. João Teodoro, 1331",Ref.: R Barao De Ladario/ R Rodrigues Dos Santos,-23.535266,-46.619767
+100014321,"Lgo. Da Concordia, 125",Ref.: R Da Juta/ Vdto Gasometro-sentido B/C.,-23.542019,-46.617358
+100014331,"R. Oriente, 760",Ref.: R Casimiro De Abreu/ R Xavantes,-23.537765,-46.614604
+100014332,"R. Oriente, 562",Ref.: R Miller/ R Maria Marcolina,-23.537898,-46.616724
+100014333,"R. Oriente, 374",Ref.: R Barao De Ladario/ R Miller,-23.53798,-46.618645
+100014334,"R. Oriente, 156",Ref.: R Rodrigues Dos Santos/ R Monsenhor Andrade,-23.538065,-46.620639
+100014335,"R. Mons. Andrade, 871",Ref.: R Oriente/ R Henrique Dias,-23.537737,-46.62223
+100014347,"Lgo. Da Concordia, 121",Ref.: R Ministro Firmino Whitaker/ Av Rangel Pestana,-23.541504,-46.616459
+100014350,"R. Br. De Ladário, 579",Ref.: R Henrique Dias/ R Julio Ribeiro,-23.536922,-46.619017
+100014351,"R. Br. De Ladário, 195",Ref.: R Conselheiro Belisario/ R Da Juta,-23.540448,-46.618431
+100014352,"R. Miller, 368",Ref.: Tr Abreu Junior/ R Oriente,-23.538282,-46.617593
+100014356,"R. Bresser, 542",Ref.: R Major Marcelino/ R Almirante Barroso,-23.535615,-46.610316
+100014357,"R. Bresser, 888",Ref.: R Doutor Euclydes Da Cunha/ R Doutor Carlos Botelho,-23.537884,-46.608439
+100014358,"R. Bresser, 1352",Ref.: R Doutor Joao Alves De Lima/ R 21 De Abril,-23.541912,-46.607272
+100014412,"Av. Alcântara Machado, 1000",Ref.: R Doutor Freire/ R Andre Leao,-23.553203,-46.614083
+100014543,Jairo Góes,"R. Do Gasômetro, 338 Ref.: R Da Alfandega/ R Vasco Da Gama",-23.544371,-46.623046
+100014544,Mercúrio,"R. Do Gasômetro, 61 Ref.: R Do Lucas/ R Da Figueira",-23.544655,-46.625626
+100014588,Piratininga,"Av. Alcântara Machado, 1025 Ref.: R Piratininga/ R Doutor Freire",-23.552597,-46.615179
+100014589,"Av. Alcântara Machado, 351",Ref.: R Itapira/ R Mem De Sa,-23.55193,-46.621456
+100014591,Hospital D. Pedro II,"Av. Alcântara Machado, 106 Ref.: R Da Figueira/ R Wandenkolk",-23.552098,-46.624002
+100014592,"Av. Alcântara Machado, 464",Ref.: R Itapira/ R Mem De Sa,-23.55254,-46.620594
+100015942,"R. Maria Joaquina, 44",Ref.: R Xavantes/ R Mendes Junior,-23.537333,-46.613717
+100015943,"R. Maria Joaquina, 388",Ref.: R Bresser/ R Joli,-23.534761,-46.611739
+100017111,"R. S. Caetano, 948",Ref.: R Joao Jacinto/ R Monsenhor Andrade,-23.536032,-46.623686
+130001420,"R. Dario Vilares Barbosa, 326",Ref.: Vel Dezessete/ R Alfarrobeiras,-23.458019,-46.672206
+130001421,"R. Dario Vilares Barbosa, 170","R. Dario Vilares Barbosa, 170 Ref.: Vel Dezessete/ R Alfarrobeiras",-23.458015,-46.671536
+130001422,"R. Dario Vilares Barbosa, 411",Ref.: Ruajoao Oliveira Salgado/rua Padre João Guedes,-23.457614,-46.67294
+130001424,"R. Dario Vilares Barbosa, 596",Ref.: R Serrana Fluminense/ R Antonio Lopes De Barros,-23.456182,-46.673785
+130001425,"R. Dario Vilares Barbosa, 611",Ref.: R Antonio Lopes De Barros/ R Serrana Fluminense,-23.456009,-46.673888
+130001426,"R. Dario Vilares Barbosa, 859",Ref.: R Sem Nome/ R Cunhanrequaro,-23.453988,-46.673205
+130001427,"R. Dario Vilares Barbosa, 848",Ref.: R Cunhanrequaro/ R Sem Nome,-23.453996,-46.67308
+130001428,"R. Gervásio Leite Rebelo, 1086",Ref.: R Sem Nome/ R Dario Vilares Barbosa,-23.4535,-46.671049
+130001430,"R. Gervásio Leite Rebelo, 1316",Ref.: Rua Ministro Lins De Barros,-23.45421,-46.668915
+130001431,"R. Gervásio Leite Rebelo, 1329",Ref.: Rua Ministro Lins De Barros,-23.454242,-46.668748
+130001434,"R. Min. Lins De Barros, 594",Ref.: R Jose Maria Peixoto/ R Claudio Gonzaga De Souza,-23.456125,-46.667744
+130001435,"R. Min. Lins De Barros, 587",Ref.: R Doutor Francisco Eugenio Do Amaral/ R Gervasio Leite Rebelo,-23.45626,-46.667854
+130001436,"R. Min. Lins De Barros, 392",Ref.: R Jose Manuel De Almeida/ R Gervasio Leite Rebelo,-23.458059,-46.66768
+130001444,"Av. Masao Watanabe, 98",Ref.: Av Masao Watanabe/ R Francisco Alves Pereira,-23.463504,-46.667445
+130001445,"Av. Masao Watanabe, 145",Ref.: R Cachoeira Alegre/ R Francisco Alves Pereira,-23.463268,-46.667562
+130001446,"Av. Masao Watanabe, 418",Ref.: R Doutor Araujo Castro/ Av Masao Watanabe,-23.463309,-46.66563
+130001447,"Av. Masao Watanabe, 565",Ref.: R Rio Itapicu/ R Acaratinga,-23.462031,-46.666199
+130001449,"Av. Masao Watanabe, 594",Ref.: R Acaratinga / R Rio Itapicu,-23.461906,-46.66605
+130001450,"Av. Masao Watanabe, 731",Ref.: R Rio Itapiçu/ Tr Cacu,-23.460678,-46.665672
+130001451,"R. Min. Lins De Barros, 132",Ref.: R Cariacica/ R Professor Sylvio Marcondes Machado,-23.459586,-46.66614
+130001452,"R. Min. Lins De Barros, 170",Ref.: R Doutor Paulo Furtado De Oliveira/ R Professor Sylvio Marcondes Machado,-23.459396,-46.666673
+130001453,"Av. Gen. Penha Brasil, 781",Ref.: R Luiz Macario De Castro/ R Canguira,-23.465667,-46.668402
+130001454,"Av. Gen. Penha Brasil, 616",Ref.: R Jose Pedro D Oro/ R Canguira,-23.466314,-46.668689
+130001455,"R. Gomes Leal, 106",Ref.: R Augusto Gil/ R Fernando Pessoa,-23.46758,-46.666354
+130001456,"R. Gomes Leal, 350",Ref.: R Fernando Pessoa/ R Nicolau Tolentino De Almeida,-23.466931,-46.664257
+130001523,"Av. Parada Pinto, 1380",Ref.: R Vinte E Dois De Agosto/ R Felisberto Freire,-23.469456,-46.656819
+130001524,"Av. Parada Pinto, 1722",Ref.: R. José Brito Broca,-23.470099,-46.654124
+130001526,"Av. Parada Pinto, 1813",Ref.: R Jose Brito Broca/ Vel Um,-23.470281,-46.653117
+130001527,"Av. Parada Pinto, 1860",Ref.: Vel Um/ R Jose Ferreira De Castro,-23.470847,-46.652457
+130001528,"Av. Parada Pinto, 2077",Ref.: R Capitao Arminio Gaia/ R Tavannes,-23.471014,-46.650802
+130001530,"Av. Parada Pinto, 2335",Ref.: R Antonio Dias Da Silva/ R Vaud,-23.469862,-46.648761
+130001531,"Av. Parada Pinto, 2531",Ref.: R General Isidoro Dias Lopes/ Av Coronel Manuel Py,-23.469402,-46.646851
+130001616,"R. Fernando Pessoa, 407",Ref.: R Joao De Deus Ramos/ R Gil Vicente,-23.467085,-46.662916
+130001617,"R. Fernando Pessoa, 408",Ref.: R Odassy Mazzali / R Gomes Leal,-23.467298,-46.662228
+130001620,"R. Felisberto Freire, 86",Ref.: R Vinte E Oito De Janeiro/ Av Parada Pinto,-23.469482,-46.655229
+130001621,"R. Odassi Nazzali, 132",Ref.: Av Parada Pinto/ R Fernando Pessoa,-23.468827,-46.66037
+130001622,"R. Odassi Nazzali, 310",Ref.: Av Parada Pinto/ R Fernando Pessoa,-23.467658,-46.661153
+150010325,"Av. Dr. Lino De Moraes Leme, 91",Ref.: R Tapes/ R Pantaleao Teles,-23.633571,-46.660305
+150010326,"Av. Dr. Lino De Moraes Leme, 55",Ref.: R Tapes/ R Pantaleao Teles,-23.633165,-46.659984
+150010505,"R. Tamoios, 60",Ref.: Rua Pe. Leonardo,-23.629699,-46.666439
+150010506,"R. Tamoios, 186",Ref.: Rua Visconde De Ouros,-23.630154,-46.66537
+150010507,"R. Tamoios, 410",Ref.: Rua Galileu,-23.631071,-46.663482
+150010508,"R. Tamoios, 466",Ref.: Rua Profa. Heloísa Carneiro,-23.631368,-46.662981
+150010509,"R. Tamoios, 584",Ref.: Rua Carlos Pinto Alves,-23.63187,-46.661799
+150010510,"R. Tamoios, 650",Ref.: Rua Carlos Pinto Alves,-23.632162,-46.661363
+150010513,"Av. Pedro Bueno, 908",Ref.: R Monsenhor Antonio Pepe/ R Guilherme Rehder,-23.636839,-46.651735
+150010514,"Av. Pedro Bueno, 1194",Ref.: R Dom Otavio De Miranda/ R Almeida Ferraz,-23.637831,-46.653988
+150010515,"Av. Pedro Bueno, 1448",Ref.: R Haroldo Paranhos/ R Claudio Mendonca,-23.637999,-46.656406
+150010516,"Av. João Pedro Cardoso, 465",Ref.: R Simoes Pinto/ R Nicolau Zarvos,-23.636713,-46.657783
+150010517,"Av. João Pedro Cardoso, 131",Ref.: R Tobias Monteiro/ R Embaixador Coelho De Almeida,-23.634797,-46.65943
+150010518,"Av. João Pedro Cardoso, 158",Ref.: R Conde De La Hure/ R Ribeiroles,-23.635038,-46.65895
+150010519,"Av. João Pedro Cardoso, 562",Ref.: R Doutor Mario Mourao/ R Hugo Taddey,-23.637806,-46.658034
+150010520,"Av. Pedro Bueno, 1499",Ref.: R Haroldo Paranhos/ Pc Olga Simon Poyares,-23.638325,-46.656897
+150010521,"Av. Pedro Bueno, 1149",Ref.: R Almeida Ferraz/ R Guilherme Rehder,-23.638065,-46.65346
+150010522,"Av. Pedro Bueno, 817",Ref.: R Acacio Vasconcelos/ R Desembargador Alipio Bastos,-23.636332,-46.650826
+150015554,Lineu Gomes,"Av. Washington Luiz, 6718 Ref.: Sentido B/C - Frente Aeroporto",-23.624632,-46.661414
+150015556,Félix De Sousa,"Av. Washington Luiz, 6973 Ref.: R Felix De Sousa/ R Visconde De Aguiar Toledo",-23.622724,-46.661917
+150015557,"Av. Washington Luiz, 6675",Ref.: Rua Renascença,-23.624982,-46.661854
+200008598,"R. Francisca De Paula, 1003",Ref.: R Amarais/ R Virginia,-23.561173,-46.532188
+200008599,"R. Francisca De Paula, 1102",Ref.: R. Amarais / R. Cruz Jobim,-23.561464,-46.532421
+200008600,"R. Francisca De Paula, 507",Ref.: R Maria Inacia Da Conceicao/ R Gabriel Andrioli,-23.558798,-46.53067
+200008601,"R. Francisca De Paula, 504",Ref.: Tr Carlos Magno/ R Augusto Reginato,-23.558463,-46.530592
+200008602,"R. Francisca De Paula, 167",Ref.: R Rogerio Giorgi/ R Ricardo Bertolini,-23.555048,-46.528355
+200008614,"Av. Dr. Norberto Mayer, 429","Av. Dr. Norberto Mayer, 429 Ref.: R Almirante Giachetta/ R Ponta De Leste",-23.556408,-46.537463
+200008615,"Av. Dr. Norberto Mayer, 197",Ref.: R Ponta De Leste/ R Geraldo Correa,-23.55704,-46.539376
+200008616,"R. Lutécia, 1380",Ref.: R Geraldo Correa/ R Lobo,-23.555664,-46.542712
+200008617,R. Lutécia,Ref.: R Geraldo Correa/ R Lobo - Ed. Varandas Da Lutecia,-23.55546,-46.542802
+200008619,"R. Lutécia, 994",Ref.: R Luzia Da Conceicao Moraes/ R Xiririca,-23.552406,-46.543066
+200008620,R. Lutécia,Ref.: R Renato Rinaldi/ R Joao Vieira Prioste,-23.550379,-46.541864
+200008621,"R. Lutécia, 698",Ref.: R Descanso/ R Renato Rinaldi,-23.550016,-46.54181
+200008626,"R. Lutécia, 517",Ref.: R Engenheiro Pegado/ R Rogerio Giorgi,-23.548599,-46.540939
+200008628,"Av. Guilherme Giorge, 721",Ref.: R Luzia Da Conceicao Moraes/ R Do Corrego,-23.552802,-46.544411
+200008629,"Av. Guilherme Giorge, 790",Ref.: R Luzia Da Conceicao Moraes/ R Do Corrego,-23.553285,-46.544765
+200008630,"Av. Guilherme Giorge, 1130",Ref.: R Boreal/ R Palas,-23.556576,-46.544824
+200008631,"Av. Guilherme Giorge, 1320",Ref.: R Boreal/ R Palas,-23.556769,-46.544808
+200008632,"Av. Guilherme Giorge, 1612",Ref.: R Bailique/ R Guaragi,-23.559452,-46.543784
+200008633,"Av. Guilherme Giorge, 1615",Ref.: R Bailique/ R Guaragi,-23.559588,-46.543626
+200008638,"R. Lutécia, 1994",Ref.: R Picinguaba/ Al Rainha Santa,-23.560939,-46.540744
+200008640,"Al. Rainha Santa, 210",Ref.: R Condeuba/ R Geraldo Correa,-23.558792,-46.539719
+200008641,"Al. Rainha Santa, 374",Ref.: R Geraldo Correa/ R Picinguaba,-23.557803,-46.538613
+200008642,"R. Picinguaba, 576",Ref.: R Florentinos/ R Forquilha,-23.557144,-46.537505
+200008643,R. Lutécia,Ref.: Emei Prof. Alberto Mesquita De Camargo,-23.55775,-46.541869
+200008693,"R. Caçaquera, 358",Ref.: R Mestinho/ R Mororo,-23.555059,-46.553053
+200008694,"R. Caçaquera, 167",Ref.: R Mestinho/ R Mororo,-23.553796,-46.553091
+200008695,"R. Caçaquera, 122",Ref.: R Mestinho/ R Vale Formoso,-23.553388,-46.552953
+200008696,"R. Nova Jerusalém, 1153",Ref.: Pc Conceicao Do Herval/ Vel Jayme Iavelberg,-23.551947,-46.55162
+200008697,"R. Nova Jerusalém, 1154",Ref.: Pc Conceicao Do Herval/ Vel Jayme Iavelberg,-23.552035,-46.5516
+200008698,"R. Nova Jerusalém, 899",Ref.: R Bacarira/ R Perucaba,-23.550058,-46.55009
+200008699,"R. Nova Jerusalém, 882",Ref.: R Bacarira/ R Perucaba,-23.55001,-46.550152
+200008701,"R. Nova Jerusalém, 626",Ref.: Tr Absinto/ R Pero Nunes,-23.547812,-46.549552
+200008702,"R. Azevedo Soares, 2798",Ref.: R Coronel Mendonca/ R Nova Jerusalem,-23.546826,-46.549745
+200008703,"R. Azevedo Soares, 2750",Ref.: R Coronel Mendonca/ R Coronel Mendonca,-23.546821,-46.550227
+200008704,"R. Azevedo Soares, 2551",Ref.: R Matos Guerra/ R Professor Edmundo Xavier,-23.546446,-46.552475
+200008705,"R. Azevedo Soares, 2538",Ref.: R Matos Guerra/ R Professor Edmundo Xavier,-23.546498,-46.552397
+200008706,"R. Azevedo Soares, 2275",Ref.: R Antonio Fernandes De Abreu/ R Antonio De Barros,-23.546579,-46.554769
+200008802,"R. Serra De Botucatu, 2041",Ref.: R Sete De Outubro/ R Dom Manuel Da Cruz,-23.540708,-46.552102
+200008803,"R. Serra De Botucatu, 1791",Ref.: R Joaquim Pinto/ Viela Jose Joaquim De Lima,-23.541212,-46.554749
+200012182,"R. Antônio De Barros, 2821",Ref.: R Guaxupe/ R Afonso Henrique,-23.554931,-46.553974
+200012183,"R. Antônio De Barros, 2637",Ref.: R Vale Formoso/ R Mestinho,-23.553342,-46.553841
+200012184,"R. Antônio De Barros, 2501",Ref.: R Ferreira Franca/ R Vale Formoso,-23.552163,-46.553987
+200012186,"R. Antônio De Barros, 2231",Ref.: R Passos Ourique/ R Professor Pedreira De Freitas,-23.549501,-46.554687
+200012188,"R. Antônio De Barros, 2033",Ref.: R Santa Gertrudes/ R Sao Gil,-23.547969,-46.555098
+200012214,"Av. Cons. Carrão, 190",Ref.: R Ibicaba/ R Melo Freire,-23.537709,-46.556311
+200012216,"Av. Cons. Carrão, 460",Ref.: R Flamengo/ R Joao Gomes Ribeiro,-23.539232,-46.55372
+200012219,"Av. Cons. Carrão, 700",Ref.: R Coronel Jose Da Mota Bicudo/ R Serra De Botucatu,-23.54024,-46.551547
+200012220,"Av. Cons. Carrão, 1047",Ref.: R Tres Martelos/ R Comendador Gil Pinheiro,-23.541641,-46.54909
+200012221,"R. Gonçalo Nunes, 242",Ref.: R Rodrigues Velho/ R Cantagalo,-23.542538,-46.549749
+200012222,"Av. Cons. Carrão, 1430",Ref.: Tr Juan Navarro/ R Coronel Marques,-23.54381,-46.546434
+200012223,"Av. Cons. Carrão, 1493",Ref.: R Mariano De Sousa/ R Jaru,-23.544268,-46.545979
+200012224,"Av. Cons. Carrão, 1719",Ref.: R Valentim Xavier/ R Atucuri,-23.545523,-46.544259
+200012225,"Av. Cons. Carrão, 1706",Ref.: R Valentim Xavier/ R Atucuri,-23.545569,-46.544448
+200012226,"Av. Cons. Carrão, 1865",Ref.: R Evangelina/ R Dentista Barreto,-23.546075,-46.543005
+200012227,"Av. Cons. Carrão, 2043",Ref.: Av Guilherme Giorge/ R Lutecia,-23.546919,-46.541095
+200012234,"Av. Cons. Carrão, 2148",Ref.: Av Guilherme Giorge/ R Lutecia,-23.547288,-46.540673
+200012235,"Av. Cons. Carrão, 1904",Ref.: R Evangelina/ R Dentista Barreto,-23.546358,-46.542718
+200012340,"Av. Dezenove De Janeiro, 290",Ref.: R Pedro Voss/ R Monguba,-23.555076,-46.526409
+200012426,Terminal Vila Carrão - Plataforma D,Term. Vila Carrão - Plataforma D Ref.: Plat. D - Ponto 15,-23.558514,-46.52233
+200012435,Terminal Vila Carrão - Plataforma E,Term. Vila Carrão - Plataforma E Ref.: Ponto 20 - Plataforma E,-23.558268,-46.522539
+200012485,"Av. Cde. De Frontin, 450",Ref.: R Pinhalzinho/ R Alegre,-23.536074,-46.552903
+200012626,"Av. Aricanduva, 2600",Ref.: R Aluminio/ R Ganges,-23.547206,-46.527485
+200012638,"Av. Aricanduva, 3465",Ref.: R Ministro Carlos Maximiliano/ Av Mendonca Drumond,-23.552636,-46.51895
+200012645,"Av. Aricanduva, 1003",Ref.: R Coronel Soares Neiva/ R Julio Colaco,-23.539733,-46.54186
+200012647,"Av. Aricanduva, 310",Ref.: Rua Alferes Frazão,-23.537099,-46.547826
+200012648,"Av. Aricanduva, 500",Ref.: R Doutor Alarico Siveira/ R Serra De Botucatu,-23.539097,-46.545377
+200012649,"Av. Aricanduva, 1054",Ref.: R Julio Colaco/ R Moravia,-23.540579,-46.541481
+200012650,"Av. Aricanduva, 1292",Ref.: R Silveira Bueno/ R Moravia - Próximo A Passarela Jerson Antônio Brito F°,-23.541488,-46.538769
+200012651,"Av. Aricanduva, 1680",Ref.: R Zambeze/ R Baquia,-23.542515,-46.534437
+200012652,"Av. Aricanduva, 1100",Ref.: R Tumucumaque/ R Ganges -- Próximo Passarela Eduardo Manna,-23.544374,-46.530736
+200012653,"Av. Aricanduva, 3476",Ref.: R Joao Domingues Oliveira/ R Doutor Alencar Guimaraes,-23.552265,-46.520804
+200012667,"Av. Aricanduva, 2880",Ref.: R Astarte/ R Astarte,-23.549546,-46.524954
+200012692,"Av. Aricanduva, 3164",Ref.: R Santo Perussi/ R Barao De Itamaraca,-23.550953,-46.523137
+240012627,"Av. Aricanduva, 7351",Ref.: R Igarape Azul/ R Lourenco Lemos,-23.580955,-46.491704
+240012628,"Av. Aricanduva, 9555",Ref.: R Ijucapirama/ R Igarapé Azul,-23.578568,-46.494846
+240012629,"Av. Aricanduva, 6759",Ref.: R Ijucapirama/ R Igarape Azul,-23.578459,-46.496807
+240012630,"Av. Aricanduva, 6949",Ref.: R Ijucapirama/ Av Matapi,-23.576389,-46.501534
+240012631,"Av. Aricanduva, 6599",Ref.: Av Dos Latinos/ Av Matapi,-23.573008,-46.503786
+240012632,"Av. Aricanduva, 5831",Ref.: Av Dos Latinos/ Av Gualtar,-23.569732,-46.503946
+240012633,"Av. Aricanduva, 5555",Ref.: Av Principal/ Av Gualtar,-23.565637,-46.507066
+240012634,"Av. Aricanduva, 4869",Ref.: Av Belarmino Ferreira/ R Fortuna De Minas,-23.561294,-46.510952
+240012635,"Av. Aricanduva, 4053",Ref.: R Arrabalde Da Ponte/ R Adustina,-23.558855,-46.51335
+240012636,"Av. Aricanduva, 5999",Ref.: R Mario Da Cunha Canto/ Av Itaquera,-23.555788,-46.516398
+240012637,"Av. Aricanduva, 5225",Ref.: R Frederico Severo/ R Mario Da Cunha Canto,-23.557565,-46.514822
+240012666,"Av. Aricanduva, 7996",Ref.: R Funilandia/ R Ana Santesso,-23.579227,-46.49476
+250005835,R. Márcio Beck Machado,Ref.: R Arroio Oriunfo / R Souza Ramos,-23.580728,-46.413697
+250005836,R. Márcio Beck Machado,Ref.: R Arroio Sarandi/ Estrada Do Iguatemi,-23.580706,-46.41388
+250005901,Terminal Cidade Tiradentes - Plataforma 3,Ref.: Av Naylor De Oliveira/ Av Dos Metalurgicos,-23.58297,-46.408029
+250005911,Terminal Cidade Tiradentes - Plataforma 3,Ref.: Av Naylor De Oliveira/ Av Dos Metalurgicos,-23.583068,-46.407673
+250005913,Terminal Cidade Tiradentes - Plataforma 3,Ref.: Av Naylor De Oliveira/ Av Dos Metalurgicos,-23.583119,-46.407454
+250005914,Terminal Cidade Tiradentes - Plataforma 3,Term. Cidade Tiradentes - Plataforma 3 Ref.: Plataforma 3 - Pmv 17,-23.583151,-46.407326
+250012242,"Estr. Iguatemi, 2016",Ref.: Rua Nascer Do Sol,-23.590201,-46.416527
+250012256,"Estr. Iguatemi, 2751",Ref.: Rua Juá Mirim - Supermercado Negreiros Baia 11,-23.583232,-46.415122
+250012257,"Estr. Iguatemi, 2587",Ref.: Rua Ismael Cardona,-23.586015,-46.414865
+250012258,"Estr. Iguatemi, 2143",Ref.: Sitio Mirim - Baia 06,-23.587879,-46.415085
+250012259,"Estr. Iguatemi, 1991",Ref.: Rua Nascer Do Sol - Ponto 05 A,-23.590448,-46.416793
+320012237,"Av. Ragueb Chohfi, 5425",Ref.: Av. Bento Guelfi,-23.596087,-46.434942
+320012238,"Av. Ragueb Chohfi, 5940",Ref.: Oposto Estrada Do Aricanduva,-23.595261,-46.430009
+320012241,"Av. Ragueb Chohfi, 7020",Ref.: Est Do Palanque,-23.594283,-46.420105
+320012260,"Estr. Iguatemi, 7357",Ref.: Est Do Palanque/ Ragueb Chohfi - Ponto 5,-23.593482,-46.418655
+320012264,"Av. Ragueb Chohfi, 5387",Ref.: R Folclore Infantil/ R Jose Alcaide,-23.595442,-46.434092
+320012267,"Av. Ragueb Chohfi, 4813",Ref.: R Pedro Lour0 - Escola Simão Mathias,-23.595179,-46.439069
+320012272,"Av. Ragueb Chohfi, 2967",Ref.: Rua Chaime,-23.596897,-46.456753
+320012280,"Av. Ragueb Chohfi, 2901",Ref.: R Embitiba/ R Chaime,-23.597436,-46.457182
+320012281,"Av. Ragueb Chohfi, 3386",Ref.: R Joao Macedo/ R Joao Carlos Ferreira,-23.596054,-46.452658
+320012282,"Av. Ragueb Chohfi, 3674",Ref.: R Lorenzo Penna/ R Fortim Itapoa,-23.595094,-46.450309
+320012285,"Av. Ragueb Chohfi, 4750",Ref.: R Pedro Louro/ R Francisco Barbosa,-23.595204,-46.440045
+320012286,"Av. Ragueb Chohfi, 5055",Ref.: R Luiza De Jesus Ferreira/ R Professor Pedro Antonio Pimentel,-23.595878,-46.437616
+370010511,"Av. Pedro Bueno, 204",Ref.: Av Engenheiro Armando De Arruda Pereira/ R Barros Brotero,-23.633241,-46.647334
+370010512,"Av. Pedro Bueno, 552",Ref.: Rua João Gabi,-23.635369,-46.648608
+370010523,"Av. Pedro Bueno, 571",Ref.: R Perdigao Nogueira/ R Monsenhor Basilio Pereira,-23.63559,-46.648897
+370010524,"Av. Pedro Bueno, 167",Ref.: Av Engenheiro Armando De Arruda Pereira/ R Barros Brotero,-23.633005,-46.647183
+370013664,"Av. Eng. Armando De Arruda Pereira, 2864",Ref.: Rua Doutor Valter Pinto,-23.651533,-46.638912
+370013737,"Av. Eng. Armando De Arruda Pereira, 2731",Ref.: Rua Joao Turriano,-23.651266,-46.638906
+370013738,"Av. Eng. Armando De Arruda Pereira, 3111",Ref.: Rua Das Perolas,-23.653044,-46.636905
+380003692,"Av. Edu Chaves, 505",Ref.: Av Sanatorio/ R S Jose De Serzedelos,-23.472076,-46.571756
+380003693,"Av. Luís Stamatis, 1200",Ref.: R Rubens/ R Alto Paraguai,-23.469921,-46.573794
+380003694,"Av. Luís Stamatis, 1183",Ref.: Av Edu Chaves/ R Prf. Heinrich Nordhoff,-23.469947,-46.573427
+380003696,"Av. Luís Stamatis, 1013",Ref.: R Rubens/lopes Da Costa,-23.469419,-46.575513
+380003704,"Av. Luís Stamatis, 656",Ref.: R Ima. Emerenciana/ Av Mendes Da Rocha,-23.468804,-46.578526
+380003705,"Av. Luís Stamatis, 716",Ref.: R Freire Bastos/ R Ima. Emerenciana,-23.468646,-46.579103
+380004053,"Av. Guapira, 2674",Ref.: Av Guapira/ R Ima. Filomena/praça Doutor João Batista Vasques,-23.465801,-46.583785
+380004054,"Av. Guapira, 2862",Ref.: R Irma Filomena/ R Benjamin Pereira / Ee Julio Pestana,-23.465098,-46.583492
+380004219,"Av. Antônio Cesar Neto, 257",Ref.: R Edouard Manet,-23.460256,-46.583458
+380004223,"Av. Antônio Cesar Neto, 283","Av. Antônio Cesar Neto, 283 Ref.: R Alcy Borges Dos Santos/ R Edouard Manet",-23.461738,-46.582907
+380004232,"Av. Paulo Lincoln Do Valle Pontin, 261",Ref.: R Vereador Jose De Moura/ R Jayme Roso,-23.46306,-46.585206
+380004233,"Av. Paulo Lincoln Do Valle Pontin, 226",Ref.: R Vereador Jose De Moura/ R Jayme Roso,-23.463285,-46.585008
+380004306,"Av. Luís Stamatis, 103",Ref.: R Eugenia Bresser/ Av Guapira,-23.46775,-46.583788
+380004307,"Av. Luís Stamatis, 248",Ref.: R Joao Teixeira De Barros/ R Eugenia Bresser,-23.468041,-46.582709
+380004308,"Av. Luís Stamatis, 443",Ref.: Tr Joao Luis Paiva/ R Joao Teixeira De Barros,-23.468264,-46.581021
+380004309,"Av. Luís Stamatis, 560",Ref.: R Irma Emerenciana/ Tr Joao Luis Paiva,-23.468489,-46.580301
+380004373,"Av. Paulo Lincoln Do Valle Pontin, 550",Ref.: R Angelo Aloisio/ R Alcy Borges Dos Santos,-23.460485,-46.585565
+490016414,Av. Vinte E Três De Maio,Ref.: Centro Cultural,-23.572344,-46.640902
+490016415,Av. Vinte E Três De Maio,Ref.: Tr Carneiro/ R Pedroso,-23.563404,-46.640031
+490016416,Av. Vinte E Três De Maio,Ref.: Vdto Condessa De Sao Joaquim/ R Jaceguai,-23.557395,-46.637872
+490016448,Av. Vinte E Três De Maio,Ref.: R Maestro Cardim/ Vdto Pedroso,-23.559797,-46.63945
+490016449,Av. Vinte E Três De Maio,Ref.: Vdto Paraiso/ Vdto Beneficencia Portuguesa,-23.572826,-46.641237
+510001529,"Av. Parada Pinto, 2204",Ref.: R Elza Guimaraes/ R Domingos Jose Sapienza,-23.470571,-46.649599
+510001666,Av. Ultramarino,Ref.: R Lacerda Marques/ Av Direitos Humanos,-23.475146,-46.638937
+510001667,Av. Ultramarino,Ref.: Av Direitos Humanos/ Pça. Ver. Antônio Sampaio,-23.475042,-46.638946
+510001668,"Av. Ultramarino, 548",Ref.: Tr Cadimas/ Tr Lida Borelli,-23.473185,-46.639886
+510001669,"Av. Ultramarino, 490",Ref.: R Ouchi/ Tr Cadimas,-23.473266,-46.639929
+510001670,"Av. Ultramarino, 809",Ref.: Rua Liestal,-23.471168,-46.641775
+510001671,"Av. Ultramarino, 900",Ref.: R Liestal/ R Herison,-23.471008,-46.642696
+510001673,"Av. Ultramarino, 1178",Ref.: R Casa Ilha Da Madeira/ Av Parada Pinto,-23.469498,-46.644877
+510001696,"Av. Zumkeller, 251",Ref.: Av Do Guaca/ R Ponta Grossa,-23.476791,-46.633776
+510001697,"Av. Zumkeller, 234",Ref.: R Ponta Grossa/ Av Do Guaca,-23.47696,-46.63361
+510001698,"R. Voluntários Da Pátria, 4840",Ref.: R Jacarapinima/ R Sousa Lopes,-23.47919,-46.632559
+510001699,"R. Voluntários Da Pátria, 4873",Ref.: R Professor Jose Pardelli/ R Jacarapinima,-23.479368,-46.632621
+510001700,"R. Voluntários Da Pátria, 4573",Ref.: Av. Engº Caetano Alvares/praça Rotary Clube De São Paulo Norte,-23.482482,-46.631963
+510001701,R. Voluntários Da Pátria,Ref.: Av Eng. Caetano Alvares/ R. Professor Valerio Giuli,-23.482286,-46.631945
+510001932,"Av. Ultramarino, 111",Ref.: R Luciano Freire/ R Emigdio Carbonari,-23.475997,-46.637459
+510001933,"Av. Ultramarino, 78",Ref.: R Luciano Freire/ V-ped Guaracoba,-23.476139,-46.637177
+510001934,"R. Iris Leonor, 189",Ref.: Av Ultramarino/ R Odivelas,-23.476804,-46.636377
+510001935,"R. Iris Leonor, 132",Ref.: R Jose Jeronimo Vasconcelos/ R Odivelas,-23.476796,-46.635724
+530015150,Ac. Acesso A,Ref.: R Doutor Astolfo Araujo/ Vdto General Marcondes Salgado,-23.583773,-46.652583
+530015151,Av. Vinte E Três De Maio,Ref.: Rua Curitiba / Acesso A Av. Pedro Alvares Cabral,-23.582629,-46.652386
+530015179,Av. Vinte E Três De Maio,Ref.: Vdto Tutoia/ Av Pedro Alvares Cabral,-23.581764,-46.650262
+530015184,"Av. Moreira Guimarães, 510",Ref.: Av Jandira/ Av Jamaris,-23.611589,-46.656429
+530015185,Av. Moreira Guimarães,Ref.: Av Aratas/ Av Irai,-23.613477,-46.658198
+530015186,Av. Pedro Alvares Cabral,Ref.: Av Quarto Centenario/ Complexo Viario Ayrton Senna,-23.589427,-46.652329
+530015187,"Av. Prof. Ascendino Reis, 560",Ref.: Vdto Borges Lagoa - Hosp Edmundo Vasconcelos,-23.595542,-46.650933
+530015188,"Av. Prof. Ascendino Reis, 724",Ref.: R Pedro De Toledo/ R Borges Lagoa,-23.597453,-46.651094
+530015189,"Av. Prof. Ascendino Reis, 830",Ref.: R Pedro De Toledo/ Av Rubem Berta,-23.598417,-46.6512
+530015190,Av. Rubem Berta,Ref.: Av Onze De Junho/ Av Professor Ascendino Reis,-23.601046,-46.651431
+530015191,Av. Rubem Berta,Ref.: Al Canuri/ Av Piassanguaba,-23.60486,-46.651787
+530015192,Av. Rubem Berta,Ref.: Al Uanana/ Av Indianopolis,-23.606932,-46.652313
+530015193,Av. Moreira Guimarães,Ref.: Av Moema/ Av Divino Salvador,-23.60883,-46.654005
+540014084,"R. Siqueira Bueno, 868",Ref.: R Serra Da Bocaina/ R Taquari,-23.546288,-46.591934
+540014085,"R. Siqueira Bueno, 1098",Ref.: R Diamantino/ R Professor Machado Tolosa,-23.547958,-46.590361
+540014086,"R. Siqueira Bueno, 1328",Ref.: Tr Siqueira Bueno/ R Tobias Barreto,-23.549599,-46.588837
+540014144,Juventus B/C,"Av. Paes De Barros, 2621 Ref.: R Juventus/ R Coronel Joviniano Brandao",-23.573775,-46.587448
+540014145,Juventus C/B,"Av. Paes De Barros, 2562 Ref.: R Juventus/ R Coronel Joviniano Brandao",-23.573402,-46.587489
+540014146,São Cristóvão C/B,"Av. Paes De Barros, 2226 Ref.: R Terenas/ R Manuel Vieira Souza",-23.570096,-46.587572
+540014147,São Cristóvão B/C,"Av. Paes De Barros, 2199 Ref.: R Terenas/ R Manuel Vieira Souza",-23.569692,-46.587742
+540014148,Bixira C/B,"Av. Paes De Barros, 1766 Ref.: R Bixira/ R Isabel Dias",-23.567646,-46.590692
+540014149,Bixira B/C,"Av. Paes De Barros, 1697 Ref.: R Bixira/ R Emboacava",-23.567176,-46.591552
+540014150,Guaimbe C/B,"Av. Paes De Barros, 1306 Ref.: R Guaimbe/ R Came",-23.565522,-46.594744
+540014151,Guaimbe B/C,"Av. Paes De Barros, 1219 Ref.: R Guaimbe/ R Jumana",-23.565074,-46.595431
+540014152,Inhomerim C/B,"Av. Paes De Barros, 844 Ref.: R Ezequiel Ramos/ R Visconde De Inhomerim",-23.56248,-46.597946
+540014153,Inhomerim B/C,"Av. Paes De Barros, 755 Ref.: R Visconde De Inhomerim/ R Curupace",-23.561786,-46.598446
+540014154,Oratorio C/B,"Av. Paes De Barros, 167 Ref.: Tr Francisco Santurini/ R Leocadia Cintra",-23.55684,-46.600202
+540014155,"R. Taquari, 156",Ref.: R Javari/ R Dos Trilhos,-23.553968,-46.600079
+540014156,"R. Taquari, 156",Ref.: R Javari/ R Dos Trilhos -- Em Frente Ao Armarinhos Fernando,-23.553976,-46.599752
+540014157,Pça. Ciro Pontes,Ref.: R Bresser/ R Taquari,-23.552051,-46.599756
+540014159,"R. Bresser, 2376",Ref.: Ac Esquerdo Vd Bresser/ Pc Ciro Pontes,-23.549703,-46.60125
+540014160,"R. Dos Trilhos, 894",Ref.: R Visconde De Laguna/ R Taquari,-23.553229,-46.601569
+540014161,"R. Taquari, 84",Ref.: Pc Ciro Pontes/ R Bresser,-23.552722,-46.599195
+540014163,"R. Taquari, 556",Ref.: R Catarina Braida/ Pc Ciro Pontes,-23.55106,-46.597429
+540014164,"R. Taquari, 1058",Ref.: R Paqueta/ R Sapucaia,-23.547957,-46.594215
+540014165,"R. Paraupava, 74",Ref.: R Taquari/ R Caa Acu,-23.547138,-46.592349
+540014169,"R. Tobias Barreto, 305",Ref.: R Dos Trilhos/ R Cassandoca,-23.554838,-46.591717
+540014171,"R. Tobias Barreto, 557",Ref.: R Souza Leao/ R Sapucaia,-23.552647,-46.590898
+540014173,"R. Tobias Barreto, 789",Ref.: R Itabaiana/ R Doutor Ernesto Moreira,-23.551133,-46.589329
+540014183,"Pça. Dos Industriários, 1611",Ref.: R Jeronimo De Mendonca/ R Benedita Maria Cardoso,-23.554107,-46.593653
+540014236,"R. Da Mooca, 3031",Ref.: R Dos Capitaes Mores/ R Domingos De Oliveira,-23.556068,-46.595694
+540014254,"R. Ipanema, 626","R. Ipanema, 626 Ref.: R Hipodromo/ R Guarapuava",-23.54683,-46.606474
+540014259,"R. Do Hipódromo, 1110",Ref.: R Frei Gaspar/ Av Alcantara Machado,-23.548543,-46.606207
+540014575,"Av. Alcântara Machado, 1505",Ref.: R Conselheiro Lafaiette/ R Doutor Almeida Lima,-23.551636,-46.608719
+540014576,"Av. Alcântara Machado, 2180",Ref.: R Guarapuava/ R Do Hipodromo,-23.54926,-46.604342
+540014577,Instituto Brasileiro De Controle Do Cancer,"Av. Alcântara Machado, 2576 Ref.: R Joao Tobias/ Ac Esquerdo Vd Bresser",-23.547464,-46.601027
+540014578,"Av. Alcântara Machado, 2988",Ref.: R Jaibaras/ R Doutor Siqueira Cardoso,-23.545496,-46.597145
+540014584,"Av. Alcântara Machado, 3198",Ref.: R Doutor Fomm / Vdto Guadalajara,-23.544691,-46.595242
+540014585,Instituto Brasileiro De Controle Do Cancer,"Av. Alcântara Machado, 2713 Ref.: Ac Direito Vd Bresser/ R Pires Do Rio",-23.546269,-46.599898
+540014586,"Av. Alcântara Machado, 2105",Ref.: R Guarapuava/ R Do Hipodromo,-23.549079,-46.60482
+540014587,"Av. Alcântara Machado, 1555",Ref.: R Conselheiro Lafaiette/ R Doutor Almeida Lima,-23.551705,-46.609688
+570014287,Museu Cmtc,"Av. Cruzeiro Do Sul, 780 Ref.: R Paulino Guimaraes/ R Guapore",-23.524361,-46.625203
+570014302,"R. Silva Teles, 1405",Ref.: R Joaquim Carlos/ R Paulo Andrighetti,-23.526749,-46.607212
+570014303,"R. Silva Teles, 1167",Ref.: Av Pedroso Da Silveira/ R Siqueira Afonso,-23.528289,-46.608792
+570014304,"R. Silva Teles, 933",Ref.: R Godoi Preto/ R Cachoeira,-23.529665,-46.610244
+570014305,"R. Silva Teles, 707",Ref.: R Joao Boemer/ R Rio Bonito,-23.531303,-46.611862
+570014306,"R. Silva Teles, 489",Ref.: R Bresser/ R Julia Bresser,-23.532725,-46.613323
+580007517,"Av. Aricanduva, 8734",Ref.: R Porto Das Armadias/ R Pastor Adarcy De Oliveira,-23.590556,-46.477887
+580007531,"Av. Aricanduva, 12011",Ref.: R Itapirinaia / Estr Da Fazenda Do Carmo,-23.592422,-46.472395
+580007606,"Av. Aricanduva, 7867",Ref.: Av Afonso De Sampaio E Souza/ Est Da Barroca Funda,-23.582875,-46.489874
+670013043,"Av. Dq. De Caxias, 394",Ref.: Al Barao De Campinas/ Al Barao De Limeira,-23.538475,-46.645237
+670014118,"R. Mauá, 66",Ref.: Largo General Osorio/ R Dos Protestantes,-23.535154,-46.638689
+670016451,Av. Vinte E Três De Maio,Ref.: Viaduto Dona Paulinia/ Vdto Brigadeiro Luiz Antonio,-23.552222,-46.636898
+700013961,"Al. Nothmann, 1076",Ref.: R General Julio Marcondes Salgado/ R Vitorino Carmilo,-23.535457,-46.650729
+700016123,"R. Das Palmeiras, 247",Ref.: Al Glete/ Al Nothmann,-23.537158,-46.651492
+700016430,"Al. Glete, 1049",Ref.: R Das Palmeiras/ Av Sao Joao,-23.537484,-46.650581
+700016854,"R. Sebastião Pereira, 245",Ref.: R Barao De Joatinga/ R Ana Cintra,-23.539418,-46.649066
+700016864,"Av. Dq. De Caxias, 170",Ref.: R Doutor Frederico Steidel/ Av Sao Joao,-23.54041,-46.646322
+710000635,Parada 2,"Av. Cruzeiro Do Sul, 3200 Ref.: R Leite De Morais/ R Doutor Gabriel Piza",-23.50225,-46.624476
+710000636,Parada 1,"Av. Cruzeiro Do Sul, 3201 Ref.: R Doutor Gabriel Piza/ R Leite De Morais",-23.502511,-46.624921
+710000637,R. Leite De Morais,R. Leite De Morais Ref.: Av Cruzeiro Do Sul/ R Ezequiel Freire,-23.503152,-46.623698
+710000646,"R. Olavo Egídio, 62",Ref.: R Conselheiro Saraiva/ R Doutor Olavo Egidio,-23.499859,-46.625196
+710000651,"R. Voluntários Da Pátria, 1658",Ref.: R Alfredo Guedes/r Alferes Magalhaes,-23.505411,-46.62622
+710000653,"Av. Cruzeiro Do Sul, 2762",Ref.: R Alfredo Guedes/ Av General Ataliba Leonel,-23.506563,-46.624676
+710000954,"Av. Cruzeiro Do Sul, 1741",Ref.: R Mal. Odylio Dennys/ Tvp Profa Lindya Clemente,-23.516007,-46.62536
+710000958,"R. Voluntários Da Pátria, 1332",Ref.: R Forca Publica/ Av Gen. Ataliba Leonel,-23.508752,-46.626145
+710000959,"R. Voluntários Da Pátria, 1166",Ref.: R Paulo Setubal/ R Forca Publica,-23.510225,-46.626113
+710000966,"R. Paineira Do Campo, 45",Ref.: R Voluntarios Da Patria/ Pc Campo De Bagatelle,-23.513173,-46.626863
+710000969,"Av. Cruzeiro Do Sul, 2463",Ref.: R Forca Publica/ Av Gen. Ataliba Leonel,-23.509213,-46.625087
+710000972,"Av. Cruzeiro Do Sul, 2424",Ref.: R Manoel Dos Santos Netto/ Av Gen. Ataliba Leonel,-23.509648,-46.624735
+710001702,"R. Voluntários Da Pátria, 4280",Ref.: R Sta Rita De Cassia/ Av Eng. Caetano Alvares,-23.483811,-46.630994
+710001703,"R. Voluntários Da Pátria, 4075",Ref.: R Sta Rita De Cassia/ R Dr. Luis Lustosa Da Silva,-23.485295,-46.62914
+710001704,"R. Voluntários Da Pátria, 3958",Ref.: R Lucia Goulart Cerqueira/ R Dr. Luis Lustosa Da Silva,-23.485945,-46.628223
+710001705,"R. Voluntários Da Pátria, 3744",Ref.: R Lucia Goulart Cerqueira/ R Dr. Luis Lustosa Da Silva,-23.487151,-46.626798
+710001706,"R. Voluntários Da Pátria, 3566",Ref.: R Dr. Guilherme Cristofel/ R Tome Ferreira,-23.48895,-46.626352
+710001707,"R. Voluntários Da Pátria, 3401",Ref.: R Manoel De Soveral/ R Antonio Pereira De Sousa,-23.490338,-46.626183
+710001708,"R. Voluntários Da Pátria, 3458",Ref.: R Antonio Pereira De Sousa/ R Manoel De Soveral,-23.489761,-46.62622
+710002155,"R. Voluntários Da Pátria, 3147",Ref.: R Voluntarios Da Patria/ R Ana Benvinda De Andrade,-23.492514,-46.626107
+710002156,"R. Voluntários Da Pátria, 3158",Ref.: R Ana Benvinda De Andrade/ R Dr. Artur Guimaraes,-23.492479,-46.625986
+710002157,"R. Paulo Gonçalves, 89",Ref.: R Francisco Baruel/ R Estefania Mendes Pereira,-23.496183,-46.627756
+710002158,"R. Paulo Gonçalves, 88",Ref.: R Estefania Mendes Pereira/ R Francisco Baruel,-23.496111,-46.627651
+710002302,"R. Cons. Saraiva, 189",Ref.: R Voluntarios Da Patria/ Av Cruzeiro Do Sul,-23.499019,-46.62512
+710017208,"Av. Cruzeiro Do Sul, 2092",Ref.: R Gabriel Prestes/ R Cel. Antonio De Carvalho,-23.512707,-46.624814
+710017212,"Av. Cruzeiro Do Sul, 2195",Ref.: R Sta Eulalia/ R Gabriel Prestes,-23.511995,-46.62519
+710017213,"Av. Cruzeiro Do Sul, 1877",Ref.: R Cerqueira Leite/r Pe. Ildefonso,-23.51403,-46.625298
+710017220,"Pça. Miguel Delgado, 138",Ref.: Pc Miguel Delgado/ R Cel. Arbues,-23.494275,-46.627261
+710017221,"R. Francisca Júlia, 28",Ref.: R Cel. Arbues/r Voluntarios Da Patria,-23.494545,-46.626546
+740006387,"Av. Do Oratório, 3466",Ref.: R Vitoria Do Mearim/ R Antonio Marques Juliao,-23.598413,-46.538982
+740006388,"Av. Do Oratório, 3331",Ref.: R General Roque Da Silva Palmeiro/ R Miguel Desiato,-23.597858,-46.540386
+740006389,"Av. Do Oratório, 3083",Ref.: R Doutor Silvio Noronha/ R Carlos Cesar,-23.596581,-46.541908
+740006390,"Av. Do Oratório, 3016",Ref.: R Maesto Furio Franceschini/ R Barlavento,-23.596304,-46.542526
+740006395,"Av. Do Oratório, 2358",Ref.: Av Sao Lucas/ R David Barione,-23.592739,-46.546898
+740006396,Av. Do Oratório,Ref.: Av Sao Lucas/ R David Barione,-23.592247,-46.547264
+740006398,"Av. Do Oratório, 2022",Ref.: R Doutor Arnaldo Barbosa/ R Professor Maximo De Moura Santos,-23.591593,-46.549591
+740006399,"Av. Do Oratório, 1997",Ref.: R Coronel Jose Da Silva Neto/ R Professor Lelis Vilas Boas,-23.591309,-46.550262
+740006400,"Av. Do Oratório, 1661",Ref.: R Bartolomeu Correa Bueno/ R Lupe Cotrim Garaude,-23.589857,-46.552551
+740006410,"R. Suzana, 1259",Ref.: R Marcelo Muller/ Av Alberto Ramos,-23.583422,-46.56345
+740006411,"R. Suzana, 1112",Ref.: R Sao Joao Do Sabugi/ R Marcelo Muller,-23.584595,-46.564362
+740006412,"R. Suzana, 778",Ref.: R Sao Jose Da Tapera/ R Sales,-23.587395,-46.563259
+740006413,"R. Suzana, 748",Ref.: R Sao Jose Da Tapera/ R Sales,-23.587673,-46.562923
+740006414,"R. Suzana, 478",Ref.: R Alexandre Gutierrez/ R Sao Jose Da Tapera,-23.589537,-46.561378
+740006415,"R. Suzana, 423",Ref.: R Sideropolis/ R Edgard Da Mata Machado,-23.589996,-46.561089
+740006416,"R. Suzana, 223",Ref.: R Betume/ R Gama Barros,-23.591472,-46.559872
+740006417,"R. Suzana, 206",Ref.: R Betume/ R Gama Barros,-23.591585,-46.559708
+740006419,"R. Dario Meira, 52",Ref.: Rua Ipuiuna,-23.593626,-46.557762
+740006420,"R. Orlando Calixto, 607",Ref.: R Secundino Domingues/ R Marcelo Muller,-23.594067,-46.555099
+740006489,"R. Antônio Marques Julião, 72",Ref.: R Manduruva/ Av Do Oratorio,-23.599138,-46.538795
+740006490,"R. Antônio Marques Julião, 121",Ref.: R Erva Imperial/ R Manduruva,-23.599609,-46.539001
+740006491,"R. Antônio Marques Julião, 262",Ref.: Praça Sonia Aparecida De Lima,-23.600863,-46.539299
+740006492,"R. Antônio Marques Julião, 258",Ref.: Praça Sonia Aparecida De Lima,-23.601097,-46.539573
+740006493,"R. Balata, 35","R. Balata, 35 Ref.: R Antonio Marques Juliao/ R Caopia",-23.601643,-46.539501
+740006514,"Av. Brumado De Minas, 270",Ref.: R Ipuiuna/ R Jose Jeraissati,-23.593412,-46.559258
+740006518,"R. Artia, 322",Ref.: Rua Secundino Domingues,-23.59211,-46.556931
+740006519,"R. Orlando Calixto, 128",Ref.: R Urucurituba/ Av Do Oratorio,-23.590025,-46.554176
+740006520,"R. Orlando Calixto, 427",Ref.: R Atuba/ R Urucurituba,-23.592756,-46.554363
+740006522,"R. Pe. Pedro Rota, 365",Ref.: R Professor Aldebar De Castro/ R Doutor Miguel Bombarda,-23.59371,-46.552765
+740006523,"R. Pe. Pedro Rota, 21",Ref.: R Visconde De Saboia/ Av Do Oratorio,-23.591463,-46.550793
+740006525,"R. Herwis, 863",Ref.: R Atilio Santucci/ R Barros Sobrinho,-23.587135,-46.543087
+740006526,"R. Solidônio Leite, 2613",Ref.: Pc Virgilio Lucio/ R Helio Tomas,-23.58696,-46.533993
+740006528,"R. Solidônio Leite, 2232",Ref.: R Anhumas/ R Edmundo Juventino Fuentes,-23.585682,-46.537422
+740006529,"R. Solidônio Leite, 2081",Ref.: R Jamaxi/ R Padre Marcel Cutsem,-23.585022,-46.538876
+740006530,"R. Solidônio Leite, 2044",Ref.: R Jamaxi/ R Padre Marcel Cutsem,-23.584944,-46.539181
+740006531,"R. Solidônio Leite, 1835",Ref.: R Silvio Brant Correia/ R Herwis,-23.584156,-46.541084
+740006532,"R. Solidônio Leite, 1800",Ref.: R Silvio Brant Correia/ R Herwis,-23.58411,-46.541382
+740006605,"Av. S. Lucas, 101",Ref.: R Leonardo Vilas Boas/ R Do Arquipelago,-23.593901,-46.546753
+740006632,"R. Secundino Domingues, 477",Ref.: Rua Jaguarari,-23.59099,-46.557373
+740006634,"R. Secundino Domingues, 179",Ref.: Rua Felipe Cardelino,-23.588875,-46.559128
+740006635,"R. Secundino Domingues, 1",Ref.: Rua Segismund Domingues,-23.587797,-46.560062
+740006636,"Av. Alberto Ramos, 510",Ref.: R Gloria Do Goita/ Tr Junco Do Serido,-23.585359,-46.561909
+740006637,"Av. Alberto Ramos, 255",Ref.: R Gloria Do Goita/ Tr Junco Do Serido,-23.58514,-46.56192
+740006638,"Av. Alberto Ramos, 40",Ref.: R General Irulegui Cunha/ R Susana,-23.583311,-46.562836
+740006714,"Av. Vila Ema, 3647",Ref.: R Arneiroz/ R Boca Do Acre,-23.587599,-46.543934
+740006715,"Av. Vila Ema, 3648",Ref.: Rua Arneiroz / Rua Boca Do Acre,-23.587675,-46.543976
+740006716,"Av. Vila Ema, 3472",Ref.: Rua Andre De Frias / Tr Maria De Lorena,-23.58648,-46.544956
+740006717,"Av. Vila Ema, 3459",Ref.: Rua Andre De Frias/ Tr Maria De Lorena,-23.586241,-46.545039
+740006718,"Av. Vila Ema, 3292",Ref.: Rua Bento Sabino Dos Reis / Rua Augusto Fetzer,-23.585125,-46.546085
+740006719,"Av. Vila Ema, 2955",Ref.: Rua Joao Graeber - B/C,-23.58328,-46.54851
+740006720,"Av. Vila Ema, 2884",Ref.: Rua Henrique Gabriel Forli / Rua Taufik Kurban,-23.583073,-46.549473
+740006721,"Av. Vila Ema, 2698",Ref.: Rua Lessing / Rua Tupixas,-23.582457,-46.550968
+740006722,"Av. Vila Ema, 2623",Ref.: Rua Quatigua - B/C,-23.582121,-46.55159
+740006723,"Av. Vila Ema, 2465",Ref.: Rua Gomes / Rua Jabiaçu,-23.581678,-46.553089
+740006724,"Av. Vila Ema, 2398",Ref.: Rua Ribeiropolis / Rua Gomes,-23.581663,-46.553623
+740006725,"Av. Vila Ema, 2180",Ref.: Rua Genaro Arila Arensanz / Rua Herman Frank,-23.581236,-46.555214
+740006727,"Av. Vila Ema, 1950",Ref.: Rua Antonio Gomes / Rua Ana De Araujo Paula,-23.58091,-46.558018
+740006728,"Av. Vila Ema, 1733",Ref.: Rua Silvio De Sousa / Rua Ana De Araujo Paula,-23.580687,-46.56007
+740006729,"Av. Vila Ema, 1668",Ref.: Rua Silvio De Sousa / Rua Manoel Vieira Pinto,-23.58091,-46.560658
+740006730,"Av. Vila Ema, 1542",Ref.: Rua São Gotardo / Rua Nupeba,-23.581104,-46.561829
+740006731,"Av. Vila Ema, 1490",Ref.: Rua Viconde De Goiania / Rua Batuns,-23.581272,-46.562321
+740012712,"Av. Prof. Luiz Ignácio Anhaia Mello, 2568",Ref.: Motel Marselha -- Rua Sao Joao Do Sabugi,-23.582819,-46.565456
+750006127,"Av. Mateo Bei, 3419",Ref.: R Doutor Felice Buscaglia/ R Ernesto Manograsso,-23.610315,-46.476571
+750006129,"Av. Mateo Bei, 3244",Ref.: R Doutor Felice Buscaglia/ R Doutor Edmur Whitaker,-23.609144,-46.477522
+750006130,"Av. Mateo Bei, 3247",Ref.: R Doutor Felice Buscaglia/ R Doutor Edmur Whitaker,-23.609027,-46.477473
+750006131,"Av. Mateo Bei, 3096",Ref.: R Doutor Edmur Whitaker/ R Francisco Cordelli,-23.607854,-46.478384
+750006132,"Av. Mateo Bei, 3019",Ref.: R Doutor Edmur Whitaker/ R Francisco Cordelli,-23.607272,-46.478632
+750006133,"Av. Mateo Bei, 2787",Ref.: R Doutor Raul Manso Sayao Filho/ R Tita Ruffo,-23.605526,-46.479935
+750006134,"Av. Mateo Bei, 2750",Ref.: R Doutor Raul Manso Sayao Filho/ R Tita Ruffo,-23.605347,-46.480235
+750006135,"Av. Mateo Bei, 2540",Ref.: R Carlos Vivaldi/ R Luis Pita,-23.603999,-46.481406
+750006136,"Av. Mateo Bei, 2511",Ref.: R Carlos Vivaldi/ R Luis Pita,-23.603563,-46.481637
+750006137,"Av. Mateo Bei, 2225",Ref.: R Margarida Cardoso Dos Santos/ R Vitorio Azzalin,-23.601568,-46.483311
+750006138,"Av. Mateo Bei, 2200",Ref.: R Margarida Cardoso Dos Santos/ R Vitorio Azzalin,-23.601488,-46.483501
+750006139,"R. Ribeiro Duarte, 791",Ref.: Vel Seis/ R Alberto De Macedo,-23.619518,-46.481167
+750006140,"R. Ribeiro Duarte, 758",Ref.: Vel Seis/ R Alberto De Macedo,-23.619272,-46.481285
+750006141,"R. Ribeiro Duarte, 556",Ref.: R Professor Mendes Pimentel/ R Liberato Barroso,-23.617483,-46.481487
+750006142,"R. Ribeiro Duarte, 455",Ref.: R Liberato Barroso/ R General Dionisio Cerqueira,-23.616661,-46.481392
+750006143,"R. Ribeiro Duarte, 322",Ref.: R General Dionisio Cerqueira/ R Ministro Luis Sparano,-23.615427,-46.481758
+750006144,"R. Min. Luiz Sparano, 104",Ref.: R Ribeiro Duarte/ R Sao Sergio,-23.61375,-46.482262
+750006145,"R. Min. Luiz Sparano, 105",Ref.: R Ribeiro Duarte/ R Sao Sergio,-23.613667,-46.482311
+750006146,"Av. Tte. Lauro Sodre, 601",Ref.: R Jose De Gois E Morais/ R Acrisio Santana,-23.61573,-46.484447
+750006147,"R. Gabriel Soares, 80",Ref.: Av.tenente Lauro Sodré,-23.620405,-46.482769
+750006148,"R. Gabriel Soares, 123",Ref.: R Manuel Marino Tapia/ R Rubens Cotrim,-23.620236,-46.482644
+750006195,"Av. Mateo Bei, 1160",Ref.: R Coronel Ernesto Duprat/ R Amelia Augusta Rodrigues,-23.593411,-46.488529
+750006196,"Av. Mateo Bei, 1181",Ref.: R Coronel Ernesto Duprat/ R Amelia Augusta Rodrigues,-23.593672,-46.488267
+750006197,"Av. Mateo Bei, 1408",Ref.: R Amelia Augusta Rodrigues/ R Alessandro Giulio Dell Aringa,-23.595564,-46.487706
+750006198,"Av. Mateo Bei, 1473",Ref.: R Alessandro Giulio Dell Aringa/ R Professor Brasilio Barni,-23.595961,-46.48744
+750006199,"Av. Mateo Bei, 1641",Ref.: R Professor Brasilio Barni/ R Professor Jose Decio Machado Gaia,-23.597441,-46.486771
+750006200,"Av. Mateo Bei, 1732",Ref.: R Paulino Cursi/ R Professor Jose Decio Machado Gaia,-23.598186,-46.486331
+750006201,"Av. Mateo Bei, 1911",Ref.: R Doutor Aureliano Da Silva Arruda/ R Paulino Cursi,-23.599342,-46.48523
+750006202,"Av. Mateo Bei, 2050",Ref.: R Doutor Aureliano Da Silva Arruda/ R Vitorio Azzalin,-23.600157,-46.484634
+750006278,"R. Campo Florido, 21",Ref.: R Francisco Da Costa Machado/ Av Pirapitinga,-23.594084,-46.499695
+750006279,"Av. Pirapitinga, 11",Ref.: R Taiobeiras/ R Pedrinopolis,-23.595108,-46.499462
+750006280,"R. Douradoquara, 90",Ref.: R Basilio Martins De Lisboa/ R Dom Gregorio Dos Anjos,-23.596592,-46.501122
+750006281,"R. Douradoquara, 77",Ref.: Rua Dom Gregorio Dos Anjos,-23.59656,-46.501293
+750006282,R. Douradoquara,Ref.: Pc Catas Altas/ R Turvolandia,-23.595301,-46.502678
+750006285,"R. Cachoeira Do Campo, 348",Ref.: R Caiana/ R Da Ecologia,-23.595196,-46.503071
+750006772,Terminal S. Mateus - Plat. A,Ref.: Av Sapopemba/ Pc Felisberto Fernandes Da Silva,-23.612541,-46.476368
+750007514,"Av. Aricanduva, 7676",Ref.: R Bericopone/ R Caetano Rodrigues,-23.583778,-46.490261
+750007515,"Av. Aricanduva, 8140",Ref.: R Pacheco Gato/ R Cristovao De Oliveira,-23.586888,-46.487178
+750007516,"Av. Aricanduva, 8240",Ref.: R Pacheco Gato/ R Cristovao De Oliveira,-23.587204,-46.483632
+750007518,"Av. Aricanduva, 12170",Ref.: R Pastor Adarcy De Oliveira/ R Amorim Viana,-23.593046,-46.471685
+750012296,"Av. Rio Das Pedras, 3620",Ref.: R Funilandia/ Av Luis Pires De Minas,-23.581548,-46.498345
+750012297,"Av. Rio Das Pedras, 3893",Ref.: R Doutor Mario Rodrigues Louza/ R Francisco Queiroz Matos,-23.583122,-46.49607
+750012298,"Av. Rio Das Pedras, 4088",Ref.: R Pocos De Caldas/ R Angelo Santesso,-23.583883,-46.493806
+750012299,"Av. Rio Das Pedras, 4117",Ref.: R Pocos De Caldas/ R Ana Santesso,-23.583688,-46.493855
+750012300,"Av. Rio Das Pedras, 3837",Ref.: R Felisberto Augusto De Oliveira/ R Doutor Mario Rodrigues Louza,-23.582829,-46.4963
+750012301,"Av. Rio Das Pedras, 3521",Ref.: R Funilandia/ R Capinopolis,-23.581094,-46.498731
+750012664,"Av. Aricanduva, 6640",Ref.: R Lamim/ R Capinopolis,-23.578822,-46.498679
+750012665,"Av. Aricanduva, 7786",Ref.: R Funilandia/ R Ana Santesso,-23.579057,-46.496567
+780005491,"Av. Da Barreira Grande, 3029",Ref.: R Amelia Vanso Magnoli/ R James Nares,-23.589513,-46.508274
+780005530,"Av. Da Barreira Grande, 2079",Ref.: R Pedro De Castro Velho/ Av Lauro Xerfan,-23.587144,-46.516306
+780005531,"Av. Da Barreira Grande, 1965",Ref.: R Raio De Sol/ Av Lauro Xerfan,-23.586829,-46.517275
+780005532,"Av. Da Barreira Grande, 1710",Ref.: R Castelo Rodrigo/ R Garcez Do Nascimento,-23.585695,-46.518895
+780005533,"Av. Da Barreira Grande, 1679",Ref.: R Alger/av. Inconfidencia Mineira,-23.585387,-46.519471
+780005553,"Av. Da Barreira Grande, 1548",Ref.: R Engenheiro Pinto Martins/ Av Inconfidencia Mineira,-23.584881,-46.520702
+780005555,"Av. Da Barreira Grande, 1209",Ref.: R Sylvio Pesseti/ R Acaron,-23.584891,-46.523695
+780005556,"Av. Da Barreira Grande, 1156",Ref.: R Acaron/ R Arambare,-23.585013,-46.524172
+780006287,"R. Nova Brasília, 75",Ref.: R Canoeiros/ Tr Jorge Gomes,-23.594848,-46.50552
+780006289,"R. Nova Brasília, 367",Ref.: R Mara Rosa/ R Luis Antonio Da Costa,-23.59684,-46.507156
+780006290,"R. Nova Brasília, 408",Ref.: R Mara Rosa/ R Luis Antonio Da Costa,-23.597092,-46.507294
+780006291,"R. Nova Brasília, 857",Ref.: R Manuel Vilalobos/ R Hermes Silva,-23.59812,-46.510948
+780006292,"R. Nova Brasília, 902",Ref.: R Manuel Vilalobos/ R Jose De Oliveira China,-23.598066,-46.511506
+780006293,"R. Gen. Porfírio Da Paz, 2209",Ref.: R Antonio Batista De Oliveira/ R General Porfirio Da Paz,-23.599382,-46.513718
+780006294,"R. Gen. Porfírio Da Paz, 2208",Ref.: R Antonio Batista De Oliveira/ R General Porfirio Da Paz,-23.599253,-46.513878
+780006296,"R. Gen. Porfírio Da Paz, 1250",Ref.: Av Israel Fonseca/ R Borges De Medeiros,-23.595395,-46.518266
+780006297,"R. Gen. Porfírio Da Paz, 1171",Ref.: R Dos Gerentes/ R Do Cambio,-23.594952,-46.518517
+780006298,"R. Gen. Porfírio Da Paz, 815",Ref.: Tr Margaridas Ao Vento/ R Guilherme Studart,-23.592155,-46.519497
+780006299,"R. Gen. Porfírio Da Paz, 778",Ref.: R Dos Tesoureiros/ R Guilherme Studart,-23.591862,-46.519516
+780006300,"R. Gen. Porfírio Da Paz, 8",Ref.: R Dos Correntistas/ Av Da Barreira Grande,-23.585976,-46.518754
+780006301,"R. Gen. Porfírio Da Paz, 378",Ref.: R Da Bolsa/ R Dos Cambistas,-23.588725,-46.520204
+780006302,"R. Gen. Porfírio Da Paz, 543",Ref.: R Dos Financeiros/ R Da Bolsa,-23.589783,-46.519875
+780006303,"R. Gen. Porfírio Da Paz, 564",Ref.: R Dos Financeiros/ R Da Bolsa,-23.590101,-46.519718
+780006304,"R. Gen. Porfírio Da Paz, 1822",Ref.: R Antonio Batista De Oliveira/ R Marselha,-23.596457,-46.513729
+780006305,"R. Gen. Porfírio Da Paz, 1915",Ref.: R Manoel Do Sacramento/ R Manchester,-23.59716,-46.513457
+780006319,"R. Dr. Domingos Americano, 431","R. Dr. Domingos Americano, 431 Ref.: R Coronel Petrarca De Mesquita/ R Edouard Corbiere",-23.591545,-46.516174
+780006356,"Av. Francisco Vieira Bueno, 625",Ref.: Pc Guilherme De Salisbury/ Av Egidio Martins,-23.59392,-46.526478
+780006357,"Av. Francisco Vieira Bueno, 612",Ref.: Pc Guilherme De Salisbury/ Av Egidio Martins,-23.593969,-46.526588
+780006358,"Av. Francisco Vieira Bueno, 380",Ref.: R Frederico Jahn/ R Chiquinha Gonzaga,-23.592583,-46.527985
+780006359,"Av. Francisco Vieira Bueno, 309",Ref.: R Frederico Jahn/ R Chiquinha Gonzaga,-23.592014,-46.528442
+780006360,"Av. Francisco Vieira Bueno, 156",Ref.: R Jose Ingenieros/ R Professor Cortines Laxo,-23.591072,-46.529655
+780006361,"Av. Francisco Vieira Bueno, 23",Ref.: R Professor Cortines Laxo/ R Desembargador Veloso De Oliveira,-23.590343,-46.530388
+780006363,"Av. Eng. Feijó Bitencourt, 162",Ref.: Rua Álvaro Moreira,-23.588377,-46.529762
+780006364,"Av. Eng. Feijó Bitencourt, 568",Ref.: Rua Inácio De Loiola,-23.586178,-46.526409
+780006365,"Av. Eng. Feijó Bitencourt, 609",Ref.: Rua Inácio De Loiola,-23.586002,-46.526329
+780006665,"Av. Sapopemba, 6495",Ref.: R Antonio De Paula Souza/ R Nicola Farelli,-23.588324,-46.532253
+780006666,"Av. Sapopemba, 6574",Ref.: R Antonio De Paula Souza/ R Rodolfo Bernardelli,-23.588995,-46.532238
+780006667,"Av. Sapopemba, 6832",Ref.: R Mossoro/ R Aureliano Do Amaral,-23.590878,-46.531338
+780006668,"Av. Sapopemba, 6897",Ref.: R Joao Tauler/ R Tales,-23.59127,-46.530575
+780006669,"Av. Sapopemba, 7098",Ref.: R Tales/ R Posidonio,-23.592424,-46.529217
+780006670,"Av. Sapopemba, 7235",Ref.: R Posidonio/ R Antonio Muniz Fagundes,-23.593187,-46.528202
+780006671,"Av. Sapopemba, 7420",Ref.: R Doutor Eugenio Casillo/ R Padre Atilio Garret,-23.594477,-46.526997
+780006795,"Av. Sapopemba, 8842",Ref.: R Jose Joaquim/ R Obelisco,-23.599413,-46.514931
+780006796,"Av. Sapopemba, 9267",Ref.: R Alberto Gomes Leite/ R Francisco Vaz Coelho,-23.601803,-46.511272
+780006797,"Av. Sapopemba, 9317",Ref.: R Alberto Gomes Leite/ R Francisco Vaz Coelho,-23.602112,-46.510853
+780006798,"Av. Sapopemba, 9524",Ref.: R Ferreira De Abreu/ R Hugo De Barros,-23.603739,-46.509769
+780006799,"Av. Sapopemba, 9517",Ref.: R Ferreira De Abreu/ R Hugo De Barros,-23.60375,-46.509602
+780006802,"Av. Sapopemba, 10254",Ref.: Av Lourival Fontes/ R Felice Tosi,-23.60919,-46.505589
+780006803,"Av. Sapopemba, 10828",Ref.: R Doutor Edgard Pinto Cesar/ Av Custodio De Sa E Faria,-23.613508,-46.503876
+780006804,"Av. Sapopemba, 11236",Ref.: R Leite Furtado/ R Cristovao De Vasconcelos,-23.614735,-46.500458
+780006805,"Av. Sapopemba, 11456",Ref.: Tr Canto Nostalgico/ R Tenente Godofredo Cerqueira Leite,-23.614399,-46.498676
+780006806,"Av. Sapopemba, 11604",Ref.: R Soldado Candido Da Luz Paiva/ R Cabo Fleury Silva,-23.614197,-46.496002
+780006807,"Av. Sapopemba, 11760",Ref.: R Antonio Adorno/ Av Joao Rodrigues Ruiz,-23.612932,-46.494419
+780006808,"Av. Sapopemba, 12180",Ref.: R Antonio Leal Da Silva/ R Padre Antonio,-23.612978,-46.491238
+780006809,"Av. Sapopemba, 12152",Ref.: R Antonio Leal Da Silva/ R Alfonso Este -- Fundos Da Emef Prof. Giuseppe Tavolaro,-23.613066,-46.489243
+780006810,Estação Fazenda Da Juta - Monotrilho,"Av. Sapopemba, 12581 Ref.: Rua Benjamim De Tudela",-23.612118,-46.487686
+780006813,"Av. Sapopemba, 12727",Ref.: Av Tenente Lauro Sodre/ R Eduardo Antonio De Paula,-23.61013,-46.48542
+780006815,"Av. Sapopemba, 12127",Ref.: R Antonio Leal Da Silva/ R Padre Antonio,-23.612774,-46.491543
+780006816,"Av. Sapopemba, 11837",Ref.: R Antonio Adorno/ Av Joao Rodrigues Ruiz,-23.612751,-46.494671
+780006817,"Av. Sapopemba, 11625",Ref.: R Sargento Max Wolf Filho/ R Cabo Gastao Gama,-23.614038,-46.497448
+780006818,"Av. Sapopemba, 11180",Ref.: Av Arquiteto Vilanova Artigas/ R Leite Furtado,-23.614635,-46.501312
+780006820,"Av. Sapopemba, 10226",Ref.: Av Lourival Fontes/ R Felice Tosi,-23.608767,-46.505836
+780006821,"Av. Sapopemba, 9829",Ref.: R Francisca Marinho/ R Doutor Frederico Martins Da Costa Carvalho,-23.605759,-46.507977
+790015062,Cruz Vermelha Brasileira,"Av. Moreira Guimarães, 699 Ref.: Av Aratas/ Av Juruce",-23.613139,-46.657569
+790015063,Av. Moreira Guimarães,Ref.: Av Ceci/ Av Jamaris,-23.61007,-46.654486
+790015064,"Av. Rubem Berta, 1111",Ref.: Al Dos Camaiuras/ Av Indianopolis,-23.607706,-46.652211
+790015065,Av. Rubem Berta,Ref.: Ac Av Jose Maria Whitaker/ R Luis Gois,-23.603025,-46.651028
+790015146,Av. Rubem Berta,Ref.: R Doutor Afonso Baccari/ R Agostinho Rodrigues Filho,-23.600041,-46.650737
+800012673,Pq. D. Pedro II,Ref.: R Alexandria/ R Tabatinguera,-23.550286,-46.628571
+800015291,Pq. D. Pedro II,Ref.: R General Carneiro/ R Hercules Florence,-23.54611,-46.631254
+800016417,Av. Vinte E Três De Maio,Ref.: Vdto Doutor Manuel Jose Chaves/ Ac Vd Manuel Jose Chaves - Sentido Centro,-23.552752,-46.636557
+800016531,Terminal Parque Dom Pedro II - Plat 04,Term. Parque Dom Pedro II - Plat 04 Ref.: Av Do Estado/ Vdto Antonio Nakashima - (pmv - 42).,-23.547891,-46.629487
+820005518,Parada 3 - Metrô Tatuapé,R. Cruz Alta Ref.: Metro Tatuape/ R Caraguataí,-23.541278,-46.577545
+820005546,Parada 2 - Metrô Tatuapé,R. Melo Freire Ref.: Metro Tatuape/ R Tuiuti,-23.540824,-46.576025
+820008420,"R. Tuiuti, 2040",Ref.: R Fernao Tavares/ R Padre Estevao Pernet,-23.543557,-46.574812
+820008486,"R. Tuiuti, 2440",Ref.: R Cantagalo/ R Francisco Paulo,-23.546881,-46.573986
+820008575,"R. Tuiuti, 2750",Ref.: R Euclides Pacheco/ R Azevedo Soares,-23.549718,-46.573335
+820008761,"R. Serra De Braganca, 584",Ref.: Rua Serra De Japi,-23.545278,-46.569665
+820008804,"R. Serra De Botucatu, 1487",Ref.: R Antonio De Barros/ Tr Major Brito,-23.541712,-46.557403
+820008806,"R. Serra De Botucatu, 979",Ref.: R Apucarana/ R Monte Serrat,-23.542718,-46.562499
+820008807,"R. Serra De Botucatu, 749",Ref.: R Vilela/ R Apucarana,-23.543134,-46.56462
+820008812,"R. Pe. Adelino (pc Silvio Romero), 33",Ref.: R Tuiuti/ R Isidro Tinoco,-23.545177,-46.574072
+820008836,"R. Emília Marengo, 291",Ref.: R Itapura/ R Eleonora Cintra,-23.552964,-46.564355
+820008845,"R. Coelho Lisboa, 461",Ref.: R Euclides Pacheco/ R Emilio Mallet,-23.548502,-46.571958
+820008846,"R. Coelho Lisboa, 305",Ref.: R Cantagalo/ R Professora Aida Spinelli Campana,-23.546956,-46.572248
+820008856,"R. Tijuco Preto, 821",Ref.: R Airi/ R Itapura,-23.543182,-46.567794
+820008857,"R. Tijuco Preto, 671",Ref.: R Serra Do Japi/ R Airi,-23.543492,-46.569272
+820012014,"Av. Cde. De Frontin, 542",Ref.: R Pinhalzinho/ Vdto Engenheiro Alberto Badra,-23.535617,-46.55258
+820012166,"R. Emília Marengo, 0",Ref.: R Terebe/ R Apucarana,-23.553154,-46.562116
+820012169,"R. Emília Marengo, 737",Ref.: R Dona Januaria/ R Joaquina Augusta Sa Dos Anjos,-23.55443,-46.559991
+820012185,"R. Antônio De Barros, 2443",Ref.: Rua Aguapei/rua Ferreira França,-23.551826,-46.554193
+820012187,"R. Antônio De Barros, 2160",Ref.: R Passos Ourique/ R Sao Gil,-23.549082,-46.554891
+820012199,"R. Azevedo Soares, 1750",Ref.: R Delfino Casal De Rey/ R Monte Serrat,-23.547625,-46.559548
+820012202,"R. Azevedo Soares, 1338",Ref.: R Alberto Luchetti/ R Gilberto Barilari,-23.548421,-46.563839
+820012204,"R. Azevedo Soares, 1126",Ref.: R Miguel Venditi/ R Itapura,-23.548807,-46.565861
+820012208,"R. Azevedo Soares, 548",Ref.: R Coelho Lisboa/ R Da Saudade,-23.549911,-46.57136
+820012209,"Lgo. Nsa. Sra. Do Bom Parto, 126",Ref.: Largo Nossa Senhora Do Bom Parto/ R Dona Candida,-23.549365,-46.568766
+820012486,"Av. Cde. De Frontin, 0",Ref.: Vdto Conselheiro Carrao/ R Antonio De Barros,-23.536706,-46.557728
+820012500,Metrô Carrão - Parada 2,R. Melo Freire Ref.: R Apucarana,-23.538501,-46.564517
+870008567,"R. Curuena, 130",Ref.: R Aurora Das Dores/ R Alves De Almeida,-23.574133,-46.533462
+870008578,"Av. Trumain, 13",Ref.: Av Professor Carini/ Av Flor De Vila Formosa,-23.566644,-46.536041
+870008593,"Av. Flor De Vila Formosa, 59",Ref.: Av Trumain/ R Azevedo Brito,-23.566198,-46.53579
+870008594,"Av. Flor De Vila Formosa, 346",Ref.: Rua Muniz Barreiros,-23.564392,-46.533913
+870008595,"Av. Flor De Vila Formosa, 13",Ref.: R Nova Trento/ Av Flor De Vila Formosa,-23.564296,-46.533916
+870008596,"Av. Flor De Vila Formosa, 529",Ref.: R Banharao/ R Pereira Barbosa,-23.563371,-46.532568
+870008634,"Av. Guilherme Giorge, 1772",Ref.: R Amoeca/ R Pretoria,-23.561711,-46.543344
+870008635,"Av. Guilherme Giorge, 1773",Ref.: R Amoeca/ R Pretoria,-23.561795,-46.543333
+870008636,"R. Oswaldo Arouca, 71",Ref.: R Venus/ R Iru,-23.56243,-46.54202
+870008637,"R. Oswaldo Arouca, 126",Ref.: R Venus/ R Iru,-23.562153,-46.541591
+870008644,"R. Vênus, 56",Ref.: Praça Inspetor Pedro Gomes,-23.563449,-46.542618
+870008645,"R. Caparão, 150",Ref.: R Filhas Do Sagrado Coracao/ Av Dedo De Deus,-23.565094,-46.538427
+870008646,"R. Cabinari, 339",Ref.: R Filhas Do Sagrado Coracao/ Av Trumain,-23.564917,-46.53651
+870008647,"R. Filhas Do Sagrado Coracão, 242",Ref.: R Planalto/ R Venus,-23.565444,-46.538135
+870008648,"R. Filhas Do Sagrado Coracão, 191",Ref.: R Planalto/ R Venus,-23.565704,-46.538686
+870008649,"Pça. Dr. Sampaio Vidal, 49",Ref.: R Arapoca/ Pc Doutor Sampaio Vidal,-23.567317,-46.541184
+870008650,"Pça. Dr. Sampaio Vidal, 108",Ref.: R Cristovao Girao/ R Argonautas,-23.568129,-46.54094
+870008661,"R. Mandioré, 592",Ref.: R Santa Batilde/ R Araiporanga,-23.570047,-46.548228
+870008662,"R. Mandioré, 551",Ref.: R Santa Batilde/ R Araiporanga,-23.569873,-46.547963
+870008663,R. Mandioré,Ref.: Pc Sao Ciriaco/ R Chamatu,-23.568939,-46.545709
+870008664,R. Mandioré,Ref.: Pc Sao Ciriaco/ R Chamatu,-23.568789,-46.545742
+870008665,"R. Saigon, 71",Ref.: Pc Skal/ R Argonautas,-23.567705,-46.543923
+870008666,"Av. Dr. Eduardo Cotching, 2130",Ref.: Pc Skal/ Av Doutor Eduardo Cotching,-23.567338,-46.542693
+870008667,"Av. Dr. Eduardo Cotching, 2143",Ref.: Pc Skal/ Av Doutor Eduardo Cotching,-23.567282,-46.54254
+870008668,"Pça. Diogo De Aguirre, 7",Ref.: Pc Diogo De Aguirre/ R Arace,-23.563634,-46.542912
+870008669,"R. Arapacu, 138",Ref.: R Tauande/ Av Doutor Eduardo Cotching,-23.564323,-46.549818
+870008670,"R. Arapacu, 261",Ref.: R Anjo Custodio/ R Maestro Bernardo Leo M Federowski,-23.565475,-46.550229
+870008671,"R. Arapacu, 314",Ref.: Pc Monsenhor Heladio Laurini/ R Goncalo Coelho,-23.566563,-46.552035
+870008673,"R. Da. Vitória Speers, 850",Ref.: Rua São Marinho,-23.568871,-46.553043
+870008676,"R. Da. Vitória Speers, 1020",Ref.: Pc Leao X/ R Codajas,-23.569936,-46.551121
+870008677,"R. Codajás, 35",Ref.: R Dona Vitoria Speers/ R Santa Batilde,-23.569992,-46.55012
+870008678,"Pça. Nsa. Sra. Das Vitórias, 214",Ref.: Av Doutor Eduardo Cotching/ Pc Nossa Senhora Das Vitorias,-23.564833,-46.54876
+870008679,"R. Catuquina, 347",Ref.: R Guaxupe/ R Sao Joao Gualberto,-23.561057,-46.548193
+870008680,"R. Catuquina, 494",Ref.: R Sao Joao Gualberto/ R Guaxupe,-23.560004,-46.547655
+870008681,"R. Catuquina, 537",Ref.: R Sao Joao Gualberto/ R Visconde De Balsemao,-23.559578,-46.54768
+870008682,"R. Bailique, 138",Ref.: R Ascensao / R Maria Bloco,-23.559661,-46.54464
+870008683,R. Bailique,Ref.: R Ascencao/ Av Guilherme Giorge,-23.559704,-46.54412
+870008685,"R. Pretoria, 541",Ref.: R Sao Constancio/ Praca Sao Constancio,-23.561253,-46.549983
+870008686,"R. Pretoria, 444",Ref.: R Sao Constancio/ Praca Sao Constancio,-23.560522,-46.550875
+870008687,"R. Pretoria, 313",Ref.: R Caturai/ R Curupa,-23.559683,-46.551555
+870008688,"R. Curupá, 319",Ref.: R Guaxupe/ R Pretoria,-23.558143,-46.551829
+870008689,"R. Curupá, 254",Ref.: R Dos Povoadores/ R Guaxupe,-23.557678,-46.551563
+870008690,"R. Curupá, 127",Ref.: R Cacaquera/ R Dos Povoadores,-23.556723,-46.550764
+870008691,"R. Caçaquera, 612",Ref.: R Curupa/ R Gelasio Pimenta,-23.555916,-46.550928
+870008692,"R. Caçaquera, 507",Ref.: R Curupa/ R Gelasio Pimenta,-23.555513,-46.551705
+870008707,"Av. Dr. Eduardo Cotching, 903",Ref.: Tr Mario Ghirelli/ Pc Santo Atanasio,-23.562661,-46.552134
+870008708,"Av. Dr. Eduardo Cotching, 902",Ref.: Tr Mario Ghirelli/ Pc Santo Atanasio,-23.562727,-46.552031
+870008709,"Av. Dr. Eduardo Cotching, 679",Ref.: Pc Coxim/ R Curupa,-23.562683,-46.554585
+870008712,"Av. Reg. Feijó, 1739",Ref.: R Gabriel Grupello/ R Arnaldo Rosa,-23.561985,-46.561399
+870008713,"Av. Reg. Feijó, 1269",Ref.: Av Vereador Abel Ferreira/ R Jacob Fath,-23.560993,-46.564621
+870008714,"Av. Reg. Feijó, 1295",Ref.: Av Vereador Abel Ferreira/ R Jacob Fath,-23.560715,-46.564919
+870008834,"R. Emília Marengo, 57",Ref.: R Adrianopolis/ R Otelo Rizzo,-23.552789,-46.566541
+870008835,"R. Emília Marengo, 160",Ref.: R Mozart De Andrade/ R Doutor Roberto Reid Kalley,-23.552958,-46.565717
+870008839,"R. Eleonora Cintra, 530",Ref.: R Jose Alexandre Almeida Luiz/ R Canuto Abreu,-23.556275,-46.560128
+870008842,"R. Antônio Alves Barril, 355",Ref.: R Professor Joao De Oliveira Torres/ Av Regente Feijo -- Super. Carrefour,-23.559666,-46.561038
+870008843,"R. Antônio Alves Barril, 355",Ref.: R Professor Joao De Oliveira Torres/ Av Regente Feijo,-23.559182,-46.56089
+870012167,"R. Emília Marengo, 476",Ref.: R Terebe/ R Maripa,-23.553243,-46.562684
+870012170,"R. Emília Marengo, 856",Ref.: R Joaquim Sabino/ Tr Anezio Collepicolo,-23.554782,-46.559576
+870012174,R. Acurui,Ref.: R Antonio De Barros/ Pc Bela Lorena,-23.557163,-46.553294
+870012175,"R. Acurui, 292",Ref.: Pc Bela Lorena/ R Curupa,-23.558302,-46.553164
+870012176,"R. Acurui, 493",Ref.: R Curupa/ Pc Santo Atanasio,-23.559913,-46.55289
+870012177,"R. Acurui, 512",Ref.: R Curupa/ Pc Santo Atanasio,-23.560412,-46.552953
+870012179,"Pça. Sto. Atanásio, 720",Ref.: Av Doutor Eduardo Cotching/ R Djair Pereira De Macedo,-23.562273,-46.55199
+870012180,"Av. Dr. Eduardo Cotching, 1137",Ref.: R Catuquina/ R Santa Brigida,-23.562648,-46.550092
+870012181,"R. Antônio De Barros, 2896",Ref.: R Guaxupe/ Av Emilia Marengo,-23.555367,-46.554098
+870012600,"Av. Dr. Eduardo Cotching, 1504",Ref.: Pc Nossa Senhora Das Vitorias/ R Asfaltite,-23.564496,-46.547592
+870012601,"Av. Dr. Eduardo Cotching, 1278",Ref.: Pc Nossa Senhora Das Vitorias/ R Arapaco,-23.563527,-46.549358
+870012602,"Av. Dr. Eduardo Cotching, 1495",Ref.: Pc Nossa Senhora Das Vitorias/ R Asfaltite,-23.56438,-46.547461
+870012603,"Av. Dr. Eduardo Cotching, 1892",Ref.: Pc Canarias/ R Saigon,-23.566325,-46.544512
+870012605,"Av. João XxIII, 85",Ref.: Av Renata/ R Almirante Silvado,-23.570561,-46.53943
+870012606,"Av. João XxIII, 162",Ref.: Av Renata/ R Almirante Silvado,-23.570966,-46.538651
+870012607,"Av. João XxIII, 313",Ref.: R Fabio/ R Labrea,-23.571375,-46.537373
+870012608,"Av. João XxIII, 360",Ref.: R Labrea/ R Dom Jose,-23.571622,-46.537027
+870012610,"Av. João XxIII, 637",Ref.: R Dom Jose/ Av Antonio Manograsso,-23.572673,-46.534519
+870012612,"Av. Dr. Eduardo Cotching, 1800",Ref.: R Cristovao Girao/ Av Doutor Eduardo Cotching,-23.56565,-46.544878
+910000773,"Av. Das Cerejeiras, 1134",Ref.: R Casa Da Moeda/ Pc Chiba,-23.507294,-46.577927
+910000774,"Av. Das Cerejeiras, 795",Ref.: Pc Eduardo Rabelo/ R Casa Da Moeda,-23.507882,-46.580082
+910000775,"Av. Das Cerejeiras, 930",Ref.: Pc Chiba/ R Casa Da Moeda,-23.508101,-46.579566
+910000776,"Av. Das Cerejeiras, 666",Ref.: Pc Eduardo Rabelo/ R Romeu Pandolpho,-23.509514,-46.58036
+910000778,"Av. Das Cerejeiras, 318",Ref.: R Cecilia Meireles/ R Romeu Pandolpho,-23.5127,-46.580385
+910000779,"Av. Das Cerejeiras, 135",Ref.: R Cecilia Meireles/ R Araritaguaba,-23.513685,-46.581427
+910000780,"Av. Das Cerejeiras, 136",Ref.: R Araritaguaba/ R Cecilia Meireles,-23.513836,-46.581435
+910000808,"R. Sg. Miguel De Souza Filho, 22",Ref.: R Soldado Jose Fernandes Da Silva/ Rod Presidente Dutra,-23.506573,-46.571859
+910000809,"R. Sg. Miguel De Souza Filho, 23",Ref.: Av Bandeirantes Do Sul/ R Soldado Jose Vivanco Solano,-23.506449,-46.57165
+910000810,"Av. Tte. Amaro Felicíssimo Da Silveira, 1841",Ref.: Rod Presidente Dutra/ R Soldado Francisco Vitoriano,-23.509367,-46.571245
+910000811,"Av. Tte. Amaro Felicíssimo Da Silveira, 1792",Ref.: R Gentil Bispo/ R Soldado Aristides Gouveia,-23.50932,-46.570891
+910000812,"Av. Tte. Amaro Felicíssimo Da Silveira, 1399",Ref.: R Soldado Dionisio Chagas/ R Segundo Sargento Assad Feres,-23.512851,-46.571388
+910000813,"Al. 1º Sg. Basílio Nogueira Da Costa, 11",Ref.: Av Tenente Amaro Felicissimo Da Silveira/,-23.514216,-46.57085
+910000815,"Pça. Novo Mundo, 87",Ref.: Al Segundo Sargento Ananias Holanda De Oliveira/ R Sargento Jose Pessoto Sobrinho,-23.517778,-46.568545
+910000816,"Pça. Novo Mundo, 168",Ref.: L Segundo Sargento Nevio Baracho Dos Santos/ Al Subtenente Aviador Francisco Hierro,-23.517083,-46.567642
+910000817,"Al. 2º Sg. Andiras Nogueira De Abreu, 456",Ref.: R Cabo Basilio Zequim Junior/ R Soldado Jose Vicente De Paula,-23.519371,-46.566428
+910000818,"Al. 2º Sg. Andiras Nogueira De Abreu, 122",Ref.: R Doutor Vidal Reis/ R Carmina Ianetta Fanganiello,-23.521399,-46.564471
+910000820,"Av. Emílio Giaquinto, 397",Ref.: R Francisco Fanganielo/ R Fritz Jank,-23.5213,-46.562138
+910000823,"Al. 2º Sg. Névio Baracho Dos Santos, 357",Ref.: R Doutor Vidal Reis/ R Fritz Jank,-23.517578,-46.56339
+910000827,"Av. José Maria Fernandes, 118",Ref.: R Soldado Joao Americo Da Silva/ R Cabo Antonio Alves,-23.515269,-46.568098
+910000828,"Av. José Maria Fernandes, 208",Ref.: R Sd. Otto Unger/ R Cb. Jose Da Silva,-23.514584,-46.567908
+910000830,"Av. José Maria Fernandes, 631",Ref.: R Sd. Antonio Matias De Camargo/ R Srg. Jeter Augusto Pereira,-23.510655,-46.567951
+910000832,"R. Cel. Dilermano Brisola, 267",Ref.: R Pedro Taques Pires/ R Jose Barbosa De Lima,-23.508541,-46.563519
+910000833,"R. Cel. Dilermano Brisola, 280",Ref.: R Pedro Taques Pires/ R Jose Barbosa De Lima,-23.508548,-46.563296
+910000834,"R. Pedro Taques Pires, 273",Ref.: R Joao De Lara Da Cunha/ R Roque Soares Medella,-23.509661,-46.562508
+910000835,"R. Pedro Taques Pires, 73",Ref.: R Tome Rodrigues Da Silva/ R Tome Rodrigues Da Silva,-23.511563,-46.563017
+910000840,"R. Sd. José Vicente De Paula, 62",Ref.: R T-srg. Joao Soares Faria/ Av Serafim Goncalves Pereira,-23.521333,-46.56757
+910000841,"R. 3º Sg. João Lopes Filho, 365",Ref.: R Sd. Euripedes Rodrigues Lima/ R Sd. Jose Pires Barbosa Filho,-23.522084,-46.569773
+910000842,"R. 3º Sg. João Lopes Filho, 424",Ref.: R Sd. Euripedes Rodrigues Lima/ R Sd. Jose Pires Barbosa Filho,-23.521366,-46.569725
+910000845,"R. Cel. Dilermano Brisola, 13",Ref.: R Sd. Francisco Gomes De Souza/ Av Amadeu Poli,-23.508471,-46.56597
+910000862,"Av. Guilherme Cotching, 1933",Ref.: R Araritaguaba/ R Da Gavea,-23.51315,-46.585745
+910000863,"Av. Guilherme Cotching, 1920",Ref.: R Araritaguaba/ R Da Gavea,-23.513402,-46.585636
+910000864,"Av. Guilherme Cotching, 1757",Ref.: Largo Da Vila Maria/ R Da Gavea/praça Santo Eduardo,-23.514433,-46.586795
+910000865,"Av. Guilherme Cotching, 1600",Ref.: Largo Da Vila Maria/ R Margarino Torres/praça Santo Eduardo,-23.515836,-46.587562
+910000866,"Av. Guilherme Cotching, 1551",Ref.: Largo Da Vila Maria/ R Margarino Torres,-23.515935,-46.588021
+910000867,"Av. Guilherme Cotching, 1139",Ref.: R Prfa. Maria J. Barone Fernandes/ R Diamantina,-23.519042,-46.590414
+910000868,"Av. Guilherme Cotching, 1298",Ref.: R D. Luis Felipe De Orleans/ R Prfa. Maria J. Barone Fernandes,-23.518022,-46.589262
+910000869,"Av. Guilherme Cotching, 915",Ref.: R Diamantina/ R Andarai,-23.520711,-46.591641
+910000870,"Av. Guilherme Cotching, 980",Ref.: R Diamantina/ R Andarai,-23.520743,-46.591433
+910000871,"Av. Guilherme Cotching, 647",Ref.: R Alcantara/ R Antonio Fonseca,-23.522699,-46.593296
+910000872,"Av. Guilherme Cotching, 640",Ref.: R Alcantara/ R Antonio Fonseca,-23.522858,-46.593093
+910000888,"Av. Alberto Byington, 889",Ref.: Pc Cosmorama/ R Lobo Miranda,-23.506655,-46.58982
+910000889,"Av. Alberto Byington, 1142",Ref.: R Lobo Miranda/ Pc Cosmorama,-23.505312,-46.591327
+910000890,"Av. Alberto Byington, 1189",Ref.: R Lobo Miranda/ R Lobo Miranda,-23.504966,-46.591666
+910000891,"Av. Alberto Byington, 1390",Ref.: Tv Francisco Jose De Mello/ R Gen. Mendes,-23.503309,-46.591604
+910000892,"Av. Alberto Byington, 1632",Ref.: Pc Maria Montessori/ Pc Rio Brilhante,-23.501391,-46.590241
+910000893,"Av. Alberto Byington, 1669",Ref.: Tv Fernao Martins Da Costa/ R Gen. Mendes,-23.50115,-46.590131
+910000909,"R. Pe. Saboia De Medeiros, 204",Ref.: R Tupirana/ R Dr. Afrodisio Vidigal,-23.499934,-46.588268
+910000910,"R. Pe. Saboia De Medeiros, 363",Ref.: Tv Da Percussao/ R Tupirana,-23.498694,-46.587415
+910000911,"Pça. Marcelino Machado, 519",Ref.: R Sta Fe Do Sul,-23.497959,-46.586212
+910000912,"R. Pe. Saboia De Medeiros, 559",Ref.: Tv Da Percussao/ R Tupirana,-23.497451,-46.586063
+910001875,"Av. Morvan Dias De Figueiredo, 6900",Ref.: Av Emilio Giaquinto/ R Francisco Fanganiello,-23.522591,-46.561954
+910001877,"Av. Morvan Dias De Figueiredo, 0",Ref.: Av Serafim Goncalves Pereira/ R T-srg. Joao Soares Faria,-23.524288,-46.567832
+910002007,"Av. Guilherme Cotching, 380",Ref.: R Antonio Fonseca/ Av Nadir Dias De Figueiredo,-23.524854,-46.594915
+910002008,Pça. Cosmorama,Ref.: R Iacanga/ R Porangatu,-23.506548,-46.589295
+910002009,"R. Mere Amedéa, 904",Ref.: Pc Cosmorama/ R Silvio Leandro,-23.507186,-46.589209
+910002010,"R. Mere Amedéa, 771",Ref.: R Silvio Leandro/ R Sem Nome,-23.508293,-46.588915
+910002011,"R. Mere Amedéa, 518",Ref.: R Horacio De Castilho/ R Sem Nome,-23.509295,-46.587494
+910002012,"R. Mere Amedéa, 401",Ref.: Tv Nicolas De Marle/ R Sem Nome,-23.510144,-46.587457
+910002013,"R. Mere Amedéa, 294",Ref.: R Horacio De Castilho/ Pc Nossa Senhora Da Candelaria,-23.51069,-46.586865
+910002022,"R. Araritáguaba, 1138",Ref.: R Amambai/ R Eli,-23.514112,-46.583125
+910002023,"R. Araritáguaba, 1193",Ref.: R Dr. Edson De Melo/ R Sem Nome,-23.514197,-46.582564
+910002024,"R. Osaka, 521",Ref.: Av Das Cerejeiras/ R Taka,-23.505969,-46.576819
+910002025,"R. Osaka, 656",Ref.: Vla Forte Rio Grande/ R Srg. Miguel De Souza Filho,-23.505504,-46.575783
+910002026,"R. Osaka, 820",Ref.: Vla Forte Rio Grande/ R Srg. Miguel De Souza Filho,-23.505257,-46.574162
+910002027,"R. Osaka, 943",Ref.: R Taka/ R Sem Nome,-23.505222,-46.573816
+910003282,"R. Sd. Osvaldo Lellis, 8",Ref.: Avenida Jose Maria Fernsndes,-23.50803,-46.567367
+910003778,"Av. Conceição, 4030",Ref.: R Secundino Veiga/ R Estevao Melio,-23.495193,-46.578781
+910003782,"Av. Conceição, 3804",Ref.: Av Belisario Pena/ Av Dr. Benedito Estevao Dos Santos,-23.49503,-46.580862
+910003784,"Av. Conceição, 3544",Ref.: Av Belisario Pena/ Av Dr. Benedito Estevao Dos Santos,-23.494814,-46.583202
+910003785,"Av. Conceição, 3473",Ref.: Tv Joao Escobar/ R Crispim Duarte,-23.494848,-46.584185
+910003786,"Av. Conceição, 3294",Ref.: R Francisco Medeiros Jordao/av Conceicao,-23.49562,-46.585261
+910017229,"Av. Alberto Byington, 1421",Ref.: R Gen. Mendes/ Pc Rio Brilhante,-23.502971,-46.591418
+920015147,"Av. Prof. Ascendino Reis, 2524",Ref.: R Pedro De Toledo/ R Loefgreen,-23.598129,-46.650541
+920015148,"Av. Prof. Ascendino Reis, 411",Ref.: R Estado De Israel/ R Doutor Diogo De Faria,-23.594253,-46.650263
+920015180,Av. Vinte E Três De Maio,Ref.: R Coronel Oscar Porto/ Vdto Tutoia,-23.578271,-46.645494
+920015181,Av. Vinte E Três De Maio,Ref.: R Campo Valero/ R Coronel Oscar Porto,-23.577542,-46.644944
+930012639,"Av. Aricanduva, 3575",Ref.: Av Dalila/ R Inacio Costa,-23.550393,-46.522907
+930012640,"Av. Aricanduva, 2969",Ref.: R Porto Lucena/ Av Dalila,-23.54815,-46.525203
+930012641,"Av. Aricanduva, 2663",Ref.: R Baltazar Pinto/ R Aurelio Pinheiro,-23.54637,-46.527494
+930012642,"Av. Aricanduva, 2111",Ref.: R Sebastiao De Andrade/ R Aurelio Pinheiro,-23.543834,-46.530419
+930012643,"Av. Aricanduva, 1771",Ref.: R Benedita De Paula Coelho/ R Yolanda Xande Nunes,-23.541663,-46.534494
+930012646,"Av. Aricanduva, 339",Ref.: Pc Maria Alves Galvao Da Silva,-23.537649,-46.546345
+940003687,"Av. Edu Chaves, 854",Ref.: R Fernando Elias/ Av Roland Garros,-23.474935,-46.570268
+940003688,"Av. Edu Chaves, 847",Ref.: R Dr. Jose Gustavo Nunes/ R Bom Jesus Da Cachoeira,-23.474819,-46.570245
+940003689,"Av. Edu Chaves, 662",Ref.: R Dr. Arlindo De Assis/r Carlos Rodrigues De Barros,-23.473411,-46.571159
+940003690,"Av. Edu Chaves, 687",Ref.: R Pascoal Pavan/ Tv Maria Martins Da Silva/r.carlos Rodrigues De Barros,-23.473631,-46.57092
+940003715,"Av. Mendes Da Rocha, 1168",Ref.: R Aureliopolis/ Av Roland Garros,-23.477174,-46.573696
+940003716,"Av. Mendes Da Rocha, 891",Ref.: R Bernardo Mengozzi/ Av Carlos Dos Santos,-23.479309,-46.572592
+940003717,"Av. Mendes Da Rocha, 846",Ref.: V-ped Nalanda/ Av Carlos Dos Santos,-23.479684,-46.5723
+940003718,Pça. Erotides De Campos,Ref.: R Basilio Alves Morango/ Av Mendes Da Rocha,-23.481108,-46.571617
+940003721,"Pça. Erotides De Campos, 617",Ref.: R Basilio Alves Morango/ Av Mendes Da Rocha,-23.481374,-46.571349
+940003723,"Av. Mendes Da Rocha, 471",Ref.: Tv Edgar Adrian/ Av Antenor Navarro,-23.482842,-46.57066
+940003724,"Av. Mendes Da Rocha, 398",Ref.: R Itamonte/ Av Antenor Navarro,-23.483274,-46.5703
+940003725,"Av. Mendes Da Rocha, 287",Ref.: Tr Francisco Artigas/ R Itamonte,-23.484274,-46.569909
+940003726,"Av. Mendes Da Rocha, 236",Ref.: R Itamonte/ R Jota Carlos,-23.4846,-46.569552
+940003727,"Av. Mendes Da Rocha, 19",Ref.: R Floriano De Godoi/ Pc Carlos Koseritz,-23.486383,-46.56872
+940003728,"Av. Mendes Da Rocha, 36",Ref.: R Floriano De Godoi/ Pc Carlos Koseritz,-23.486187,-46.568678
+940003756,"Av. Roland Garros, 1906",Ref.: Av Edu Chaves/ R Jose Batista De Paula,-23.475467,-46.570202
+940003757,"Av. Roland Garros, 1815",Ref.: Tv Tempestade/ Av Edu Chaves,-23.475776,-46.571298
+940003767,"Av. João Simão De Castro, 193",Ref.: R Alonso Peres/ R Sergio Leite De Camargo,-23.489172,-46.570624
+940003780,"Av. Conceição, 4141",Ref.: R S Delfino/ R Gil Castelo Branco,-23.495286,-46.577611
+940003781,"Av. Conceição, 3847",Ref.: R Armando Paim/ R Pe. Agostinho Jorge,-23.494944,-46.580475
+940003783,"Av. Conceição, 3669",Ref.: R Rev. Israel Vieira Ferreira/ Tv Joao Escobar,-23.494796,-46.582184
+940003787,"Av. Conceição, 3271",Ref.: R Crispim Duarte/ R Francisco Medeiros Jordao,-23.495802,-46.585606
+940003886,"Av. João Simão De Castro, 311",Ref.: R Criciuma/ Av Jaci Toledo,-23.489237,-46.572996
+940004032,Av. João Simão De Castro,Ref.: Praça Lupercio Basseto Morelatto,-23.489418,-46.570809
+940004126,"Av. Roland Garros, 1551",Ref.: Av Mendes Da Rocha/ R Sta Rita Do Passa Quatro,-23.476885,-46.573615
+940004358,"Av. Prof. Castro Júnior, 213",Ref.: R Abdenage Da Costa Moreira/ R Aguiar Cardoso,-23.494704,-46.5756
+940004359,"Av. João Simão De Castro, 337",Ref.: Av Jaci Toledo/ R Criciuma,-23.48946,-46.57264
+940004420,"Av. Prof. Castro Júnior, 154",Ref.: R Abdenage Da Costa Moreira/ Pc Angelo Conti,-23.493982,-46.575205
+940004427,"Pça. Ângelo Conti, 174",Ref.: R Goianesia/ R Francisco Franco Machado,-23.49189,-46.57449
+950006421,"R. Costa Barros, 981",Ref.: R Iguara/ R Hermeto Lima,-23.595953,-46.556797
+950006422,"R. Costa Barros, 944",Ref.: R Iguara/ R Hermeto Lima,-23.5959,-46.557163
+950006423,"R. Costa Barros, 683",Ref.: R Hermeto Lima/ R Paratinquara,-23.597004,-46.559162
+950006424,"R. Costa Barros, 698",Ref.: R Hermeto Lima/ R Paratinquara,-23.596769,-46.558907
+950006425,"R. Costa Barros, 544",Ref.: R Bispo Eugenio Demazemod/ R Campo Belo,-23.597702,-46.560154
+950006426,"R. Costa Barros, 505",Ref.: R Bispo Eugenio Demazemod/ R Campo Belo,-23.597643,-46.560394
+950006427,"R. Costa Barros, 351",Ref.: R Campo Belo/ R Morapena,-23.59761,-46.561813
+950006428,"R. Costa Barros, 286",Ref.: Rua Morapena,-23.597506,-46.5625
+950006429,"R. Costa Barros, 177",Ref.: R Nova Iguacu/ R Morapena,-23.597305,-46.563587
+950006430,"R. Costa Barros, 144",Ref.: R Doutor Vicente Giacaglini/ R Nova Iguacu,-23.597416,-46.563915
+950006431,"R. Costa Barros, 63",Ref.: R Doutor Vicente Giacaglini/ R Nova Iguacu,-23.597327,-46.564591
+950006432,"R. Das Giestas, 1480",Ref.: R Savigni/ R Fernandes Sardinha,-23.597313,-46.566406
+950006555,"R. Das Giestas, 1117",Ref.: R Santo Amasio/ R Paramu,-23.596117,-46.569424
+950006556,"R. Das Giestas, 1256",Ref.: Rua Paramu,-23.596498,-46.568161
+950006557,"R. Das Giestas, 1307",Ref.: R Paramu/ R Orlando,-23.596661,-46.567616
+950006615,"R. Ituverava, 444",Ref.: R Pindamonhangaba/ R Limeira,-23.585238,-46.585716
+950006616,"Av. Zelina, 167",Ref.: R Jundiapeba/ R Marechal Malet,-23.588903,-46.582291
+950006617,"Av. Zelina, 204",Ref.: R Jundiapeba/ R Marechal Malet,-23.589069,-46.582031
+950006618,"Av. Zelina, 444",Ref.: Rua Monteiro Soares Filho,-23.58942,-46.579678
+950006619,"Av. Zelina, 481",Ref.: R Monteiro Soares Filho/ R Tamuanas,-23.589382,-46.579308
+950006620,"Av. Zelina, 670",Ref.: R Inhagapi/ R Manaias,-23.589746,-46.577511
+950006621,"Av. Zelina, 843",Ref.: R Rio Do Peixe/ R Inacio,-23.589901,-46.575886
+950006622,"Av. Zelina, 980",Ref.: R Barao Do Pirai/ R Rio Do Peixe,-23.5902,-46.57452
+950006623,"Av. Zelina, 1111",Ref.: R Campos Novos/ R Doutor Antonio Macedo Lima,-23.590324,-46.573074
+950006624,"Av. Zelina, 1268",Ref.: R Meru/ R Saruma,-23.59062,-46.571671
+950006625,"Av. Zelina, 1503",Ref.: R Saruma/ Av Jose Da Nobrega Botelho,-23.5907,-46.570896
+950006626,"Av. José Da Nóbrega Botelho, 28",Ref.: R Caetano Pimentel Do Vabo/ R Doutora Esmeralda Mendes Policine,-23.591047,-46.569141
+950006627,Av. José Da Nóbrega Botelho,Ref.: R Doutora Esmeralda Mendes Policine/ Av Francisco Falconi,-23.591263,-46.567295
+950006628,"Av. Francisco Falconi, 1066",Ref.: Av Jose Da Nobrega Botelho/ R Joao Vieira De Carvalho,-23.591904,-46.566563
+950006629,"Av. Francisco Falconi, 1452",Ref.: R Joao Vieira De Carvalho/ R Jose Jeraissati,-23.593487,-46.562817
+950006630,"R. José Jeraissati, 141",Ref.: R Iguara/ R Tamirim,-23.593513,-46.560841
+950006631,"R. José Jeraissati, 142",Ref.: R Iguara/ R Tamirim,-23.593517,-46.560753
+950006650,"Av. Francisco Falconi, 1453",Ref.: R Joao Vieira De Carvalho/ R Jose Jeraissati,-23.593203,-46.562988
+950006674,R. Igaratá,Ref.: R Igarata/ R Amparo,-23.587931,-46.586464
+950006688,"R. Rio Do Peixe, 805",Ref.: R Das Verbenas/ R Santa Adeodata,-23.594927,-46.569534
+950006689,"R. Rio Do Peixe, 651",Ref.: R Santa Adeodata/ R Das Verbenas,-23.594166,-46.570656
+950006690,"R. Rio Do Peixe, 421",Ref.: R Das Roseiras/ R Das Heras,-23.592808,-46.572445
+950006691,"R. Rio Do Peixe, 157",Ref.: R Itacarambi/ Av Zelina,-23.591139,-46.57428
+950006692,"R. Inácio, 832",Ref.: R Itacarambi/ R Das Roseiras,-23.591658,-46.574806
+950006693,"R. Inácio, 1006",Ref.: Rua Das Roseiras,-23.593153,-46.573456
+950006694,"R. Das Mimosas, 212",Ref.: R Dos Climatis/ R Das Heras,-23.594736,-46.571892
+950006800,"R. Tomaz Izzo, 39",Ref.: R Sao Luis Do Paraitinga/ R Amparo,-23.589128,-46.584763
+950012711,"Av. Prof. Luiz Ignácio Anhaia Mello, 2700",Ref.: Av Francisco Falconi/ R Doutor Paulo Aranha Peixoto De Azevedo,-23.583073,-46.567852
+950012726,"Av. Prof. Luiz Ignácio Anhaia Mello, 2921",Ref.: Av Jacinto Menezes Palhares/ R Sao Joao Do Sabugi,-23.582535,-46.565811
+950012727,"Av. Prof. Luiz Ignácio Anhaia Mello, 2655",Ref.: Av Francisco Falconi/ R Doutor Paulo Aranha Peixoto De Azevedo,-23.582731,-46.568226
+950014141,Chamanta B/C,"Av. Paes De Barros, 3281 Ref.: R Chamanta/ R Capitao Pacheco E Chaves",-23.579601,-46.586834
+950014142,Chamanta C/B,"Av. Paes De Barros, 3322 Ref.: R Chamanta/ R Capitao Pacheco E Chaves",-23.580002,-46.586843
+950014189,Parada Ibitirama / Pça. Pe Damião,"R. Ibitirama, 11 Ref.: R Do Orfanato/ R Indaia",-23.581958,-46.585405
+950014268,"Av. Prof. Luiz Ignácio Anhaia Mello, 1376",Ref.: R Doutor Roberto Feijo/ R Virgilio,-23.584885,-46.58007
+950014269,"Av. Prof. Luiz Ignácio Anhaia Mello, 2046",Ref.: R Mendonca Corte Real/ R Pinheiro Guimaraes,-23.583261,-46.574093

@@ -1,0 +1,101 @@
+// SPTrans GTFS - consultas do Power Query
+
+// CONSULTA 1: pPasta
+"C:\Users\SEU_USUARIO\Downloads\MA2026-entrega-parcial\02-powerquery\dados_limpos"
+
+// CONSULTA 2: dAgency
+let
+    Fonte = Csv.Document(File.Contents(pPasta & "\dAgency.csv"), [Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+    Cabecalhos = Table.PromoteHeaders(Fonte, [PromoteAllScalars=true]),
+    Tipos = Table.TransformColumnTypes(Cabecalhos, {{"agency_id", type text}, {"agency_name", type text}, {"agency_url", type text}, {"agency_timezone", type text}, {"agency_lang", type text}}, "en-US")
+in
+    Tipos
+
+// CONSULTA 3: dRoutes
+let
+    Fonte = Csv.Document(File.Contents(pPasta & "\dRoutes.csv"), [Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+    Cabecalhos = Table.PromoteHeaders(Fonte, [PromoteAllScalars=true]),
+    Tipos = Table.TransformColumnTypes(Cabecalhos, {{"route_id", type text}, {"agency_id", type text}, {"route_short_name", type text}, {"route_long_name", type text}, {"route_type", Int64.Type}, {"route_color", type text}, {"route_text_color", type text}}, "en-US")
+in
+    Tipos
+
+// CONSULTA 4: dTrip 
+let
+    Fonte = Csv.Document(File.Contents(pPasta & "\dTrip.csv"), [Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+    Cabecalhos = Table.PromoteHeaders(Fonte, [PromoteAllScalars=true]),
+    Tipos = Table.TransformColumnTypes(Cabecalhos, {{"trip_id", type text}, {"route_id", type text}, {"service_id", type text}, {"trip_headsign", type text}, {"direction_id", Int64.Type}, {"shape_id", type text}}, "en-US")
+in
+    Tipos
+
+// CONSULTA 5: dStops
+let
+    Fonte = Csv.Document(File.Contents(pPasta & "\dStops.csv"), [Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+    Cabecalhos = Table.PromoteHeaders(Fonte, [PromoteAllScalars=true]),
+    Tipos = Table.TransformColumnTypes(Cabecalhos, {{"stop_id", type text}, {"stop_name", type text}, {"stop_desc", type text}, {"stop_lat", type number}, {"stop_lon", type number}}, "en-US")
+in
+    Tipos
+
+// CONSULTA 6: dCalendarServico
+let
+    Fonte = Csv.Document(File.Contents(pPasta & "\dCalendarServico.csv"), [Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+    Cabecalhos = Table.PromoteHeaders(Fonte, [PromoteAllScalars=true]),
+    Tipos = Table.TransformColumnTypes(Cabecalhos, {{"service_id", type text}, {"monday", Int64.Type}, {"tuesday", Int64.Type}, {"wednesday", Int64.Type}, {"thursday", Int64.Type}, {"friday", Int64.Type}, {"saturday", Int64.Type}, {"sunday", Int64.Type}, {"start_date", type datetime}, {"end_date", type datetime}}, "en-US")
+in
+    Tipos
+
+// CONSULTA 7: dFareAttributes
+let
+    Fonte = Csv.Document(File.Contents(pPasta & "\dFareAttributes.csv"), [Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+    Cabecalhos = Table.PromoteHeaders(Fonte, [PromoteAllScalars=true]),
+    Tipos = Table.TransformColumnTypes(Cabecalhos, {{"fare_id", type text}, {"price", type number}, {"currency_type", type text}, {"payment_method", Int64.Type}, {"transfers", Int64.Type}, {"transfer_duration", Int64.Type}}, "en-US")
+in
+    Tipos
+
+// CONSULTA 8: fFareRules
+let
+    Fonte = Csv.Document(File.Contents(pPasta & "\fFareRules.csv"), [Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+    Cabecalhos = Table.PromoteHeaders(Fonte, [PromoteAllScalars=true]),
+    Tipos = Table.TransformColumnTypes(Cabecalhos, {{"fare_id", type text}, {"route_id", type text}, {"origin_id", type text}, {"destination_id", type text}, {"contains_id", type text}}, "en-US")
+in
+    Tipos
+
+// CONSULTA 9: fFrequencies
+let
+    Fonte = Csv.Document(File.Contents(pPasta & "\fFrequencies.csv"), [Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+    Cabecalhos = Table.PromoteHeaders(Fonte, [PromoteAllScalars=true]),
+    Tipos = Table.TransformColumnTypes(Cabecalhos, {{"trip_id", type text}, {"start_time", type time}, {"end_time", type time}, {"headway_secs", Int64.Type}}, "en-US")
+in
+    Tipos
+
+// CONSULTA 10: fStopTimes
+let
+    Fonte = Csv.Document(File.Contents(pPasta & "\fStopTimes.csv"), [Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+    Cabecalhos = Table.PromoteHeaders(Fonte, [PromoteAllScalars=true]),
+    Tipos = Table.TransformColumnTypes(Cabecalhos, {{"trip_id", type text}, {"arrival_time", type time}, {"departure_time", type time}, {"stop_id", type text}, {"stop_sequence", Int64.Type}}, "en-US")
+in
+    Tipos
+
+// CONSULTA 11: Shapes
+let
+    Fonte = Csv.Document(File.Contents(pPasta & "\Shapes.csv"), [Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+    Cabecalhos = Table.PromoteHeaders(Fonte, [PromoteAllScalars=true]),
+    Tipos = Table.TransformColumnTypes(Cabecalhos, {{"shape_id", type text}, {"shape_pt_lat", type number}, {"shape_pt_lon", type number}, {"shape_pt_sequence", Int64.Type}, {"shape_dist_traveled", type number}}, "en-US")
+in
+    Tipos
+
+// CONSULTA 12: dCalendario
+let
+    DataInicial = #date(2023, 10, 1),
+    DataFinal = #date(2027, 5, 1),
+    Quantidade = Duration.Days(DataFinal - DataInicial) + 1,
+    Datas = List.Dates(DataInicial, Quantidade, #duration(1,0,0,0)),
+    Tabela = Table.FromList(Datas, Splitter.SplitByNothing(), {"Data"}),
+    Tipo = Table.TransformColumnTypes(Tabela, {{"Data", type date}}),
+    Ano = Table.AddColumn(Tipo, "Ano", each Date.Year([Data]), Int64.Type),
+    Mes = Table.AddColumn(Ano, "Mes", each Date.Month([Data]), Int64.Type),
+    NomeMes = Table.AddColumn(Mes, "NomeMes", each Date.MonthName([Data], "pt-BR"), type text),
+    AnoMes = Table.AddColumn(NomeMes, "AnoMes", each Date.ToText([Data], "yyyy-MM"), type text),
+    DiaSemana = Table.AddColumn(AnoMes, "DiaSemana", each Date.DayOfWeek([Data], Day.Monday)+1, Int64.Type),
+    NomeDia = Table.AddColumn(DiaSemana, "NomeDia", each Date.DayOfWeekName([Data], "pt-BR"), type text)
+in
+    NomeDia

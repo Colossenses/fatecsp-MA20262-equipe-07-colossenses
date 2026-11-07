@@ -1,0 +1,22 @@
+// Medidas DAX - SPTrans GTFS
+
+Qtde Linhas = DISTINCTCOUNT ( dRoutes[route_id] )
+// esperado: 30
+
+Qtde Viagens Programadas = DISTINCTCOUNT ( dTrip[trip_id] )
+// esperado: 59
+
+Qtde Pontos = DISTINCTCOUNT ( dStops[stop_id] )
+// esperado: 1448
+
+Qtde Passagens Programadas = COUNTROWS ( fStopTimes )
+// esperado: 2076
+
+Intervalo Planejado Medio (min) = AVERAGEX ( fFrequencies; DIVIDE ( fFrequencies[headway_secs]; 60 ) )
+// esperado: aprox. 12,87
+
+Tarifa Minima (BRL) = MIN ( dFareAttributes[price] )
+
+Tarifa Media (BRL) = AVERAGE ( dFareAttributes[price] )
+
+Tarifa Maxima (BRL) = MAX ( dFareAttributes[price] )

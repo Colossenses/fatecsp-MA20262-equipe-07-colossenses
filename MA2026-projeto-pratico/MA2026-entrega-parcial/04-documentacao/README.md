@@ -19,14 +19,14 @@ Os dados permitem consultar quais linhas existem, seus pontos e itinerários, os
 | `fare_attributes.txt` | Valores, moeda e condições das tarifas. |
 | `fare_rules.txt` | Regras que relacionam as tarifas às linhas correspondentes. |
 | `fare_rules.txt` | Regras que relacionam as tarifas às linhas correspondentes. |
-| `tabelas_passagens.xlsx` | Passagens arrecadadas em cada linha por dia da semana. |
+| `tabelas_passagens.xlsx` | Passagens arrecadadas em cada linha por dia da semana. Três tabelas dentro de uma única planilha, uma para cada modalidade de integração. Obs: Os valores dessa tabela são fictícios (dados simulados) e foram gerados apenas para fins ilustrativos. |
 
 ## Relacionamento entre os dados
 
 ```text
 agency
-   |
-   v
+   |         +-->  tabelas_passagens
+   v         |
 routes --> trips --> stop_times --> stops
              |           
              +--> calendar

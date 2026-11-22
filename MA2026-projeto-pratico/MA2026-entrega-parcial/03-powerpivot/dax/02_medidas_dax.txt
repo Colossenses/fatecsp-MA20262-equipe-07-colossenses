@@ -20,3 +20,9 @@ Tarifa Minima (BRL) = MIN ( dFareAttributes[price] )
 Tarifa Media (BRL) = AVERAGE ( dFareAttributes[price] )
 
 Tarifa Maxima (BRL) = MAX ( dFareAttributes[price] )
+
+Lucro Pass. Individual (BRL) = (SUM(fIndividualPass[Seg])+SUM(fIndividualPass[Ter])+SUM(fIndividualPass[Qua])+SUM(fIndividualPass[Qui])+SUM(fIndividualPass[Sex])+SUM(fIndividualPass[Sab])+SUM(fIndividualPass[Dom]))*CALCULATE(MIN(dFareAttributes[price]);TREATAS(VALUES(fFareRules[fare_id]);dFareAttributes[fare_id]))
+
+Lucro Int.Onibus+Metrô/CPTM (BRL) = (SUM(fBusSubwayCPTM[Seg])+SUM(fBusSubwayCPTM[Ter])+SUM(fBusSubwayCPTM[Qua])+SUM(fBusSubwayCPTM[Qui])+SUM(fBusSubwayCPTM[Sex])+SUM(fBusSubwayCPTM[Sab])+SUM(fBusSubwayCPTM[Dom]))*(LOOKUPVALUE(dFareAttributes[price];dFareAttributes[fare_id];"Ônibus + Metrô")-CALCULATE(MIN(dFareAttributes[price]);TREATAS(VALUES(fFareRules[fare_id]);dFareAttributes[fare_id])))
+
+Lucro Int.Onibus+Metrô+CPTM (BRL) = (SUM(fBusSubwayCPTMCompleto[Seg])+SUM(fBusSubwayCPTMCompleto[Ter])+SUM(fBusSubwayCPTMCompleto[Qua])+SUM(fBusSubwayCPTMCompleto[Qui])+SUM(fBusSubwayCPTMCompleto[Sex])+SUM(fBusSubwayCPTMCompleto[Sab])+SUM(fBusSubwayCPTMCompleto[Dom]))*(LOOKUPVALUE(dFareAttributes[price];dFareAttributes[fare_id];"Ônibus + Metrô + CPTM")-LOOKUPVALUE(dFareAttributes[price];dFareAttributes[fare_id];"Ônibus + Metrô"))

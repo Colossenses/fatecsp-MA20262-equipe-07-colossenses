@@ -18,14 +18,14 @@ Os dados permitem consultar quais linhas existem, seus pontos e itinerários, os
 | `shapes.txt` | Coordenadas que formam o desenho dos itinerários no mapa. |
 | `fare_attributes.txt` | Valores, moeda e condições das tarifas. |
 | `fare_rules.txt` | Regras que relacionam as tarifas às linhas correspondentes. |
-| `tabelas_passagens.xlsx` | Passagens arrecadadas em cada linha por dia da semana. |
+| `tabelas_passagens.xlsx` | Passagens arrecadadas em cada linha por dia da semana. Três tabelas dentro de uma única planilha, uma para cada modalidade de integração |
 
 ## Relacionamento entre os dados
 
 ```text
 agency
-   |
-   v
+   |         +-->  tabelas_passagens
+   v         |
 routes --> trips --> stop_times --> stops
              |           
              +--> calendar

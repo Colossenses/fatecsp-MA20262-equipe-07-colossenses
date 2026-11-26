@@ -1,0 +1,3 @@
+USE sptrans;
+SHOW TABLES;
+SELECT COUNT(*) FROM fStopTimes;

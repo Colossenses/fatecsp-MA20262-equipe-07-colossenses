@@ -1,28 +1,95 @@
 // Medidas DAX - SPTrans GTFS
 
-Qtde Linhas = DISTINCTCOUNT ( dRoutes[route_id] )
+Qtde Linhas = DISTINCTCOUNT ( 'sptrans droutes'[route_id] )
 // esperado: 30
 
-Qtde Viagens Programadas = DISTINCTCOUNT ( dTrip[trip_id] )
+Qtde Viagens Programadas = DISTINCTCOUNT ( 'sptrans dtrip'[trip_id] )
 // esperado: 59
 
-Qtde Pontos = DISTINCTCOUNT ( dStops[stop_id] )
+Qtde Pontos = DISTINCTCOUNT ( 'sptrans dstops'[stop_id] )
 // esperado: 1448
 
-Qtde Passagens Programadas = COUNTROWS ( fStopTimes )
+Qtde Passagens Programadas = COUNTROWS ( 'sptrans fstoptimes' )
 // esperado: 2076
 
-Intervalo Planejado Medio (min) = AVERAGEX ( fFrequencies; DIVIDE ( fFrequencies[headway_secs]; 60 ) )
+Tarifa Minima (BRL) = MIN ( 'sptrans dfareattributes'[price] )
+
+Tarifa Media (BRL) = AVERAGE ( 'sptrans dfareattributes'[price] )
+
+Tarifa Maxima (BRL) = MAX ( 'sptrans dfareattributes'[price] )
+
+
+Lucro Pass. Individual (BRL) =
+(
+    SUM ( 'sptrans findividualpass'[Seg] )
+        + SUM ( 'sptrans findividualpass'[Ter] )
+        + SUM ( 'sptrans findividualpass'[Qua] )
+        + SUM ( 'sptrans findividualpass'[Qui] )
+        + SUM ( 'sptrans findividualpass'[Sex] )
+        + SUM ( 'sptrans findividualpass'[Sab] )
+        + SUM ( 'sptrans findividualpass'[Dom] )
+)
+    * CALCULATE (
+        MIN ( 'sptrans dfareattributes'[price] );
+        TREATAS (
+            VALUES ( 'sptrans ffarerules'[fare_id] );
+            'sptrans dfareattributes'[fare_id]
+        )
+    )
+
+
+Lucro Int.Onibus+Metrô/CPTM (BRL) =
+(
+    SUM ( 'sptrans fbussubwaycptm'[Seg] )
+        + SUM ( 'sptrans fbussubwaycptm'[Ter] )
+        + SUM ( 'sptrans fbussubwaycptm'[Qua] )
+        + SUM ( 'sptrans fbussubwaycptm'[Qui] )
+        + SUM ( 'sptrans fbussubwaycptm'[Sex] )
+        + SUM ( 'sptrans fbussubwaycptm'[Sab] )
+        + SUM ( 'sptrans fbussubwaycptm'[Dom] )
+)
+    * (
+        LOOKUPVALUE (
+            'sptrans dfareattributes'[price];
+            'sptrans dfareattributes'[fare_id]; "Ônibus + Metrô"
+        )
+            - CALCULATE (
+                MIN ( 'sptrans dfareattributes'[price] );
+                TREATAS (
+                    VALUES ( 'sptrans ffarerules'[fare_id] );
+                    'sptrans dfareattributes'[fare_id]
+                )
+            )
+    )
+
+
+
+Lucro Int.Onibus+Metrô+CPTM (BRL) =
+(
+    SUM ( 'sptrans fbussubwaycptmcompleto'[Seg] )
+        + SUM ( 'sptrans fbussubwaycptmcompleto'[Ter] )
+        + SUM ( 'sptrans fbussubwaycptmcompleto'[Qua] )
+        + SUM ( 'sptrans fbussubwaycptmcompleto'[Qui] )
+        + SUM ( 'sptrans fbussubwaycptmcompleto'[Sex] )
+        + SUM ( 'sptrans fbussubwaycptmcompleto'[Sab] )
+        + SUM ( 'sptrans fbussubwaycptmcompleto'[Dom] )
+)
+    * (
+        LOOKUPVALUE (
+            'sptrans dfareattributes'[price];
+            'sptrans dfareattributes'[fare_id]; "Ônibus + Metrô + CPTM"
+        )
+            - LOOKUPVALUE (
+                'sptrans dfareattributes'[price];
+                'sptrans dfareattributes'[fare_id]; "Ônibus + Metrô"
+            )
+    )
+
+
+
+Intervalo Planejado Medio (min) =
+AVERAGEX (
+    'sptrans ffrequencies';
+    DIVIDE ( 'sptrans ffrequencies'[headway_secs]; 60 )
+)
 // esperado: aprox. 12,87
-
-Tarifa Minima (BRL) = MIN ( dFareAttributes[price] )
-
-Tarifa Media (BRL) = AVERAGE ( dFareAttributes[price] )
-
-Tarifa Maxima (BRL) = MAX ( dFareAttributes[price] )
-
-Lucro Pass. Individual (BRL) = (SUM(fIndividualPass[Seg])+SUM(fIndividualPass[Ter])+SUM(fIndividualPass[Qua])+SUM(fIndividualPass[Qui])+SUM(fIndividualPass[Sex])+SUM(fIndividualPass[Sab])+SUM(fIndividualPass[Dom]))*CALCULATE(MIN(dFareAttributes[price]);TREATAS(VALUES(fFareRules[fare_id]);dFareAttributes[fare_id]))
-
-Lucro Int.Onibus+Metrô/CPTM (BRL) = (SUM(fBusSubwayCPTM[Seg])+SUM(fBusSubwayCPTM[Ter])+SUM(fBusSubwayCPTM[Qua])+SUM(fBusSubwayCPTM[Qui])+SUM(fBusSubwayCPTM[Sex])+SUM(fBusSubwayCPTM[Sab])+SUM(fBusSubwayCPTM[Dom]))*(LOOKUPVALUE(dFareAttributes[price];dFareAttributes[fare_id];"Ônibus + Metrô")-CALCULATE(MIN(dFareAttributes[price]);TREATAS(VALUES(fFareRules[fare_id]);dFareAttributes[fare_id])))
-
-Lucro Int.Onibus+Metrô+CPTM (BRL) = (SUM(fBusSubwayCPTMCompleto[Seg])+SUM(fBusSubwayCPTMCompleto[Ter])+SUM(fBusSubwayCPTMCompleto[Qua])+SUM(fBusSubwayCPTMCompleto[Qui])+SUM(fBusSubwayCPTMCompleto[Sex])+SUM(fBusSubwayCPTMCompleto[Sab])+SUM(fBusSubwayCPTMCompleto[Dom]))*(LOOKUPVALUE(dFareAttributes[price];dFareAttributes[fare_id];"Ônibus + Metrô + CPTM")-LOOKUPVALUE(dFareAttributes[price];dFareAttributes[fare_id];"Ônibus + Metrô"))
